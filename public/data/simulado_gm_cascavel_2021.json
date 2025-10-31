@@ -1,0 +1,762 @@
+[
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 1,
+    "enunciado": "Assinalar a alternativa que preenche as lacunas do texto CORRETAMENTE: \"São essas características que podem ________ de outras aves e ________ para a família dos dinossauros.\"",
+    "alternativas": {
+      "a": "diferenciá-los | levar-lhes",
+      "b": "diferenciá-los | levar-os",
+      "c": "diferenciar-lhes | levar-lhes",
+      "d": "diferenciar-os | levar-os",
+      "e": "diferenciá-los | levá-los"
+    },
+    "correta": "e",
+    "explicacao": "A regência e colocação pronominal exigem o uso do pronome oblíquo átono corretamente posicionado e com hífen quando ocorre ênclise a verbo no infinitivo com pronome “os”. Em “diferenciar” + “os” → “diferenciá-los”; e “levar” + “os” → “levá-los”, com acento agudo para manter a tonicidade da última sílaba do verbo no infinitivo. Assim, a dupla “diferenciá-los | levá-los” atende simultaneamente à regência (“diferenciar algo/alguém”; “levar algo/alguém”) e à norma de colocação pronominal no padrão culto."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 2,
+    "enunciado": "Em conformidade com o texto sobre o fóssil Oculudentavis, assinalar a alternativa INCORRETA:",
+    "alternativas": {
+      "a": "O fóssil encontrado seria de um dinossauro que viveu no período Cretáceo.",
+      "b": "Um exame realizado pelos cientistas mostrou que o dinossauro morreu na idade adulta.",
+      "c": "Os âmbares identificados com insetos, cobras e pedaços de dinossauros com penas foram encontrados nas florestas tropicais de Myanmar.",
+      "d": "O fóssil do dinossauro fez os pesquisadores acreditarem que ele se assemelhava a um beija-flor.",
+      "e": "As atividades de caça do pequeno dinossauro aconteceriam de modo noturno, conforme sugestão apresentada pelo formato de seu crânio."
+    },
+    "correta": "e",
+    "explicacao": "O texto afirma que o formato do crânio sugere um animal diurno (atividade “durante o dia”), com olhos adaptados para restringir a entrada excessiva de luz — característica típica de hábitos diurnos. Logo, a afirmação sobre atividades noturnas contraria a informação textual, o que a torna a alternativa pedida como incorreta."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 3,
+    "enunciado": "No trecho “A única certeza é que o fóssil pertence a um dinossauro...”, a oração sublinhada, em relação à oração principal, exprime ideia de:",
+    "alternativas": {
+      "a": "Sujeito.",
+      "b": "Objeto indireto.",
+      "c": "Complemento nominal.",
+      "d": "Predicativo.",
+      "e": "Aposto."
+    },
+    "correta": "d",
+    "explicacao": "Na construção “A única certeza é que o fóssil pertence a um dinossauro”, a oração subordinada substantiva introduzida por “que” exerce função de predicativo do sujeito “A única certeza”, completando o sentido do verbo de ligação “é” e atribuindo um conteúdo declarativo ao sujeito. Por isso, classifica-se como predicativa."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 4,
+    "enunciado": "Sobre a ocorrência ou não de crase, marcar C (Certo) ou E (Errado) e assinalar a alternativa com a sequência CORRETA:\n(_) Eles ficaram cara a cara naquela manhã nebulosa.\n(_) Falou à cada pessoa sobre seus medos.\n(_) Não disseram à ela toda a verdade.",
+    "alternativas": {
+      "a": "C - C - E.",
+      "b": "E - E - C.",
+      "c": "C - E - C.",
+      "d": "E - C - E.",
+      "e": "C - E - E."
+    },
+    "correta": "e",
+    "explicacao": "Em “cara a cara”, a expressão cristalizada indica encontro direto e não admite artigo, portanto não há crase (Certo). Em “à cada pessoa”, o pronome indefinido “cada” não admite artigo, logo não ocorre crase (Errado afirmar que há). Em “à ela”, pronomes pessoais retos não são precedidos de artigo, portanto não há crase (Errado afirmar que há). Assim, a sequência correta é C - E - E."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 5,
+    "enunciado": "Assinalar a alternativa cuja pontuação está CORRETA:",
+    "alternativas": {
+      "a": "Ninguém, disse ele foi capaz de mudar, seu modo de pensar.",
+      "b": "A verdade, que lhe parecia única, desmanchou-se aos seus pés.",
+      "c": "Nada, podia deter quem ele era verdadeiramente.",
+      "d": "O pai os filhos, e o avó foram ao parque de diversões.",
+      "e": "Permanecera imóvel, durante, todo o tempo."
+    },
+    "correta": "b",
+    "explicacao": "A alternativa (b) emprega corretamente as vírgulas para isolar a oração adjetiva explicativa “que lhe parecia única”, sem criar pausas indevidas no sujeito, no verbo ou no complemento. As demais inserem vírgulas que quebram relações sintáticas essenciais (sujeito–verbo, verbo–complemento), o que fere a pontuação normativa."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Raciocínio Lógico-Matemático",
+    "numero": 6,
+    "enunciado": "Considerando-se os algarismos 1, 3, 5, 7 e 9, ao todo, quantas senhas de cinco dígitos podem ser formadas utilizando-se apenas esses algarismos?",
+    "alternativas": {
+      "a": "3.125",
+      "b": "3.525",
+      "c": "3.725",
+      "d": "4.125",
+      "e": "4.525"
+    },
+    "correta": "a",
+    "explicacao": "Há 5 opções para cada uma das 5 posições e a repetição é permitida. Logo, o total é 5^5 = 3125. O princípio multiplicativo conta todas as sequências possíveis de tamanho 5 com elementos do conjunto {1,3,5,7,9}."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Raciocínio Lógico-Matemático",
+    "numero": 7,
+    "enunciado": "Sabendo-se que certo carro percorreu um total de 852 km e que o seu consumo médio é de 12 km por litro, quantos litros foram utilizados?",
+    "alternativas": {
+      "a": "60L",
+      "b": "70L",
+      "c": "71L",
+      "d": "72L",
+      "e": "73L"
+    },
+    "correta": "c",
+    "explicacao": "Consumo total = distância ÷ rendimento = 852 ÷ 12 = 71 litros. A divisão direta fornece a quantidade exata de combustível necessária para esse percurso com o consumo informado."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Raciocínio Lógico-Matemático",
+    "numero": 8,
+    "enunciado": "Uma escola possui 85 alunos; 58 fazem salsa e 42 fazem tango. Quantos fazem ambas as modalidades?",
+    "alternativas": {
+      "a": "13",
+      "b": "15",
+      "c": "17",
+      "d": "19",
+      "e": "20"
+    },
+    "correta": "b",
+    "explicacao": "Pela inclusão-exclusão: |Salsa ∪ Tango| = |Salsa| + |Tango| − |Salsa ∩ Tango|. Como todos são alunos da escola: 85 = 58 + 42 − x ⇒ x = 100 − 85 = 15. Logo, 15 alunos fazem as duas aulas."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Raciocínio Lógico-Matemático",
+    "numero": 9,
+    "enunciado": "A cidade tem 1.500.000 habitantes e 11% têm mais de 60 anos. Quantas pessoas têm mais de 60 anos?",
+    "alternativas": {
+      "a": "180.000",
+      "b": "175.000",
+      "c": "170.000",
+      "d": "165.000",
+      "e": "160.000"
+    },
+    "correta": "d",
+    "explicacao": "11% de 1.500.000 = 0,11 × 1.500.000 = 165.000. Percentual é a fração por 100; multiplicando o total por 0,11 obtemos o contingente desejado."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Raciocínio Lógico-Matemático",
+    "numero": 10,
+    "enunciado": "O triplo de X é igual ao quádruplo da terça parte de 36. Qual o valor de X?",
+    "alternativas": {
+      "a": "20",
+      "b": "19",
+      "c": "18",
+      "d": "17",
+      "e": "16"
+    },
+    "correta": "e",
+    "explicacao": "Terça parte de 36 é 12. O quádruplo de 12 é 48. Se 3X = 48, então X = 48 ÷ 3 = 16. É a solução direta da equação linear a partir da igualdade descrita."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Legislação Geral",
+    "numero": 11,
+    "enunciado": "Segundo a Constituição Federal sobre direitos e garantias fundamentais, assinale a alternativa CORRETA:",
+    "alternativas": {
+      "a": "É restrita a locomoção no território nacional em tempo de paz.",
+      "b": "É plena a liberdade de associação para fins lícitos, sendo permitida a de caráter paramilitar.",
+      "c": "Aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, sendo intransmissível aos herdeiros.",
+      "d": "As entidades associativas têm legitimidade para representar seus filiados judicial ou extrajudicialmente, independentemente de autorização.",
+      "e": "No caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano."
+    },
+    "correta": "e",
+    "explicacao": "O art. 5º, XXV, da Constituição prevê que, em caso de iminente perigo público, a autoridade competente pode usar propriedade particular, assegurando ao proprietário indenização ulterior se houver dano. Trata-se de limitação administrativa fundada no interesse público, compatível com o regime constitucional de direitos e garantias."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Legislação Geral",
+    "numero": 12,
+    "enunciado": "De acordo com a Constituição Federal, é livre a associação profissional ou sindical. Assinale a alternativa CORRETA:",
+    "alternativas": {
+      "a": "Ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, exceto em questões judiciais ou administrativas.",
+      "b": "Ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato.",
+      "c": "É facultativa a participação dos sindicatos nas negociações coletivas de trabalho.",
+      "d": "O aposentado filiado não tem direito a votar e ser votado nas organizações sindicais.",
+      "e": "É vedada a dispensa do empregado sindicalizado a partir do registro da candidatura [...] mesmo se cometer falta grave nos termos da lei."
+    },
+    "correta": "b",
+    "explicacao": "O art. 8º, V, da Constituição consagra a liberdade de filiação sindical, vedando a obrigatoriedade de filiar-se ou manter-se filiado. Essa liberdade é pilar da organização sindical no Brasil e protege escolhas individuais dos trabalhadores."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Legislação Geral",
+    "numero": 13,
+    "enunciado": "Direitos políticos. Marcar C (certo) ou E (errado):\n(_) O alistamento eleitoral e o voto são obrigatórios para os maiores de setenta anos.\n(_) Não podem se alistar os estrangeiros e, durante o serviço militar obrigatório, os conscritos.\n(_) São inelegíveis os alistáveis e os analfabetos.",
+    "alternativas": {
+      "a": "E - C - E.",
+      "b": "C - E - E.",
+      "c": "C - E - C.",
+      "d": "E - C - C.",
+      "e": "C - C - E."
+    },
+    "correta": "a",
+    "explicacao": "A CF/88 (art. 14) torna o voto facultativo para maiores de 70 anos (logo, não é obrigatório), veda alistamento a estrangeiros e a conscritos durante o serviço militar obrigatório, e não torna inelegível quem é “alistável”; são inelegíveis os inalistáveis e os analfabetos. Assim, a sequência correta é E - C - E."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Legislação Geral",
+    "numero": 14,
+    "enunciado": "Fundamentos (1) e objetivos fundamentais (2) da República. Relacione e assinale a sequência CORRETA:\n(_) Valores sociais do trabalho e da livre iniciativa.\n(_) Erradicar a pobreza e reduzir desigualdades sociais e regionais.\n(_) Promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade ou outras formas de discriminação.",
+    "alternativas": {
+      "a": "1 - 2 - 2.",
+      "b": "1 - 1 - 2.",
+      "c": "2 - 1 - 1.",
+      "d": "2 - 2 - 1.",
+      "e": "1 - 2 - 1."
+    },
+    "correta": "a",
+    "explicacao": "Os “valores sociais do trabalho e da livre iniciativa” são fundamento (art. 1º, IV). “Erradicar a pobreza e reduzir as desigualdades” (art. 3º, III) e “promover o bem de todos, sem preconceitos” (art. 3º, IV) são objetivos fundamentais. Assim, a sequência é 1 - 2 - 2."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Legislação Geral",
+    "numero": 15,
+    "enunciado": "Lei Municipal nº 2.215/1991 (Regime Jurídico Servidores de Cascavel) – servidor em mandato eletivo. Está(ão) correto(s):",
+    "alternativas": {
+      "a": "Somente o item I.",
+      "b": "Somente o item II.",
+      "c": "Somente os itens I e II.",
+      "d": "Somente os itens I e III.",
+      "e": "Somente os itens II e III."
+    },
+    "correta": "e",
+    "explicacao": "O regime local assegura afastamento com opção remuneratória quando investido em Prefeito ou Vereador e cômputo de tempo para todos os efeitos legais, exceto promoção e licença-prêmio (itens II e III). Já no caso de mandato federal, estadual ou distrital, não há garantia de permanecer com “respectivos vencimentos” (o que invalida o item I), prevalecendo regras específicas de afastamento e opção."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Legislação Geral",
+    "numero": 16,
+    "enunciado": "Lei Municipal nº 2.215/1991 – adicional de insalubridade: para o grau mínimo, o percentual devido é:",
+    "alternativas": {
+      "a": "20%.",
+      "b": "40%.",
+      "c": "50%.",
+      "d": "60%.",
+      "e": "100%."
+    },
+    "correta": "a",
+    "explicacao": "O diploma municipal fixa faixas percentuais conforme o grau de insalubridade. Para o grau mínimo, a base é 20%, compatível com a gradação usual (mínimo, médio e máximo) aplicada ao vencimento-base do servidor nas hipóteses previstas em regulamento."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Legislação Geral",
+    "numero": 17,
+    "enunciado": "Lei Municipal nº 2.215/1991 – deveres do servidor. Assinale a EXCEÇÃO:",
+    "alternativas": {
+      "a": "Obedecer às ordens superiores, representando por escrito contra as manifestamente ilegais.",
+      "b": "Zelar pela economia e conservação do material que lhe for confiado.",
+      "c": "Apresentar-se ao serviço asseado e convenientemente trajado ou uniformizado.",
+      "d": "Divulgar assuntos sobre a Administração quando resguardados por sigilo.",
+      "e": "Sugerir providências para melhoria e aperfeiçoamento do serviço."
+    },
+    "correta": "d",
+    "explicacao": "O dever funcional impõe resguardar o sigilo administrativo quando houver restrição legal de publicidade. Portanto, “divulgar assuntos resguardados por sigilo” contraria diretamente o dever de proteção à informação sigilosa, sendo a alternativa excepcionada."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Legislação Geral",
+    "numero": 18,
+    "enunciado": "Lei Municipal nº 2.215/1991 – horário noturno: Complete. \"A partir das ____ horas até às ____ horas da manhã, cada ____ minutos e ____ segundos serão remunerados como uma hora.\"",
+    "alternativas": {
+      "a": "22 | 05 | 52 | 30",
+      "b": "23 | 06 | 30 | 30",
+      "c": "21 | 07 | 50 | 50",
+      "d": "20 | 08 | 52 | 30",
+      "e": "22 | 06 | 30 | 50"
+    },
+    "correta": "a",
+    "explicacao": "A norma municipal adota a redução ficta da hora noturna no intervalo de 22h às 5h, em que cada 52 minutos e 30 segundos equivalem a 1 hora para fins remuneratórios, refletindo a compensação típica do labor noturno."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Noções de Segurança do Trabalho",
+    "numero": 19,
+    "enunciado": "NR 16 – Atividades perigosas: a definição que descreve a preservação do patrimônio e da incolumidade física de pessoas em estabelecimentos públicos ou privados refere-se a:",
+    "alternativas": {
+      "a": "Vigilância patrimonial.",
+      "b": "Segurança pessoal.",
+      "c": "Escolta amarda.",
+      "d": "Segurança ambiental.",
+      "e": "Telemonitoramento/telecontrole."
+    },
+    "correta": "a",
+    "explicacao": "A vigilância patrimonial compreende atividades voltadas à proteção de bens e pessoas em estabelecimentos públicos e privados, enquadrando-se no conceito da NR 16 para fins de caracterização de periculosidade nas atividades de segurança patrimonial."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Noções de Segurança do Trabalho",
+    "numero": 20,
+    "enunciado": "NR 17 – Ergonomia: Avalie as três partes da sentença sobre postos de trabalho em pé, mobiliário de checkout e condições ambientais. A sentença está:",
+    "alternativas": {
+      "a": "Correta somente em sua 1ª parte.",
+      "b": "Correta somente em sua 3ª parte.",
+      "c": "Correta somente em suas 1ª e 2ª partes.",
+      "d": "Correta somente em suas 1ª e 3ª partes.",
+      "e": "Correta somente em suas 2ª e 3ª partes."
+    },
+    "correta": "e",
+    "explicacao": "A NR 17 recomenda disponibilizar assentos para descanso quando possível e adequar mobiliário e espaço para alternância de posturas no posto de trabalho (itens 2ª e 3ª partes). A 1ª parte contraria a orientação ao afirmar que “não devem ser colocados assentos”, razão pela qual apenas a 2ª e a 3ª partes estão corretas."
+  },
+  {
+    "origem": {
+      "cidade": "Curitiba",
+      "ano": 2025,
+      "banca": "AOCP"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 21,
+    "enunciado": "(Questão semelhante – CTB) Segundo o Código de Trânsito Brasileiro, constitui infração gravíssima conduzir veículo com a capacidade psicomotora alterada em razão da influência de álcool, com concentração igual ou superior a 0,3 mg de álcool por litro de ar alveolar. Qual é, em regra, a penalidade principal prevista?",
+    "alternativas": {
+      "a": "Multa (dez vezes) e suspensão do direito de dirigir.",
+      "b": "Advertência por escrito.",
+      "c": "Multa simples, sem medidas administrativas.",
+      "d": "Multa e detenção de um a quatro anos.",
+      "e": "Apreensão do veículo apenas."
+    },
+    "correta": "a",
+    "explicacao": "O CTB estabelece, para conduzir sob influência de álcool em nível criminalmente relevante, penalidade administrativa de multa (dez vezes) e suspensão do direito de dirigir, além das medidas administrativas cabíveis (recolhimento da CNH e retenção do veículo). A alternativa descreve a penalidade administrativa principal prevista no CTB."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 22,
+    "enunciado": "CTB – Classificação de infrações: relacione as condutas de estacionamento com as classes de infração e assinale a sequência CORRETA:\n(1) leve (2) média (3) grave (4) gravíssima\n(_) Nas esquinas e a menos de cinco metros do alinhamento da via transversal.\n(_) Na pista de rolamento de estradas, rodovias, vias de trânsito rápido e vias dotadas de acostamento.\n(_) Onde houver guia rebaixada destinada à entrada ou saída de veículos.",
+    "alternativas": {
+      "a": "1 - 3 - 4.",
+      "b": "2 - 3 - 2.",
+      "c": "3 - 1 - 4.",
+      "d": "2 - 4 - 2.",
+      "e": "2 - 3 - 1."
+    },
+    "correta": "d",
+    "explicacao": "Estacionar nas esquinas e a menos de 5 m do alinhamento é infração média; na pista de rolamento de rodovias, vias rápidas etc., é gravíssima; diante de guia rebaixada destinada a acesso de veículos, é média. Assim, a sequência correta é 2 - 4 - 2, conforme tipificação do CTB e regulamentos correlatos."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 23,
+    "enunciado": "Decreto nº 9.847/2019 – armas de fogo: Marcar C (certo) ou E (errado):\n(_) Armas dissimuladas, com aparência de objetos inofensivos, são de uso proibido.\n(_) Armas que, por dimensões/peso, podem ser transportadas por uma pessoa, como fuzil e espingarda, são de porte.\n(_) Munições traçantes, perfurantes ou fumígenas são de uso restrito.",
+    "alternativas": {
+      "a": "E - C - E.",
+      "b": "C - E - E.",
+      "c": "E - C - C.",
+      "d": "C - E - C.",
+      "e": "E - E - C."
+    },
+    "correta": "d",
+    "explicacao": "O regulamento classifica armas dissimuladas como de uso proibido (Certo); fuzil, carabina e espingarda são armas de uso restrito/longas, não se classificando como “armas de porte”, que são curtas (Errado); munições traçantes, perfurantes e fumígenas são de uso restrito (Certo). Logo, C - E - C."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 24,
+    "enunciado": "ECA – viagens: Avalie a sentença com três partes sobre autorização judicial. A sentença está:",
+    "alternativas": {
+      "a": "Correta somente em sua 2ª parte.",
+      "b": "Correta somente em sua 3ª parte.",
+      "c": "Correta somente em suas 1ª e 2ª partes.",
+      "d": "Correta somente em suas 1ª e 3ª partes.",
+      "e": "Correta somente em suas 2ª e 3ª partes."
+    },
+    "correta": "c",
+    "explicacao": "O ECA exige autorização judicial para viagem de menor de 16 anos para fora da comarca desacompanhado (1ª parte) e veda saída do País com estrangeiro residente no exterior sem autorização (2ª parte). Já a 3ª parte é incorreta porque, estando acompanhado de ambos os pais ou responsável, em regra não se exige autorização judicial. Portanto, estão corretas apenas a 1ª e a 2ª partes."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 25,
+    "enunciado": "Estatuto do Idoso – medidas de proteção e procedimentos. Está(ão) correto(s):",
+    "alternativas": {
+      "a": "Somente o item I.",
+      "b": "Somente o item II.",
+      "c": "Somente os itens I e II.",
+      "d": "Somente os itens I e III.",
+      "e": "Somente os itens II e III."
+    },
+    "correta": "d",
+    "explicacao": "As medidas de proteção aplicam-se quando direitos do idoso forem ameaçados ou violados por ação/omissão da sociedade ou do Estado (I). Verificada ameaça ou violação, o MP ou o Judiciário, a requerimento do idoso, pode determinar abrigo em entidade (III). O procedimento administrativo não depende de “requisição do próprio idoso assinada por duas testemunhas”, como sugere o II."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 26,
+    "enunciado": "Lei nº 10.826/2003 (Estatuto do Desarmamento): Avalie as três partes. A sentença está:",
+    "alternativas": {
+      "a": "Correta somente em sua 2ª parte.",
+      "b": "Correta somente em sua 3ª parte.",
+      "c": "Correta somente em suas 1ª e 2ª partes.",
+      "d": "Correta somente em suas 1ª e 3ª partes.",
+      "e": "Correta somente em suas 2ª e 3ª partes."
+    },
+    "correta": "e",
+    "explicacao": "O Estatuto veda a fabricação/comercialização de simulacros que possam ser confundidos com armas de fogo (1ª parte está incorreta). Já a entrega voluntária de armas regularmente adquiridas, com recibo e indenização, está prevista (2ª parte), assim como a extinção da punibilidade na entrega espontânea de posse irregular, com indenização conforme regulamento (3ª parte). Portanto, corretas apenas 2ª e 3ª partes."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 27,
+    "enunciado": "Lei Maria da Penha (Lei nº 11.340/2006): No atendimento à mulher, são providências da autoridade policial:",
+    "alternativas": {
+      "a": "Somente o item I.",
+      "b": "Somente o item II.",
+      "c": "Somente os itens I e II.",
+      "d": "Somente os itens I e III.",
+      "e": "Somente os itens II e III."
+    },
+    "correta": "e",
+    "explicacao": "A autoridade deve encaminhar a ofendida ao serviço de saúde e ao IML quando necessário (II) e providenciar transporte para abrigo/local seguro quando houver risco de vida (III). A comunicação de proteção policial não é dirigida ao Poder Legislativo, mas às autoridades competentes do sistema de justiça, razão pela qual o item I não se confirma."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 28,
+    "enunciado": "Lei nº 13.022/2014 (Estatuto Geral das Guardas) – competências específicas. Marcar C (competência) ou E (não é) e assinale a sequência CORRETA:",
+    "alternativas": {
+      "a": "E - C - E.",
+      "b": "C - E - E.",
+      "c": "E - C - C.",
+      "d": "C - C - E.",
+      "e": "E - E - C."
+    },
+    "correta": "e",
+    "explicacao": "Atuar paliativa e pontualmente na proteção da população usuária de bens/serviços municipais é competência (E está incorreto para a 1ª frase). “Colaborar com a intensificação de conflitos” contraria o dever de preservar direitos e pacificação (não é competência). Interagir com a sociedade civil para soluções locais é competência típica. Assim, E - E - C."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 29,
+    "enunciado": "Lei nº 13.675/2018 – PNSPDS. São diretrizes, entre outras:",
+    "alternativas": {
+      "a": "Somente o item I.",
+      "b": "Somente o item II.",
+      "c": "Somente os itens I e II.",
+      "d": "Somente os itens I e III.",
+      "e": "Somente os itens II e III."
+    },
+    "correta": "d",
+    "explicacao": "A Política Nacional estabelece atendimento imediato ao cidadão (I) e fortalecimento das instituições de segurança por investimentos e projetos estruturantes/inovação (III). A diretriz é reduzir a letalidade violenta, não ampliá-la; por isso, o item II não se confirma."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 30,
+    "enunciado": "Lei nº 13.869/2019 – abuso de autoridade: decretar condução coercitiva de testemunha/investigado sem prévia intimação ou manifestamente descabida tem pena de:",
+    "alternativas": {
+      "a": "detenção, de um a quatro anos, e multa",
+      "b": "multa, apenas",
+      "c": "detenção, de quatro a oito anos, apenas",
+      "d": "detenção, de um a quatro anos, apenas",
+      "e": "detenção, de quatro a sete anos, e multa"
+    },
+    "correta": "a",
+    "explicacao": "A lei tipifica a condução coercitiva abusiva com pena de detenção de 1 a 4 anos e multa, refletindo a gravidade da constrição ilegal de liberdade sem observância das garantias processuais básicas."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 31,
+    "enunciado": "Decreto Municipal nº 14.872/2019 – manifestações essenciais da disciplina. Está(ão) correto(s):",
+    "alternativas": {
+      "a": "Somente o item I.",
+      "b": "Somente o item IV.",
+      "c": "Somente os itens II e III.",
+      "d": "Somente os itens I, II e IV.",
+      "e": "Somente os itens II, III e IV."
+    },
+    "correta": "e",
+    "explicacao": "A disciplina institucional exige colaboração espontânea à disciplina coletiva, correção de atitudes e resistência (e não “irresistência”) às leis e regulamentos, traduzindo compromisso ético e observância normativa. Por isso, confirmam-se II, III e IV."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 32,
+    "enunciado": "Decreto Municipal nº 13.528/2017 – Ouvidoria da Guarda Municipal: Complete a lacuna.\n\"A Ouvidoria será o canal de comunicação __________ entre a sociedade e o Departamento da Guarda Municipal [...], ____________ a participação do cidadão [...]. Ela deverá encaminhar à _____________ [...]\"",
+    "alternativas": {
+      "a": "direta | inibindo | Corregedoria",
+      "b": "indireta | inibindo | Corregedoria",
+      "c": "direta | estimulando | Corregedoria",
+      "d": "indireta | inibindo | Prefeitura",
+      "e": "direta | estimulando | Prefeitura"
+    },
+    "correta": "c",
+    "explicacao": "O desenho institucional da Ouvidoria privilegia comunicação direta com a sociedade, com estímulo à participação cidadã no controle/avaliação dos serviços, remetendo as ocorrências à Corregedoria para apuração e providências, reforçando transparência e controle interno."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 33,
+    "enunciado": "Lei Municipal nº 6.532/2015 – funcionamento e atribuições da Guarda Municipal. A sentença está:",
+    "alternativas": {
+      "a": "Correta somente em sua 2ª parte.",
+      "b": "Correta somente em sua 3ª parte.",
+      "c": "Correta somente em suas 1ª e 2ª partes.",
+      "d": "Correta somente em suas 1ª e 3ª partes.",
+      "e": "Correta somente em suas 2ª e 3ª partes."
+    },
+    "correta": "a",
+    "explicacao": "É atribuição da Guarda zelar pelos bens, equipamentos e prédios públicos municipais (2ª parte). A 1ª e a 3ª partes contêm impropriedades: a função não é “eminentemente paliativa”, e a Corregedoria atua como órgão interno de controle, mas não como “controle externo independente” da direção."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 34,
+    "enunciado": "Poder de polícia administrativa – Avalie a sentença com três partes. A sentença está:",
+    "alternativas": {
+      "a": "Correta somente em sua 2ª parte.",
+      "b": "Correta somente em sua 3ª parte.",
+      "c": "Correta somente em suas 1ª e 2ª partes.",
+      "d": "Correta somente em suas 1ª e 3ª partes.",
+      "e": "Correta somente em suas 2ª e 3ª partes."
+    },
+    "correta": "e",
+    "explicacao": "O poder de polícia decorre da supremacia do interesse público sobre o privado (2ª parte) e condiciona o exercício de direitos individuais ao bem-estar coletivo (3ª parte). A 1ª parte é inadequada porque não se trata de “detrimento”, mas de delimitação razoável e proporcional ao interesse público."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 35,
+    "enunciado": "Improbidade administrativa – enriquecimento ilícito: É considerado ato de improbidade perceber vantagem econômica para ___________ a liberação ou aplicação de verba pública de qualquer natureza.",
+    "alternativas": {
+      "a": "intermediar",
+      "b": "coibir",
+      "c": "inibir",
+      "d": "impedir",
+      "e": "atrapalhar"
+    },
+    "correta": "a",
+    "explicacao": "Enriquecimento ilícito abrange receber vantagem para intermediar a liberação/aplicação de verba pública, valendo-se do cargo ou função. A conduta mercantiliza o acesso a recursos estatais e viola os princípios da administração, configurando ato ímprobo."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 36,
+    "enunciado": "Medidas preventivas contra sinistros e desordens. Está(ão) correto(s):",
+    "alternativas": {
+      "a": "Somente o item II.",
+      "b": "Somente o item III.",
+      "c": "Somente os itens I e II.",
+      "d": "Somente os itens I e III.",
+      "e": "Somente os itens II e III."
+    },
+    "correta": "c",
+    "explicacao": "Em hospitais, equilíbrio emocional é essencial; em escolas, atenção a pessoas estranhas e ilícitos no entorno é medida preventiva (I e II). Afirmar que jamais se deve acionar a polícia em emergências é temerário; a atuação integrada é recomendada, razão pela qual o item III não se confirma."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 37,
+    "enunciado": "Preservação do patrimônio cultural: Complete. \"O Poder Público [...] promoverá e protegerá o patrimônio cultural por meio de inventários, registros, vigilância, tombamento e _____________ [...]. O Estado ____________ as manifestações das culturas populares, indígenas e afro-brasileiras, e de outros grupos participantes do processo civilizatório nacional.\"",
+    "alternativas": {
+      "a": "desapropriação | protegerá",
+      "b": "venda | protegerá",
+      "c": "desapropriação | impedirá",
+      "d": "venda | impedirá",
+      "e": "desapropriação | regulará"
+    },
+    "correta": "a",
+    "explicacao": "A Constituição prevê a desapropriação como instrumento de tutela do patrimônio cultural e determina que o Estado protegerá as manifestações culturais dos diversos grupos sociais, assegurando sua promoção e preservação."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 38,
+    "enunciado": "Atendimento e auxílio ao público – Marcar C (certo) ou E (errado):\n(_) Recomenda-se estimular a discussão e o confronto.\n(_) Deve-se evitar comentar rotinas e métodos de segurança em locais de circulação do público.\n(_) Informação precisa proporciona credibilidade e segurança do serviço.",
+    "alternativas": {
+      "a": "C - C - E.",
+      "b": "E - E - C.",
+      "c": "C - E - E.",
+      "d": "E - C - C.",
+      "e": "E - C - E."
+    },
+    "correta": "d",
+    "explicacao": "Estimular confronto é contrário à postura profissional (Errado). Evitar comentar métodos de segurança em público preserva a eficácia do serviço (Certo). Informação precisa aumenta credibilidade e segurança percebida (Certo). Portanto, E - C - C."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 39,
+    "enunciado": "Primeiros socorros – medidas iniciais. Está(ão) correto(s):",
+    "alternativas": {
+      "a": "Somente o item I.",
+      "b": "Somente o item III.",
+      "c": "Somente os itens I e II.",
+      "d": "Somente os itens I e III.",
+      "e": "Somente os itens II e III."
+    },
+    "correta": "d",
+    "explicacao": "A atuação inicial deve ser rápida e segura, avaliando riscos do local e isolando a área (I). Quem presta socorro deve conhecer limites de sua atuação, evitando procedimentos privativos de profissionais de saúde (III). A priorização não é “atender o menos urgente primeiro”; devem-se aplicar critérios de triagem."
+  },
+  {
+    "origem": {
+      "cidade": "Cascavel",
+      "ano": 2021,
+      "banca": "Objetiva"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 40,
+    "enunciado": "Limpeza e organização de armamento: A sentença com três partes está:",
+    "alternativas": {
+      "a": "Correta somente em sua 2ª parte.",
+      "b": "Correta somente em sua 3ª parte.",
+      "c": "Correta somente em suas 1ª e 2ª partes.",
+      "d": "Correta somente em suas 1ª e 3ª partes.",
+      "e": "Correta somente em suas 2ª e 3ª partes."
+    },
+    "correta": "c",
+    "explicacao": "A arma deve ser descarregada antes de qualquer limpeza (1ª parte correta). Após o uso, recomenda-se limpar cano e câmaras para remover resíduos como o chumbado (2ª parte correta). Excesso de lubrificante não é sinônimo de limpeza; ao contrário, pode comprometer o funcionamento (3ª parte incorreta). Assim, corretas a 1ª e a 2ª partes."
+  }
+]

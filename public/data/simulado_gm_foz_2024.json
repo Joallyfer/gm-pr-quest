@@ -1,0 +1,857 @@
+[
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 1,
+    "enunciado": "Sobre a reportagem que trata da lei de detectores de metais em rodoviárias do RJ, assinale a afirmativa correta.",
+    "alternativas": {
+      "a": "A lei está em vigor e vem sendo aplicada com apoio da PM.",
+      "b": "O texto informa que a lei foi aprovada, regulamentada, mas não foi efetivada na prática.",
+      "c": "A concessionária opera os detectores sem necessidade de poder de polícia.",
+      "d": "Os portais de detecção foram instalados em todas as rodoviárias.",
+      "e": "A PM assumiu a operação 24h dos equipamentos desde 1997."
+    },
+    "correta": "b",
+    "explicacao": "A reportagem relata a existência da lei e sua regulamentação, mas enfatiza que a execução nunca se concretizou: não há definição de quem deveria operar os equipamentos e a concessionária afirma não possuir poder de polícia, o que mantêm a lei “no papel”. Isso caracteriza a alternativa correta."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 2,
+    "enunciado": "Sobre a intenção comunicativa do texto e o uso do conector adversativo em “no entanto”, assinale a opção correta.",
+    "alternativas": {
+      "a": "O texto visa persuadir o leitor a favor da lei com apelos emotivos.",
+      "b": "O objetivo central é narrar um episódio ficcional sobre rodoviárias.",
+      "c": "“No entanto” introduz explicação causal do que se afirmou antes.",
+      "d": "A finalidade é informar que a lei existe, mas contrapor esse fato à sua não aplicação, marcada por “no entanto”.",
+      "e": "“No entanto” é conclusivo, equivalente a “portanto”."
+    },
+    "correta": "d",
+    "explicacao": "O texto é predominantemente informativo e expositivo. O conector “no entanto” desempenha valor adversativo, contrapondo a existência da lei e sua regulamentação à realidade de não implementação. Logo, a alternativa correta é a que associa a intenção informativa à oposição expressa pelo conector."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 3,
+    "enunciado": "Os sinais inseridos no corpo da reportagem indicam pausas distintas. Assinale a alternativa que apresenta, respectivamente, a melhor substituição para um travessão explicativo e para uma enumeração introduzida pelo redator.",
+    "alternativas": {
+      "a": "Vírgula e dois-pontos.",
+      "b": "Travessão e ponto-final.",
+      "c": "Ponto-final e ponto e vírgula.",
+      "d": "Ponto de exclamação e vírgula.",
+      "e": "Ponto de interrogação e travessão."
+    },
+    "correta": "b",
+    "explicacao": "O travessão pode introduzir explicação, comentário ou fala destacada; a substituição natural é mantê-lo (travessão) em vez de vírgula. Para encerrar período com enumeração já concluída, o ponto-final é o sinal adequado. Assim, a alternativa indicada preserva a função dos sinais."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 4,
+    "enunciado": "No segmento “barrar passageiros durante o embarque”, o verbo “barrar” pode ser substituído, sem alteração de sentido, por:",
+    "alternativas": {
+      "a": "Permitir.",
+      "b": "Possibilitar.",
+      "c": "Auxiliar.",
+      "d": "Gerar.",
+      "e": "Impedir."
+    },
+    "correta": "e",
+    "explicacao": "“Barrar” significa “impedir a passagem/entrada”, “obstar”. Dentre as opções, “impedir” preserva o núcleo semântico do verbo original, mantendo o sentido do trecho."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 5,
+    "enunciado": "Complete corretamente, quanto à crase e regência: “___ legislação, ___ norma, resposta ___ mídia...”.",
+    "alternativas": {
+      "a": "À – A – a",
+      "b": "A – À – à",
+      "c": "À – À – à",
+      "d": "A – À – a",
+      "e": "A – A – à"
+    },
+    "correta": "e",
+    "explicacao": "“A legislação” (sem crase, artigo definido feminino), “a norma” igualmente sem crase; já em “resposta à mídia”, há crase pelo encontro da preposição “a” (regência de “resposta”) com o artigo feminino “a” (“mídia” determinada). Sequência correta: A – A – à."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 6,
+    "enunciado": "Se em “as rodoviárias ... são obrigadas a instalarem detectores” o núcleo “rodoviárias” passar ao singular, quantas outras adequações são necessárias para manter a concordância?",
+    "alternativas": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "correta": "d",
+    "explicacao": "Passando “as rodoviárias” para “a rodoviária”, ajustes recaem sobre o verbo (“são”→“é”), o particípio/infinitivo flexionado indevido (“instalarem”→“instalar”), possíveis determinantes e pronomes correlatos no período. Contabilizam-se quatro ajustes para manter a concordância e a regência corretas no enunciado."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 7,
+    "enunciado": "Em “a concessionária, que não tem poder de polícia...”, o termo “que” classifica-se como:",
+    "alternativas": {
+      "a": "Pronome possessivo.",
+      "b": "Locução conjuntiva.",
+      "c": "Pronome relativo.",
+      "d": "Conjunção coordenativa adversativa.",
+      "e": "Conjunção subordinativa temporal."
+    },
+    "correta": "c",
+    "explicacao": "O “que” retoma “a concessionária” e introduz oração adjetiva explicativa, exercendo função de pronome relativo (retoma antecedente e conecta a subordinada à oração principal)."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 8,
+    "enunciado": "Assinale a palavra grafada de acordo com a ortografia vigente:",
+    "alternativas": {
+      "a": "Chaveiro.",
+      "b": "Bicicreta.",
+      "c": "Vacína.",
+      "d": "Presenssa.",
+      "e": "Lavavel."
+    },
+    "correta": "a",
+    "explicacao": "“Chaveiro” está correta. As demais apresentam erros: “bicicreta” (por “bicicleta”), “vacína” (acento indevido), “presenssa” (ss indevido), “lavavel” (deveria ser “lavável” com acento)."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 9,
+    "enunciado": "Sobre estrutura e fonologia:",
+    "alternativas": {
+      "a": "“Contradizer” é derivação sufixal.",
+      "b": "“Legalizado” e “ministério” têm 10 letras e 10 fonemas.",
+      "c": "“Guardião” tem 8 letras e 6 fonemas em razão de dois dígrafos.",
+      "d": "Apenas II e III estão corretas.",
+      "e": "I, II e III estão corretas."
+    },
+    "correta": "b",
+    "explicacao": "“Contradizer” forma-se por prefixação (contra + dizer), não por sufixação. “Legalizado” e “ministério” possuem número de letras e fonemas equivalentes nas contagens dadas. “Guardião” não reduz a 6 fonemas como proposto. Assim, a correta é a alternativa (b)."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 10,
+    "enunciado": "Assinale a frase na voz passiva analítica.",
+    "alternativas": {
+      "a": "O cão encontrou o osso no jardim.",
+      "b": "Mariana preparou um bolo delicioso.",
+      "c": "Uma obra de arte lindíssima foi criada pelo pintor.",
+      "d": "Os estudantes leram o livro na aula.",
+      "e": "O biólogo descobriu uma nova espécie."
+    },
+    "correta": "c",
+    "explicacao": "Na voz passiva analítica, o sujeito sofre a ação (“foi criada”) e o agente da passiva (“pelo pintor”) aparece explicitado. A alternativa (c) é o único período em voz passiva."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Matemática",
+    "numero": 11,
+    "enunciado": "Seja a expressão (3x + 4) · (3x − 4). Qual alternativa apresenta corretamente o resultado.",
+    "alternativas": {
+      "a": "3x",
+      "b": "9x",
+      "c": "3^4",
+      "d": "9x^2 − 16",
+      "e": "3x^2"
+    },
+    "correta": "d",
+    "explicacao": "Produto da soma pela diferença: (a+b)(a−b) = a^2 − b^2. Com a=3x e b=4: (3x)^2 − 4^2 = 9x^2 − 16."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Matemática",
+    "numero": 12,
+    "enunciado": "Em um transporte escolar viajam 10 pessoas: 5 pesam 55 kg, 3 pesam 64 kg e 2 pesam 72 kg. Qual a média ponderada (kg)?",
+    "alternativas": {
+      "a": "59,2",
+      "b": "61,1",
+      "c": "62,3",
+      "d": "63,6",
+      "e": "64,5"
+    },
+    "correta": "b",
+    "explicacao": "Média = (5·55 + 3·64 + 2·72)/10 = (275 + 192 + 144)/10 = 611/10 = 61,1 kg."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Matemática",
+    "numero": 13,
+    "enunciado": "Se p: “tenho tempo” e q: “irei à cidade”, qual proposição corresponde a p → q?",
+    "alternativas": {
+      "a": "Não tenho tempo e não irei à cidade.",
+      "b": "Tenho tempo e irei à cidade.",
+      "c": "Irei à cidade se, e somente se, tiver tempo.",
+      "d": "Não tenho tempo, então irei à cidade.",
+      "e": "Se tenho tempo, então irei à cidade."
+    },
+    "correta": "e",
+    "explicacao": "A condicional p→q lê-se “se p, então q”. Logo, “Se tenho tempo, então irei à cidade”. A bicondicional seria “se, e somente se”."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Matemática",
+    "numero": 14,
+    "enunciado": "O gráfico de temperatura de um forno atinge seu máximo em determinado tempo. Assinale a alternativa correta para o par (temperatura máxima; instante).",
+    "alternativas": {
+      "a": "120°C; 20 min",
+      "b": "150°C; 30 min",
+      "c": "150°C; 50 min",
+      "d": "180°C; 10 min",
+      "e": "200°C; 40 min"
+    },
+    "correta": "e",
+    "explicacao": "A leitura do gráfico indicado pelo enunciado aponta o ápice em 200°C por volta de 40 minutos. Portanto, (200°C; 40 min)."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Matemática",
+    "numero": 15,
+    "enunciado": "Na figura, quadrados de lado 3 cm e dois arcos de 1/4 de circunferência compõem o contorno. Use π = 3,1 e determine o perímetro.",
+    "alternativas": {
+      "a": "18,21",
+      "b": "21,30",
+      "c": "24,12",
+      "d": "27,51",
+      "e": "32,07"
+    },
+    "correta": "b",
+    "explicacao": "A soma de segmentos retilíneos (lados expostos) com os dois arcos de 1/4 resulta em meio perímetro de uma circunferência de raio 3 (πr = 3,1·3 = 9,3), acrescido dos trechos retilíneos (12 cm). Total ≈ 12 + 9,3 = 21,3 cm."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Informática",
+    "numero": 16,
+    "enunciado": "No Google Chrome (Painel Lateral), são opções disponíveis: Lista de leitura, Histórico e Favoritos (Marcadores). Quais estão corretas?",
+    "alternativas": {
+      "a": "Apenas I",
+      "b": "Apenas II",
+      "c": "Apenas III",
+      "d": "Apenas II e III",
+      "e": "I, II e III"
+    },
+    "correta": "e",
+    "explicacao": "O painel lateral do Chrome reúne Lista de leitura, Histórico e Favoritos/Marcadores. Logo, as três opções são verdadeiras."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Informática",
+    "numero": 17,
+    "enunciado": "No Gmail (Web), na janela de Nova Mensagem, qual opção NÃO aparece diretamente nesse composer?",
+    "alternativas": {
+      "a": "Inserir emoji",
+      "b": "Inserir foto",
+      "c": "Adicionar tarefa",
+      "d": "Inserir assinatura",
+      "e": "Opções de formatação"
+    },
+    "correta": "c",
+    "explicacao": "O composer traz formatação, anexos/imagens, emojis e assinaturas. “Adicionar tarefa” pertence ao Google Tasks/integrações, não é um controle do composer."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Informática",
+    "numero": 18,
+    "enunciado": "No Word 2016, a funcionalidade “Inserir Nota de Rodapé” está em qual guia da faixa de opções?",
+    "alternativas": {
+      "a": "Página Inicial",
+      "b": "Revisão",
+      "c": "Inserir",
+      "d": "Referências",
+      "e": "Exibir"
+    },
+    "correta": "d",
+    "explicacao": "As notas de rodapé e de fim estão concentradas na guia “Referências”, junto a citações, sumário e gerenciadores de fontes."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Informática",
+    "numero": 19,
+    "enunciado": "No Windows 10, a aba do Gerenciador de Tarefas exibida com gráficos de CPU, memória e discos é:",
+    "alternativas": {
+      "a": "Processos",
+      "b": "Desempenho",
+      "c": "Monitoramento",
+      "d": "Histórico",
+      "e": "Detalhes"
+    },
+    "correta": "b",
+    "explicacao": "A aba “Desempenho” exibe gráficos e métricas em tempo real de CPU, memória, rede, discos e GPU, diferentemente de “Processos”, que lista processos ativos."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Informática",
+    "numero": 20,
+    "enunciado": "Na planilha do Excel, ao usar AutoSoma na coluna exibida, qual será o resultado retornado?",
+    "alternativas": {
+      "a": "Soma dos valores numéricos imediatamente acima da célula selecionada",
+      "b": "Média da coluna inteira",
+      "c": "Mínimo da faixa selecionada",
+      "d": "Contagem de células não vazias",
+      "e": "Soma da linha ativa inteira"
+    },
+    "correta": "a",
+    "explicacao": "A ferramenta AutoSoma infere automaticamente a faixa com números contíguos acima (ou à esquerda) e aplica a função SOMA a esse intervalo."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 21,
+    "enunciado": "Segundo o CDC, a pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final denomina-se:",
+    "alternativas": {
+      "a": "Portador",
+      "b": "Comerciante",
+      "c": "Consumidor",
+      "d": "Falsário",
+      "e": "Atravessador"
+    },
+    "correta": "c",
+    "explicacao": "Art. 2º do CDC define “consumidor” como toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 22,
+    "enunciado": "Omitir dizeres ou sinais ostensivos sobre nocividade/periculosidade de produtos em embalagens, invólucros, recipientes ou publicidade constitui:",
+    "alternativas": {
+      "a": "Atentado contra o patrimônio público",
+      "b": "Infração penal",
+      "c": "Conduta meramente imoral",
+      "d": "Crime inimputável",
+      "e": "Lesão administrativa dolosa"
+    },
+    "correta": "b",
+    "explicacao": "Conduta tipificada na legislação de consumo e refletida no CP em determinados contextos, constituindo infração penal por colocar em risco a saúde/segurança do consumidor."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 23,
+    "enunciado": "A mulher que sofre violência patrimonial (retenção de bens e documentos) é protegida principalmente por qual legislação?",
+    "alternativas": {
+      "a": "Lei do Ventre Livre",
+      "b": "Código de Proteção Familiar",
+      "c": "Lei Estadual das Mulheres",
+      "d": "Lei Maria da Penha",
+      "e": "Código de Trânsito Profissional"
+    },
+    "correta": "d",
+    "explicacao": "A Lei 11.340/2006 (Lei Maria da Penha) tipifica e combate a violência doméstica e familiar, incluindo a violência patrimonial (retenção, subtração e destruição de bens e documentos)."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 24,
+    "enunciado": "No atendimento à mulher em situação de violência doméstica, NÃO é providência da autoridade policial:",
+    "alternativas": {
+      "a": "Comunicar imediatamente MP e Judiciário",
+      "b": "Encaminhar a ofendida ao serviço de saúde/IML",
+      "c": "Providenciar transporte para abrigo/local seguro quando houver risco",
+      "d": "Informar que é impossível conseguir assistência judiciária",
+      "e": "Garantir proteção policial quando necessário"
+    },
+    "correta": "d",
+    "explicacao": "A autoridade deve informar direitos e garantir acesso à rede de proteção. Afirmar impossibilidade de assistência judiciária contraria a legislação de proteção e o acesso à justiça."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 25,
+    "enunciado": "Transporte de pequena quantidade de maconha para consumo pessoal enseja a aplicação de:",
+    "alternativas": {
+      "a": "Advertência sobre os efeitos das drogas",
+      "b": "Prestação de serviço militar obrigatório",
+      "c": "Programa educativo por dois anos",
+      "d": "Proibição de prestar vestibular",
+      "e": "Retenção da CNH por seis meses"
+    },
+    "correta": "a",
+    "explicacao": "Lei 11.343/2006: usuário está sujeito a medidas educativas e advertência, sem pena privativa de liberdade, cabendo ao juiz aplicar as medidas adequadas ao caso concreto."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 26,
+    "enunciado": "A Lei 11.343/2006 instituiu:",
+    "alternativas": {
+      "a": "Serviço de Atenção aos Dependentes Químicos",
+      "b": "Conselho Intermunicipal Anti-Entorpecentes",
+      "c": "Sistema Nacional de Políticas Públicas sobre Drogas (Sisnad)",
+      "d": "Estatuto da Regulação Agrícola Ilegal",
+      "e": "Polícia Judiciária Especializada"
+    },
+    "correta": "c",
+    "explicacao": "O Sisnad articula princípios, regras, programas, ações e recursos humanos e materiais voltados às políticas sobre drogas, na prevenção, atenção e repressão qualificada."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 27,
+    "enunciado": "Idoso em situação de rua, sem família e sem meios de subsistência por enfermidades: qual a possibilidade de assistência financeira?",
+    "alternativas": {
+      "a": "Nenhuma antes dos 80 anos",
+      "b": "Apenas cesta básica",
+      "c": "Benefício mensal de 1 salário-mínimo (BPC/LOAS)",
+      "d": "Benefício condicionado à economia do município",
+      "e": "Apenas direito a abrigo municipal"
+    },
+    "correta": "c",
+    "explicacao": "O Benefício de Prestação Continuada (BPC/LOAS) garante 1 salário-mínimo ao idoso com 65 anos ou mais, sem meios próprios de subsistência, observados os critérios socioeconômicos."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 28,
+    "enunciado": "Para acessar a gratuidade nos transportes coletivos urbanos e semiurbanos, a pessoa idosa deve apresentar:",
+    "alternativas": {
+      "a": "Carteira de Trabalho",
+      "b": "Qualquer documento pessoal que comprove idade",
+      "c": "Cartão do Idoso obrigatório",
+      "d": "Carteira de Identidade exclusivamente",
+      "e": "Cartão de vacinação atualizado"
+    },
+    "correta": "b",
+    "explicacao": "A legislação assegura gratuidade mediante comprovação de idade por documento pessoal idôneo, sem restringir a um único documento específico (salvo regulamentos locais)."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 29,
+    "enunciado": "A suspeita ou confirmação de tratamento cruel contra criança/adolescente deve ser comunicada a:",
+    "alternativas": {
+      "a": "Movimento Universal dos Direitos Humanos",
+      "b": "Conselho Municipal do Jovem Infrator",
+      "c": "Associação dos Defensores das Crianças",
+      "d": "Juizado de Pequenas Causas Familiares",
+      "e": "Conselho Tutelar"
+    },
+    "correta": "e",
+    "explicacao": "O ECA determina comunicação imediata ao Conselho Tutelar, sem prejuízo de outras providências legais e comunicação às autoridades competentes."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 30,
+    "enunciado": "Constituem crimes previstos no ECA: auxiliar envio de criança ao exterior com fim lucrativo; filmar; e distribuir vídeos de sexo explícito com criança/adolescente. Quais estão corretos?",
+    "alternativas": {
+      "a": "Apenas I",
+      "b": "Apenas I e II",
+      "c": "Apenas I e III",
+      "d": "Apenas II e III",
+      "e": "I, II e III"
+    },
+    "correta": "e",
+    "explicacao": "Os três comportamentos são tipificados no ECA, dada a proteção integral à criança e ao adolescente contra exploração sexual e tráfico."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 31,
+    "enunciado": "Agente público pratica abuso de autoridade por vingança, reincide e é condenado à perda do cargo. A sentença se fundamenta porque:",
+    "alternativas": {
+      "a": "É crime hediondo",
+      "b": "Haveria dano de imagem apenas",
+      "c": "Houve reincidência e motivação pessoal estranha ao serviço",
+      "d": "É crime de ação inominada pública",
+      "e": "Confunde interesse privado com atividade pública"
+    },
+    "correta": "c",
+    "explicacao": "A Lei 13.869/2019 prevê efeitos da condenação, como perda do cargo e inabilitação, quando presentes circunstâncias como reincidência e dolo específico em prejuízo de terceiros."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 32,
+    "enunciado": "Servidor retira pessoa do recinto sem motivo (abuso). Um familiar tenta apresentar queixa 1 ano depois; não é acolhida porque:",
+    "alternativas": {
+      "a": "É ação penal pública condicionada",
+      "b": "MP não aceita queixa em ação pública",
+      "c": "Transcorreu o prazo para ação privada (queixa), que é do ofendido",
+      "d": "Apenas o ofendido pode denunciar",
+      "e": "O fato não é crime"
+    },
+    "correta": "c",
+    "explicacao": "Em hipóteses de ação penal privada, a queixa cabe ao ofendido e deve observar prazo decadencial. Passado o prazo, extingue-se a punibilidade, inviabilizando a queixa por terceiro."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 33,
+    "enunciado": "Competências das Guardas Municipais:",
+    "alternativas": {
+      "a": "Apenas I",
+      "b": "Apenas I e II",
+      "c": "Apenas I e III",
+      "d": "Apenas II e III",
+      "e": "I, II e III"
+    },
+    "correta": "b",
+    "explicacao": "Prevenir infrações e adotar medidas educativas/preventivas sobre patrimônio municipal e ambiental integram competências típicas. Interrogatório intensivo é atribuição investigativa, não da Guarda."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 34,
+    "enunciado": "Segundo a Lei 13.022/2014, as Guardas Municipais são instituições de caráter:",
+    "alternativas": {
+      "a": "Militar",
+      "b": "Paramilitar",
+      "c": "Civil",
+      "d": "Indefinido",
+      "e": "Geral"
+    },
+    "correta": "c",
+    "explicacao": "O Estatuto Geral define a natureza civil das Guardas Municipais, em consonância com o art. 144, §8º, da CF."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 35,
+    "enunciado": "Juizados Especiais (Lei 9.099/1995): quais competências estão corretas?",
+    "alternativas": {
+      "a": "Apenas I",
+      "b": "Apenas I e II",
+      "c": "Apenas I e III",
+      "d": "Apenas II e III",
+      "e": "I, II e III"
+    },
+    "correta": "b",
+    "explicacao": "Compete aos juizados o julgamento e a execução das infrações de menor potencial ofensivo (pena máxima até 2 anos, com ou sem multa). A afirmação III está incorreta."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 36,
+    "enunciado": "Documento lavrado pela autoridade ao tomar ciência de infração penal de menor potencial ofensivo, para encaminhamento imediato ao Juizado:",
+    "alternativas": {
+      "a": "Ficha de Anotação do Fato Ocorrido",
+      "b": "Termo Circunstanciado",
+      "c": "Inquérito Pericial",
+      "d": "Boletim Notificatório",
+      "e": "Sindicância Sumária"
+    },
+    "correta": "b",
+    "explicacao": "O Termo Circunstanciado (TC) substitui o inquérito nos casos de menor potencial ofensivo, agilizando o rito sumaríssimo nos Juizados Especiais Criminais."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 37,
+    "enunciado": "Estrangeiro comete roubo no Brasil e é preso durante a fuga. Segundo a lei penal, considera-se praticado o crime:",
+    "alternativas": {
+      "a": "No local da ação (Brasil)",
+      "b": "No país de destino da fuga, conforme tratado",
+      "c": "Varia conforme a gravidade",
+      "d": "Nos países da prisão",
+      "e": "No país de origem do autor"
+    },
+    "correta": "a",
+    "explicacao": "Aplica-se o princípio da territorialidade: o crime considera-se praticado no território em que ocorreu a ação ou omissão (Brasil), independentemente de nacionalidade do agente."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 38,
+    "enunciado": "Estatuto dos Servidores de Foz: completa as lacunas — considera-se acidente _____ o ocorrido durante a execução do trabalho (inclusive agressão física/moral com consequência psicológica), e acidente de _____ o ocorrido no trajeto residência-trabalho.",
+    "alternativas": {
+      "a": "laboral – percurso",
+      "b": "típico – trajeto",
+      "c": "violento – caminho",
+      "d": "laboral – rota",
+      "e": "consciente – transcurso"
+    },
+    "correta": "b",
+    "explicacao": "Terminologia consagrada: acidente “típico” (no exercício do trabalho) e acidente de “trajeto” (deslocamento residência–trabalho–residência)."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 39,
+    "enunciado": "A autoridade que tem ciência de irregularidade deve apurar imediatamente, assegurada ampla defesa ao servidor. O instrumento próprio é:",
+    "alternativas": {
+      "a": "Avaliação procedimental penal",
+      "b": "Conciliação procedimental",
+      "c": "Processo administrativo",
+      "d": "Regulamentação administrativa",
+      "e": "Controle profissional laborativo"
+    },
+    "correta": "c",
+    "explicacao": "A apuração de responsabilidade funcional se dá via processo administrativo disciplinar (PAD), garantindo contraditório e ampla defesa."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 40,
+    "enunciado": "No art. 5º da CF, “ninguém será submetido a tortura nem a tratamento desumano ou degradante” concretiza o fundamento:",
+    "alternativas": {
+      "a": "Dignidade da pessoa humana",
+      "b": "Soberania",
+      "c": "Cidadania",
+      "d": "Valores sociais do trabalho e da livre iniciativa",
+      "e": "Pluralismo político"
+    },
+    "correta": "a",
+    "explicacao": "A cláusula reforça o núcleo essencial da dignidade da pessoa humana, fundamento da República e vetor interpretativo dos direitos fundamentais."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 41,
+    "enunciado": "Chefia estabelece critérios para avaliar integrantes e a execução das atividades: princípio constitucional aplicado:",
+    "alternativas": {
+      "a": "Concorrência profissional",
+      "b": "Operacionalidade tática",
+      "c": "Pessoalidade jurídica",
+      "d": "Eficiência",
+      "e": "Publicidade com popularidade"
+    },
+    "correta": "d",
+    "explicacao": "A definição de metas e avaliação de desempenho materializa o princípio da eficiência, introduzido expressamente no caput do art. 37 da CF."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 42,
+    "enunciado": "“Racha” em via pública (corrida não autorizada). Segundo o CTB, a infração e suas consequências são:",
+    "alternativas": {
+      "a": "Média; multa (2x); suspensão e apreensão; recolhimento CNH e remoção",
+      "b": "Grave; multa (10x) e apreensão; recolhimento CNH",
+      "c": "Média; multa (5x) e suspensão; remoção",
+      "d": "Gravíssima; multa (2x) e apreensão; remoção",
+      "e": "Gravíssima; multa (10x); suspensão e apreensão; recolhimento CNH e remoção"
+    },
+    "correta": "e",
+    "explicacao": "O CTB tipifica as corridas não autorizadas como infração gravíssima, com penalidade de multa (dez vezes), suspensão do direito de dirigir e apreensão do veículo, além de medidas administrativas (recolhimento da CNH e remoção)."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 43,
+    "enunciado": "Como os órgãos executivos municipais asseguram mobilidade urbana eficiente?",
+    "alternativas": {
+      "a": "Patrulhamento apenas em áreas de tráfico",
+      "b": "Educação, engenharia e fiscalização de trânsito",
+      "c": "Redução das leis de trânsito",
+      "d": "Controle político das vias",
+      "e": "Somente educação"
+    },
+    "correta": "b",
+    "explicacao": "A tríade educação–engenharia–fiscalização estrutura a política de segurança e mobilidade viária, conforme diretrizes do SNT e do CTB."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 44,
+    "enunciado": "Sistema Nacional de Armas (Sinarm): a quem compete cadastrar transferências, extravio, furto, roubo e outras ocorrências que alterem dados cadastrais?",
+    "alternativas": {
+      "a": "Procuradoria-Geral da União",
+      "b": "Sistema Nacional de Controle de Armas Empresariais",
+      "c": "Departamento de Polícia Federal",
+      "d": "Comando Militar do Planalto",
+      "e": "Supremo Tribunal Federal"
+    },
+    "correta": "c",
+    "explicacao": "O Sinarm, no âmbito do Ministério da Justiça e Segurança Pública, é executado pelo Departamento de Polícia Federal, responsável pelos registros e atualizações cadastrais."
+  },
+  {
+    "origem": {
+      "cidade": "Foz do Iguaçu",
+      "ano": 2024,
+      "banca": "Fundatec"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 45,
+    "enunciado": "Comerciante se recusa a receber reais (moeda corrente) e exige pagamento em dólar. Segundo a legislação brasileira, trata-se de:",
+    "alternativas": {
+      "a": "Crime lesa-pátria",
+      "b": "Crime inafiançável ao patrimônio",
+      "c": "Contravenção penal referente à fé pública",
+      "d": "Suborno de valores legais",
+      "e": "Contravenção ininterrupta de moralidade"
+    },
+    "correta": "c",
+    "explicacao": "A recusa injustificada de moeda de curso legal afronta normas de fé pública, configurando contravenção penal, dada a obrigatoriedade de aceitação do meio circulante nacional nas transações."
+  }
+]

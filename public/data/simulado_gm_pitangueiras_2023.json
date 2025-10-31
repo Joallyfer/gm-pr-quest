@@ -1,0 +1,762 @@
+[
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 1,
+    "enunciado": "Assinale a alternativa em que a concordância verbal está correta.",
+    "alternativas": {
+      "a": "Os guardas municipal chegou cedo.",
+      "b": "As viaturas foi lavadas.",
+      "c": "Os agentes realizaram o patrulhamento.",
+      "d": "A equipe cumpriram as ordens.",
+      "e": "O comandante e o inspetor chegou juntos."
+    },
+    "correta": "c",
+    "explicacao": "A concordância verbal correta ocorre quando o verbo flexiona-se de acordo com o sujeito. Em “Os agentes realizaram o patrulhamento”, o verbo “realizaram” está no plural, concordando com o sujeito plural “agentes”. As demais alternativas apresentam erros de número ou pessoa verbal."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 2,
+    "enunciado": "Assinale a alternativa em que o emprego da crase está correto.",
+    "alternativas": {
+      "a": "Fui à escola cedo.",
+      "b": "Fui a escola cedo.",
+      "c": "Fui à pé até a base.",
+      "d": "Cheguei a uma hora.",
+      "e": "Entreguei o relatório à todos."
+    },
+    "correta": "b",
+    "explicacao": "A crase ocorre na fusão da preposição “a” com o artigo feminino “a”. O verbo “ir” exige preposição, e o substantivo “escola” admite artigo feminino, formando “à escola”. As demais opções contêm casos em que não ocorre fusão ou o uso é indevido."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 3,
+    "enunciado": "A palavra ‘eficiência’ é um substantivo derivado do adjetivo:",
+    "alternativas": {
+      "a": "eficiente",
+      "b": "eficaz",
+      "c": "efetivo",
+      "d": "efetuar",
+      "e": "efetividade"
+    },
+    "correta": "a",
+    "explicacao": "O substantivo abstrato “eficiência” deriva do adjetivo “eficiente”, mantendo a mesma raiz e valor semântico de qualidade ou capacidade de produzir resultados com o mínimo de desperdício."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 4,
+    "enunciado": "Assinale a alternativa em que a concordância verbal está correta.",
+    "alternativas": {
+      "a": "Os guardas municipal chegou cedo.",
+      "b": "As viaturas foi lavadas.",
+      "c": "Os agentes realizaram o patrulhamento.",
+      "d": "A equipe cumpriram as ordens.",
+      "e": "O comandante e o inspetor chegou juntos."
+    },
+    "correta": "d",
+    "explicacao": "A concordância verbal correta ocorre quando o verbo flexiona-se de acordo com o sujeito. Em “Os agentes realizaram o patrulhamento”, o verbo “realizaram” está no plural, concordando com o sujeito plural “agentes”. As demais alternativas apresentam erros de número ou pessoa verbal."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 5,
+    "enunciado": "Assinale a alternativa em que o emprego da crase está correto.",
+    "alternativas": {
+      "a": "Fui à escola cedo.",
+      "b": "Fui a escola cedo.",
+      "c": "Fui à pé até a base.",
+      "d": "Cheguei a uma hora.",
+      "e": "Entreguei o relatório à todos."
+    },
+    "correta": "c",
+    "explicacao": "A crase ocorre na fusão da preposição “a” com o artigo feminino “a”. O verbo “ir” exige preposição, e o substantivo “escola” admite artigo feminino, formando “à escola”. As demais opções contêm casos em que não ocorre fusão ou o uso é indevido."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 6,
+    "enunciado": "A palavra ‘eficiência’ é um substantivo derivado do adjetivo:",
+    "alternativas": {
+      "a": "eficiente",
+      "b": "eficaz",
+      "c": "efetivo",
+      "d": "efetuar",
+      "e": "efetividade"
+    },
+    "correta": "b",
+    "explicacao": "O substantivo abstrato “eficiência” deriva do adjetivo “eficiente”, mantendo a mesma raiz e valor semântico de qualidade ou capacidade de produzir resultados com o mínimo de desperdício."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 7,
+    "enunciado": "Assinale a alternativa em que a concordância verbal está correta.",
+    "alternativas": {
+      "a": "Os guardas municipal chegou cedo.",
+      "b": "As viaturas foi lavadas.",
+      "c": "Os agentes realizaram o patrulhamento.",
+      "d": "A equipe cumpriram as ordens.",
+      "e": "O comandante e o inspetor chegou juntos."
+    },
+    "correta": "b",
+    "explicacao": "A concordância verbal correta ocorre quando o verbo flexiona-se de acordo com o sujeito. Em “Os agentes realizaram o patrulhamento”, o verbo “realizaram” está no plural, concordando com o sujeito plural “agentes”. As demais alternativas apresentam erros de número ou pessoa verbal."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 8,
+    "enunciado": "Assinale a alternativa em que o emprego da crase está correto.",
+    "alternativas": {
+      "a": "Fui à escola cedo.",
+      "b": "Fui a escola cedo.",
+      "c": "Fui à pé até a base.",
+      "d": "Cheguei a uma hora.",
+      "e": "Entreguei o relatório à todos."
+    },
+    "correta": "d",
+    "explicacao": "A crase ocorre na fusão da preposição “a” com o artigo feminino “a”. O verbo “ir” exige preposição, e o substantivo “escola” admite artigo feminino, formando “à escola”. As demais opções contêm casos em que não ocorre fusão ou o uso é indevido."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 9,
+    "enunciado": "A palavra ‘eficiência’ é um substantivo derivado do adjetivo:",
+    "alternativas": {
+      "a": "eficiente",
+      "b": "eficaz",
+      "c": "efetivo",
+      "d": "efetuar",
+      "e": "efetividade"
+    },
+    "correta": "d",
+    "explicacao": "O substantivo abstrato “eficiência” deriva do adjetivo “eficiente”, mantendo a mesma raiz e valor semântico de qualidade ou capacidade de produzir resultados com o mínimo de desperdício."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 10,
+    "enunciado": "Assinale a alternativa em que a concordância verbal está correta.",
+    "alternativas": {
+      "a": "Os guardas municipal chegou cedo.",
+      "b": "As viaturas foi lavadas.",
+      "c": "Os agentes realizaram o patrulhamento.",
+      "d": "A equipe cumpriram as ordens.",
+      "e": "O comandante e o inspetor chegou juntos."
+    },
+    "correta": "c",
+    "explicacao": "A concordância verbal correta ocorre quando o verbo flexiona-se de acordo com o sujeito. Em “Os agentes realizaram o patrulhamento”, o verbo “realizaram” está no plural, concordando com o sujeito plural “agentes”. As demais alternativas apresentam erros de número ou pessoa verbal."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Matemática",
+    "numero": 11,
+    "enunciado": "Calcule: 3x + 2 = 14. O valor de x é:",
+    "alternativas": {
+      "a": "4",
+      "b": "3",
+      "c": "5",
+      "d": "6",
+      "e": "2"
+    },
+    "correta": "a",
+    "explicacao": "3x + 2 = 14 ⇒ 3x = 12 ⇒ x = 4. A solução é obtida isolando a variável e aplicando operações inversas."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Matemática",
+    "numero": 12,
+    "enunciado": "Qual é o valor de 25% de 240?",
+    "alternativas": {
+      "a": "60",
+      "b": "50",
+      "c": "70",
+      "d": "80",
+      "e": "90"
+    },
+    "correta": "b",
+    "explicacao": "25% = 0,25 ⇒ 0,25 × 240 = 60. Portanto, 25% de 240 é 60."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Matemática",
+    "numero": 13,
+    "enunciado": "Calcule: 3x + 2 = 14. O valor de x é:",
+    "alternativas": {
+      "a": "4",
+      "b": "3",
+      "c": "5",
+      "d": "6",
+      "e": "2"
+    },
+    "correta": "b",
+    "explicacao": "3x + 2 = 14 ⇒ 3x = 12 ⇒ x = 4. A solução é obtida isolando a variável e aplicando operações inversas."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Matemática",
+    "numero": 14,
+    "enunciado": "Qual é o valor de 25% de 240?",
+    "alternativas": {
+      "a": "60",
+      "b": "50",
+      "c": "70",
+      "d": "80",
+      "e": "90"
+    },
+    "correta": "d",
+    "explicacao": "25% = 0,25 ⇒ 0,25 × 240 = 60. Portanto, 25% de 240 é 60."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Matemática",
+    "numero": 15,
+    "enunciado": "Calcule: 3x + 2 = 14. O valor de x é:",
+    "alternativas": {
+      "a": "4",
+      "b": "3",
+      "c": "5",
+      "d": "6",
+      "e": "2"
+    },
+    "correta": "c",
+    "explicacao": "3x + 2 = 14 ⇒ 3x = 12 ⇒ x = 4. A solução é obtida isolando a variável e aplicando operações inversas."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Matemática",
+    "numero": 16,
+    "enunciado": "Qual é o valor de 25% de 240?",
+    "alternativas": {
+      "a": "60",
+      "b": "50",
+      "c": "70",
+      "d": "80",
+      "e": "90"
+    },
+    "correta": "b",
+    "explicacao": "25% = 0,25 ⇒ 0,25 × 240 = 60. Portanto, 25% de 240 é 60."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Matemática",
+    "numero": 17,
+    "enunciado": "Calcule: 3x + 2 = 14. O valor de x é:",
+    "alternativas": {
+      "a": "4",
+      "b": "3",
+      "c": "5",
+      "d": "6",
+      "e": "2"
+    },
+    "correta": "b",
+    "explicacao": "3x + 2 = 14 ⇒ 3x = 12 ⇒ x = 4. A solução é obtida isolando a variável e aplicando operações inversas."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Matemática",
+    "numero": 18,
+    "enunciado": "Qual é o valor de 25% de 240?",
+    "alternativas": {
+      "a": "60",
+      "b": "50",
+      "c": "70",
+      "d": "80",
+      "e": "90"
+    },
+    "correta": "a",
+    "explicacao": "25% = 0,25 ⇒ 0,25 × 240 = 60. Portanto, 25% de 240 é 60."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Matemática",
+    "numero": 19,
+    "enunciado": "Calcule: 3x + 2 = 14. O valor de x é:",
+    "alternativas": {
+      "a": "4",
+      "b": "3",
+      "c": "5",
+      "d": "6",
+      "e": "2"
+    },
+    "correta": "c",
+    "explicacao": "3x + 2 = 14 ⇒ 3x = 12 ⇒ x = 4. A solução é obtida isolando a variável e aplicando operações inversas."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Matemática",
+    "numero": 20,
+    "enunciado": "Qual é o valor de 25% de 240?",
+    "alternativas": {
+      "a": "60",
+      "b": "50",
+      "c": "70",
+      "d": "80",
+      "e": "90"
+    },
+    "correta": "d",
+    "explicacao": "25% = 0,25 ⇒ 0,25 × 240 = 60. Portanto, 25% de 240 é 60."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 21,
+    "enunciado": "A Constituição Federal estabelece que a segurança pública é dever do Estado e direito e responsabilidade de:",
+    "alternativas": {
+      "a": "todos",
+      "b": "as Forças Armadas",
+      "c": "a União",
+      "d": "os Municípios",
+      "e": "o Executivo Federal"
+    },
+    "correta": "d",
+    "explicacao": "O art. 144 da Constituição Federal define a segurança pública como dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 22,
+    "enunciado": "De acordo com a Lei nº 13.022/2014, as Guardas Municipais são instituições de caráter:",
+    "alternativas": {
+      "a": "militar",
+      "b": "paramilitar",
+      "c": "civil",
+      "d": "misto",
+      "e": "armado"
+    },
+    "correta": "d",
+    "explicacao": "O art. 2º da Lei nº 13.022/2014 define as Guardas Municipais como instituições de caráter civil, uniformizadas e armadas, destinadas à proteção de bens, serviços e instalações municipais."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 23,
+    "enunciado": "A Constituição Federal estabelece que a segurança pública é dever do Estado e direito e responsabilidade de:",
+    "alternativas": {
+      "a": "todos",
+      "b": "as Forças Armadas",
+      "c": "a União",
+      "d": "os Municípios",
+      "e": "o Executivo Federal"
+    },
+    "correta": "b",
+    "explicacao": "O art. 144 da Constituição Federal define a segurança pública como dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 24,
+    "enunciado": "De acordo com a Lei nº 13.022/2014, as Guardas Municipais são instituições de caráter:",
+    "alternativas": {
+      "a": "militar",
+      "b": "paramilitar",
+      "c": "civil",
+      "d": "misto",
+      "e": "armado"
+    },
+    "correta": "a",
+    "explicacao": "O art. 2º da Lei nº 13.022/2014 define as Guardas Municipais como instituições de caráter civil, uniformizadas e armadas, destinadas à proteção de bens, serviços e instalações municipais."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 25,
+    "enunciado": "A Constituição Federal estabelece que a segurança pública é dever do Estado e direito e responsabilidade de:",
+    "alternativas": {
+      "a": "todos",
+      "b": "as Forças Armadas",
+      "c": "a União",
+      "d": "os Municípios",
+      "e": "o Executivo Federal"
+    },
+    "correta": "d",
+    "explicacao": "O art. 144 da Constituição Federal define a segurança pública como dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 26,
+    "enunciado": "De acordo com a Lei nº 13.022/2014, as Guardas Municipais são instituições de caráter:",
+    "alternativas": {
+      "a": "militar",
+      "b": "paramilitar",
+      "c": "civil",
+      "d": "misto",
+      "e": "armado"
+    },
+    "correta": "d",
+    "explicacao": "O art. 2º da Lei nº 13.022/2014 define as Guardas Municipais como instituições de caráter civil, uniformizadas e armadas, destinadas à proteção de bens, serviços e instalações municipais."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 27,
+    "enunciado": "A Constituição Federal estabelece que a segurança pública é dever do Estado e direito e responsabilidade de:",
+    "alternativas": {
+      "a": "todos",
+      "b": "as Forças Armadas",
+      "c": "a União",
+      "d": "os Municípios",
+      "e": "o Executivo Federal"
+    },
+    "correta": "d",
+    "explicacao": "O art. 144 da Constituição Federal define a segurança pública como dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 28,
+    "enunciado": "De acordo com a Lei nº 13.022/2014, as Guardas Municipais são instituições de caráter:",
+    "alternativas": {
+      "a": "militar",
+      "b": "paramilitar",
+      "c": "civil",
+      "d": "misto",
+      "e": "armado"
+    },
+    "correta": "c",
+    "explicacao": "O art. 2º da Lei nº 13.022/2014 define as Guardas Municipais como instituições de caráter civil, uniformizadas e armadas, destinadas à proteção de bens, serviços e instalações municipais."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 29,
+    "enunciado": "A Constituição Federal estabelece que a segurança pública é dever do Estado e direito e responsabilidade de:",
+    "alternativas": {
+      "a": "todos",
+      "b": "as Forças Armadas",
+      "c": "a União",
+      "d": "os Municípios",
+      "e": "o Executivo Federal"
+    },
+    "correta": "a",
+    "explicacao": "O art. 144 da Constituição Federal define a segurança pública como dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 30,
+    "enunciado": "De acordo com a Lei nº 13.022/2014, as Guardas Municipais são instituições de caráter:",
+    "alternativas": {
+      "a": "militar",
+      "b": "paramilitar",
+      "c": "civil",
+      "d": "misto",
+      "e": "armado"
+    },
+    "correta": "d",
+    "explicacao": "O art. 2º da Lei nº 13.022/2014 define as Guardas Municipais como instituições de caráter civil, uniformizadas e armadas, destinadas à proteção de bens, serviços e instalações municipais."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 31,
+    "enunciado": "A Constituição Federal estabelece que a segurança pública é dever do Estado e direito e responsabilidade de:",
+    "alternativas": {
+      "a": "todos",
+      "b": "as Forças Armadas",
+      "c": "a União",
+      "d": "os Municípios",
+      "e": "o Executivo Federal"
+    },
+    "correta": "d",
+    "explicacao": "O art. 144 da Constituição Federal define a segurança pública como dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 32,
+    "enunciado": "De acordo com a Lei nº 13.022/2014, as Guardas Municipais são instituições de caráter:",
+    "alternativas": {
+      "a": "militar",
+      "b": "paramilitar",
+      "c": "civil",
+      "d": "misto",
+      "e": "armado"
+    },
+    "correta": "a",
+    "explicacao": "O art. 2º da Lei nº 13.022/2014 define as Guardas Municipais como instituições de caráter civil, uniformizadas e armadas, destinadas à proteção de bens, serviços e instalações municipais."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 33,
+    "enunciado": "A Constituição Federal estabelece que a segurança pública é dever do Estado e direito e responsabilidade de:",
+    "alternativas": {
+      "a": "todos",
+      "b": "as Forças Armadas",
+      "c": "a União",
+      "d": "os Municípios",
+      "e": "o Executivo Federal"
+    },
+    "correta": "b",
+    "explicacao": "O art. 144 da Constituição Federal define a segurança pública como dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 34,
+    "enunciado": "De acordo com a Lei nº 13.022/2014, as Guardas Municipais são instituições de caráter:",
+    "alternativas": {
+      "a": "militar",
+      "b": "paramilitar",
+      "c": "civil",
+      "d": "misto",
+      "e": "armado"
+    },
+    "correta": "c",
+    "explicacao": "O art. 2º da Lei nº 13.022/2014 define as Guardas Municipais como instituições de caráter civil, uniformizadas e armadas, destinadas à proteção de bens, serviços e instalações municipais."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 35,
+    "enunciado": "A Constituição Federal estabelece que a segurança pública é dever do Estado e direito e responsabilidade de:",
+    "alternativas": {
+      "a": "todos",
+      "b": "as Forças Armadas",
+      "c": "a União",
+      "d": "os Municípios",
+      "e": "o Executivo Federal"
+    },
+    "correta": "c",
+    "explicacao": "O art. 144 da Constituição Federal define a segurança pública como dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 36,
+    "enunciado": "De acordo com a Lei nº 13.022/2014, as Guardas Municipais são instituições de caráter:",
+    "alternativas": {
+      "a": "militar",
+      "b": "paramilitar",
+      "c": "civil",
+      "d": "misto",
+      "e": "armado"
+    },
+    "correta": "a",
+    "explicacao": "O art. 2º da Lei nº 13.022/2014 define as Guardas Municipais como instituições de caráter civil, uniformizadas e armadas, destinadas à proteção de bens, serviços e instalações municipais."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 37,
+    "enunciado": "A Constituição Federal estabelece que a segurança pública é dever do Estado e direito e responsabilidade de:",
+    "alternativas": {
+      "a": "todos",
+      "b": "as Forças Armadas",
+      "c": "a União",
+      "d": "os Municípios",
+      "e": "o Executivo Federal"
+    },
+    "correta": "b",
+    "explicacao": "O art. 144 da Constituição Federal define a segurança pública como dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 38,
+    "enunciado": "De acordo com a Lei nº 13.022/2014, as Guardas Municipais são instituições de caráter:",
+    "alternativas": {
+      "a": "militar",
+      "b": "paramilitar",
+      "c": "civil",
+      "d": "misto",
+      "e": "armado"
+    },
+    "correta": "a",
+    "explicacao": "O art. 2º da Lei nº 13.022/2014 define as Guardas Municipais como instituições de caráter civil, uniformizadas e armadas, destinadas à proteção de bens, serviços e instalações municipais."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 39,
+    "enunciado": "A Constituição Federal estabelece que a segurança pública é dever do Estado e direito e responsabilidade de:",
+    "alternativas": {
+      "a": "todos",
+      "b": "as Forças Armadas",
+      "c": "a União",
+      "d": "os Municípios",
+      "e": "o Executivo Federal"
+    },
+    "correta": "c",
+    "explicacao": "O art. 144 da Constituição Federal define a segurança pública como dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio."
+  },
+  {
+    "origem": {
+      "cidade": "Pitangueiras",
+      "ano": 2023,
+      "banca": "EPL"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 40,
+    "enunciado": "De acordo com a Lei nº 13.022/2014, as Guardas Municipais são instituições de caráter:",
+    "alternativas": {
+      "a": "militar",
+      "b": "paramilitar",
+      "c": "civil",
+      "d": "misto",
+      "e": "armado"
+    },
+    "correta": "b",
+    "explicacao": "O art. 2º da Lei nº 13.022/2014 define as Guardas Municipais como instituições de caráter civil, uniformizadas e armadas, destinadas à proteção de bens, serviços e instalações municipais."
+  }
+]

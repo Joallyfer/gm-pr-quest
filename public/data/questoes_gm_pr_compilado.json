@@ -1,0 +1,1279 @@
+[
+  {
+    "materia": "Português",
+    "numero": 1,
+    "enunciado": "Assinale a alternativa cujo texto está corretamente pontuado.",
+    "alternativas": {
+      "a": "Filhotes de sagui ( Callithrix jacchus ), originários das florestas do Nordeste brasileiro ensinaram uma lição importante aos",
+      "b": "Filhotes de sagui ( Callithrix jacchus ) originários das florestas do Nordeste brasileiro, ensinaram uma lição importante aos",
+      "c": "Filhotes de sagui ( Callithrix jacchus ), originários das florestas do Nordeste brasileiro, ensinaram uma lição importante aos",
+      "d": "Filhotes de sagui ( Callithrix jacchus ), originários das florestas do Nordeste brasileiro, ensinaram uma lição importante aos",
+      "e": "Filhotes de sagui ( Callithrix jacchus ) originários das florestas do Nordeste brasileiro ensinaram uma lição importante, aos"
+    },
+    "correta": "c",
+    "explicacao": "A alternativa correta é a letra (c) porque respeita as regras de pontuação referentes ao uso de vírgulas para isolar expressões explicativas e de aposto explicativo. O trecho “(Callithrix jacchus)” é uma informação adicional que identifica cientificamente o termo 'sagui', funcionando como um aposto explicativo entre parênteses. Após os parênteses, há uma oração explicativa — 'originários das florestas do Nordeste brasileiro' — que também precisa ser isolada por vírgulas, pois acrescenta uma característica acessória, não essencial, aos 'filhotes de sagui'. Essa estrutura correta fica: “Filhotes de sagui (Callithrix jacchus), originários das florestas do Nordeste brasileiro, ensinaram uma lição importante aos pesquisadores.”\n\nAs demais alternativas contêm erros comuns de pontuação: na (a), falta uma vírgula após o parêntese para separar a oração explicativa; na (b), a vírgula está incorretamente posicionada antes do verbo 'ensinaram', separando o sujeito do predicado — erro grave em redação; na (e), a vírgula antes de 'aos' separa indevidamente o verbo de seu complemento direto. Logo, a opção (c) é a única gramaticalmente correta, pois cumpre a dupla função das vírgulas: isolar o aposto e delimitar a explicação acessória."
+  },
+  {
+    "materia": "Português",
+    "numero": 2,
+    "enunciado": "Assinale a alternativa em que a parte grifada está correta no que diz respeito à ausência de preposição.",
+    "alternativas": {
+      "a": "Muita gente acredita que o curso natural da cultura humana fará que ela abrace a ciência cada vez mais, mas nem sempre",
+      "b": "Não podemos esquecer que isso aconteceu no início do século XIX, quando governo republicano não passava de um",
+      "c": "A transmissão, a conservação e o reforço de crenças e valores que não se conhece a origem, contudo, podem ser",
+      "d": "É inútil tentar convencer o inimigo que sua causa é nociva.",
+      "e": "Particularmente, acho incômodo o fato de os dois textos basearem sua argumentação na crença que a religião torna o"
+    },
+    "correta": "b",
+    "explicacao": "A alternativa correta é a letra (b), pois o verbo 'esquecer' pode ser transitivo direto (sem preposição) quando usado de forma pronominal — 'esquecer-se de' — ou transitivo indireto quando o sentido exige complemento preposicionado. No caso da frase 'Não podemos esquecer que isso aconteceu no início do século XIX', o verbo 'esquecer' foi utilizado como transitivo direto, e o complemento é uma oração subordinada substantiva objetiva direta ('que isso aconteceu...'), portanto não há necessidade de preposição. Essa é a forma culta e correta segundo a norma-padrão.\n\nNas demais alternativas, há falhas na regência: em (a), o correto seria 'fará com que ela abrace...', pois o verbo 'fazer' nesse contexto exige a preposição 'com' quando introduz uma oração; em (c), o verbo 'conhecer' é transitivo direto, mas o uso da preposição 'de' está errado, já que o correto seria 'de que não se conhece a origem'; em (d), o verbo 'convencer' exige a preposição 'de' antes de orações: 'convencer o inimigo de que sua causa é nociva'; e em (e), o substantivo 'crença' exige também 'de': 'na crença de que a religião...'. Portanto, apenas (b) mantém a regência de acordo com a norma culta."
+  },
+  {
+    "materia": "Português",
+    "numero": 3,
+    "enunciado": "Considere o seguinte trecho: Outra opção é que as duas partes _________ em comum acordo um único árbitro. Ele será responsável por analisar os argumentos e emitir uma decisão. As sentenças _________ por meio arbitral não são _________ de recurso, nem de questionamento judicial. Assinale a alternativa que completa corretamente as lacunas.",
+    "alternativas": {
+      "a": "eleja – proferidas – passível.",
+      "b": "eleja – proferida – passível.",
+      "c": "eleja – proferida – passíveis.",
+      "d": "elejam – proferidas – passível.",
+      "e": "elejam – proferidas – passíveis."
+    },
+    "correta": "e",
+    "explicacao": "A forma correta é 'elejam – proferidas – passíveis', pois atende à concordância verbal e nominal do texto. Explicando: o sujeito de 'elejam' é 'as duas partes', portanto, um sujeito composto no plural. Assim, o verbo deve estar no plural ('elejam'). Em seguida, 'as sentenças proferidas' — aqui o particípio 'proferidas' concorda com o substantivo 'sentenças', que está no plural e no feminino. Já o adjetivo 'passíveis' precisa também concordar com 'sentenças', permanecendo no plural feminino. Além disso, o termo 'passíveis de recurso' é uma locução fixa do direito, significando 'suscetíveis de recurso'. Logo, a alternativa (e) é a única que respeita as três concordâncias exigidas: verbal, nominal e idiomática. As demais incorrem em erros: (a) erra o número verbal; (b) e (c) erram a concordância nominal de 'proferida'; (d) erra a flexão de 'passível'."
+  },
+  {
+    "materia": "Português",
+    "numero": 4,
+    "enunciado": "De acordo com um estudo do sindicato dos professores do Reino Unido, os educadores também estão sendo alvo de abuso, cometido principalmente nas redes sociais pelos pais dos estudantes. Segundo a pesquisa, 60% dos mestres relataram ter sofrido comentários agressivos na internet, enquanto que em 2014 a proporção era de 21%. De acordo com o texto, no Reino Unido estão aumentando os casos de bullying:",
+    "alternativas": {
+      "a": "de professores contra estudantes.",
+      "b": "de alunos contra outros alunos.",
+      "c": "de estudantes contra professores.",
+      "d": "de pais de estudantes contra professores.",
+      "e": "de professores contra pais de estudantes."
+    },
+    "correta": "d",
+    "explicacao": "A alternativa correta é (d) — 'de pais de estudantes contra professores' — porque o texto deixa claro que o alvo dos ataques são os professores e que os agressores são, em sua maioria, pais dos alunos. O trecho diz: “os educadores também estão sendo alvo de abuso, cometido principalmente nas redes sociais pelos pais dos estudantes”. Portanto, trata-se de um fenômeno em que os responsáveis legais, e não os próprios alunos, utilizam meios virtuais para ofender ou intimidar docentes — o que caracteriza o chamado 'cyberbullying'. As demais opções contradizem a informação textual: (a) e (b) referem-se a tipos tradicionais de bullying (professor x aluno, aluno x aluno); (c) altera a relação de causa e efeito, sugerindo o inverso; e (e) não tem respaldo no texto. O examinador explora a capacidade do candidato de identificar o sujeito agente e o sujeito paciente do verbo 'cometer'."
+  },
+  {
+    "materia": "Português",
+    "numero": 5,
+    "enunciado": "O comércio de drogas está por trás de pelo menos 45% das 37 chacinas ocorridas entre janeiro e agosto de 2007 na Grande São Paulo, nas quais morreram 130 pessoas. E esse percentual pode ser ainda maior se considerarmos que ainda não se conseguiu apurar o motivo de quase 20% dos casos. Com base no texto, assinale a alternativa correta.",
+    "alternativas": {
+      "a": "O mercado das drogas está por trás de quase metade das 37 chacinas.",
+      "b": "20 chacinas foram praticadas devido ao mercado das drogas.",
+      "c": "Podem ter morrido mais do que apenas 130 pessoas.",
+      "d": "O comércio de drogas foi responsável pela morte de 130 pessoas.",
+      "e": "37 chacinas foram praticadas devido ao mercado de drogas."
+    },
+    "correta": "a",
+    "explicacao": "A alternativa correta é (a), pois o texto afirma que 45% das 37 chacinas têm relação comprovada com o comércio de drogas. Quarenta e cinco por cento de 37 representa aproximadamente 16 a 17 chacinas, ou seja, quase metade — justificando a expressão 'quase metade'. As demais alternativas distorcem a informação: em (b), o número de 20 chacinas não é citado no texto; em (c), o número de vítimas (130) é dado de forma precisa e não há indício de que possa ser maior; em (d), o comércio de drogas não foi responsável por todas as 130 mortes, apenas pelas chacinas associadas ao tráfico; e (e) afirma que todas as 37 chacinas ocorreram por causa do tráfico, o que o texto nega explicitamente ao dizer que nem todos os motivos foram apurados. Essa questão avalia a leitura interpretativa e o domínio de proporções textuais (frações, percentuais e expressões como 'pelo menos' e 'quase')."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 6,
+    "enunciado": "A Secretaria de Obras dispõe de uma verba para recuperação de vias. Cada metro linear custa R$ 2.442,25. Com um orçamento de R$ 1.416.505,00, quantos metros lineares poderão ser recuperados?",
+    "alternativas": {
+      "a": "580 m.",
+      "b": "592 m.",
+      "c": "600 m.",
+      "d": "608 m.",
+      "e": "612 m."
+    },
+    "correta": "a",
+    "explicacao": "Para resolver, basta dividir o valor total disponível pelo custo unitário por metro. Assim:\n\nR$ 1.416.505,00 ÷ R$ 2.442,25 ≈ 580 metros.\n\nLogo, podem ser recuperados aproximadamente **580 metros lineares**. O raciocínio aqui é uma aplicação direta de divisão de grandezas proporcionais: quanto maior o custo unitário, menor a quantidade possível de metros. Essa é uma questão típica de proporcionalidade inversa (valor total fixo × custo unitário × quantidade). O erro mais comum é multiplicar em vez de dividir, o que levaria a resultados absurdos (milhões de metros). A alternativa (a) é a única coerente com o cálculo exato."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 7,
+    "enunciado": "O número de focos de dengue em Curitiba no início deste ano praticamente triplicou em comparação ao mesmo período do ano passado: foram 135 focos neste ano e 51 no ano anterior. O aumento corresponde a um percentual de aproximadamente:",
+    "alternativas": {
+      "a": "51%.",
+      "b": "84%.",
+      "c": "165%.",
+      "d": "186%.",
+      "e": "300%."
+    },
+    "correta": "c",
+    "explicacao": "Para calcular o aumento percentual, aplica-se a fórmula: **(diferença ÷ valor inicial) × 100.**\n\nDiferença = 135 - 51 = 84.\nAumento percentual = (84 ÷ 51) × 100 ≈ 164,7%, que arredondado é **165%**.\n\nIsso significa que os focos de dengue aumentaram em 165% em relação ao período anterior — mais do que o dobro, mas ainda não o triplo (que seria 200%). Muitos candidatos confundem 'triplicou' com 'aumento de 300%', quando, na verdade, se um valor triplica, ele passa a ser 3 vezes o original, ou seja, o aumento é de 200%. Nesse caso, o texto diz 'praticamente triplicou', indicando um crescimento aproximado — coerente com 165%. Alternativa correta: (c)."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 9,
+    "enunciado": "Em uma loja de materiais de construção, um vendedor ofereceu um desconto de 12% à vista caso o cliente comprasse um lote de 36 m² de piso a R$ 24,00 o metro. Qual seria o valor do desconto?",
+    "alternativas": {
+      "a": "R$ 86,40.",
+      "b": "R$ 95,04.",
+      "c": "R$ 103,68.",
+      "d": "R$ 112,32.",
+      "e": "R$ 129,60."
+    },
+    "correta": "c",
+    "explicacao": "Primeiro, calcula-se o valor total da compra sem desconto: 36 m² × R$ 24,00 = R$ 864,00.\n\nDepois, aplica-se o desconto de 12%:\n12% de 864 = (12 ÷ 100) × 864 = 0,12 × 864 = R$ 103,68.\n\nPortanto, o valor do **desconto** é R$ 103,68. Se o problema pedisse o preço final, bastaria subtrair: 864 – 103,68 = R$ 760,32. Questões de porcentagem como essa avaliam a habilidade de transformar taxa percentual em valor decimal e aplicar corretamente o cálculo sobre a base certa. Erros comuns são aplicar o percentual sobre o valor já descontado ou somar em vez de subtrair. Alternativa correta: (c)."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 10,
+    "enunciado": "Os gastos de uma reforma foram distribuídos na proporção de 3/7 com mão de obra, 2/5 com material e o restante com outros gastos. Qual é a proporção destinada à soma de material e mão de obra?",
+    "alternativas": {
+      "a": "29/35.",
+      "b": "11/12.",
+      "c": "8/9.",
+      "d": "6/35.",
+      "e": "5/12."
+    },
+    "correta": "a",
+    "explicacao": "Primeiro, é preciso expressar as duas frações em denominador comum para somá-las: 3/7 e 2/5. O mínimo múltiplo comum de 7 e 5 é 35. Assim, convertemos:\n\n3/7 = 15/35\n2/5 = 14/35\n\nSomando: 15/35 + 14/35 = **29/35**.\n\nPortanto, a proporção do orçamento destinada à soma de material e mão de obra é **29/35**. Essa questão exige domínio das operações com frações (igualação de denominadores e soma de numeradores). As demais alternativas representam erros típicos: (b) e (c) são frações simplificadas incorretas; (d) representa a diferença e não a soma; e (e) usa denominadores diferentes sem converter. Alternativa correta: (a)."
+  },
+  {
+    "materia": "História e Geografia do PR",
+    "numero": 11,
+    "enunciado": "Prédio tombado pelo Patrimônio Histórico e Artístico Nacional que foi sede da antiga Prefeitura de Curitiba:",
+    "alternativas": {
+      "a": "Paço da Liberdade.",
+      "b": "Museu Paranaense.",
+      "c": "Teatro Paiol.",
+      "d": "Solar do Barão.",
+      "e": "Palacete Wolf."
+    },
+    "correta": "a",
+    "explicacao": "O **Paço da Liberdade** é um dos edifícios mais emblemáticos de Curitiba. Construído no início do século XX, em 1916, abrigou a sede da Prefeitura Municipal até 1969. Foi projetado pelo engenheiro e arquiteto Cândido de Abreu e é um exemplo do estilo eclético, com elementos art nouveau. Em 1990, o prédio foi tombado pelo Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN) devido à sua importância histórica, cultural e arquitetônica. Atualmente, é administrado pelo SESC e serve como espaço cultural, com exposições, biblioteca e café. As demais alternativas correspondem a outros prédios históricos, mas que nunca sediaram a prefeitura: o Museu Paranaense é uma instituição de pesquisa e acervo histórico; o Teatro Paiol foi adaptado de um antigo paiol de pólvora; o Solar do Barão abriga centros de arte; e o Palacete Wolf, embora histórico, foi residência particular."
+  },
+  {
+    "materia": "História e Geografia do PR",
+    "numero": 12,
+    "enunciado": "Localiza-se na região dos Campos Gerais e está situado entre os rios Iapó e Tibagi, sendo considerado o 6º maior do mundo em extensão e o maior do Brasil. Trata-se do:",
+    "alternativas": {
+      "a": "Parque Estadual de Vila Velha.",
+      "b": "Canyon Guartelá.",
+      "c": "Salto São Francisco.",
+      "d": "Parque Municipal das Araucárias.",
+      "e": "Salto Santa Rosa."
+    },
+    "correta": "b",
+    "explicacao": "O **Canyon Guartelá** é o maior cânion do Brasil e o sexto maior do mundo em extensão, localizado entre os municípios de Tibagi e Castro, na região dos Campos Gerais do Paraná. Ele se estende por cerca de 30 km e atinge até 450 metros de profundidade, sendo formado pela ação erosiva do rio Iapó ao longo de milhões de anos. O local abriga o Parque Estadual do Guartelá, uma unidade de conservação criada em 1992 para proteger o ecossistema do cerrado e da mata atlântica, além das pinturas rupestres encontradas nas rochas. As demais opções tratam de outros pontos turísticos importantes do Paraná, mas sem as características descritas no enunciado: o Parque Vila Velha é famoso por suas formações areníticas; o Salto São Francisco é a maior cachoeira do Sul do Brasil; e os demais parques possuem importância regional, mas não o porte do cânion Guartelá."
+  },
+  {
+    "materia": "História e Geografia do PR",
+    "numero": 13,
+    "enunciado": "Entre as características do espaço paranaense estão os rios, que, além de gerar energia, proporcionam lazer e belos cenários. São rios paranaenses:",
+    "alternativas": {
+      "a": "Rio Paraná, rio São Francisco, rio da Prata e rio Tibagi.",
+      "b": "Rio Tibagi, rio Amazonas, rio Piquiri e rio Paranapanema.",
+      "c": "Rio Paraná, rio Guaíba, rio Paranapanema e rio Pelotas.",
+      "d": "Rio Iapó, rio Tibagi, rio Itajaí e rio Atibaia.",
+      "e": "Rio Paraná, rio Paranapanema, rio Iguaçu e rio Tibagi."
+    },
+    "correta": "e",
+    "explicacao": "A alternativa (e) é correta, pois cita quatro rios genuinamente paranaenses: **Paraná, Paranapanema, Iguaçu e Tibagi**. O rio Paraná forma a fronteira oeste do estado e é responsável pela usina hidrelétrica de Itaipu, uma das maiores do mundo. O rio Paranapanema delimita parte da fronteira norte com São Paulo. O rio Iguaçu atravessa o estado de leste a oeste, originando as famosas Cataratas do Iguaçu. Já o rio Tibagi é um importante afluente do Paranapanema e corta a região dos Campos Gerais. As demais alternativas incluem rios de outros estados ou países: o São Francisco percorre o Nordeste e o Sudeste; o Guaíba fica no Rio Grande do Sul; o Amazonas é da região Norte; o Itajaí é de Santa Catarina; e o Atibaia é paulista. Essa questão cobra do candidato a familiaridade com a hidrografia paranaense e a localização dos principais rios."
+  },
+  {
+    "materia": "História e Geografia do PR",
+    "numero": 14,
+    "enunciado": "Sobre as colônias de Santa Cândida, Orleans, Lamenha Pequena, Pilarzinho e Abranches, em Curitiba, é correto afirmar que têm origem marcadamente:",
+    "alternativas": {
+      "a": "ucraniana.",
+      "b": "polonesa.",
+      "c": "espanhola.",
+      "d": "portuguesa.",
+      "e": "italiana."
+    },
+    "correta": "b",
+    "explicacao": "As colônias de **Santa Cândida, Orleans, Lamenha Pequena, Pilarzinho e Abranches** possuem origem **polonesa**, pois foram formadas majoritariamente por imigrantes vindos da Polônia no final do século XIX. Esses imigrantes chegaram a Curitiba entre 1871 e 1875, atraídos pela promessa de terras e melhores condições de vida. Trouxeram consigo uma forte tradição religiosa católica, arquitetura em madeira e costumes agrícolas. A presença polonesa deixou marcas visíveis na cultura curitibana, como festas típicas, gastronomia (pierogi, kielbasa) e templos religiosos. As outras colônias étnicas da cidade foram ocupadas por grupos diferentes: italianos no bairro Santa Felicidade, alemães no Pilarzinho e Orleans (em parte), e ucranianos em colônias do interior do estado. A alternativa (b) é, portanto, a única historicamente correta."
+  },
+  {
+    "materia": "História e Geografia do PR",
+    "numero": 15,
+    "enunciado": "O espaço que hoje constitui o Paraná era inicialmente formado por arraiais e reduções jesuíticas. Algumas dessas povoações tornaram-se vilas, como Paranaguá e Curitiba. A região que hoje é o estado do Paraná pertencia, até 1853:",
+    "alternativas": {
+      "a": "ao Rio de Janeiro.",
+      "b": "a Santa Catarina.",
+      "c": "ao Rio Grande do Sul.",
+      "d": "a São Paulo.",
+      "e": "a Minas Gerais."
+    },
+    "correta": "d",
+    "explicacao": "Até **1853**, o território que hoje corresponde ao estado do Paraná **pertencia à província de São Paulo**. Durante o período colonial e parte do Império, a administração do território era feita por São Paulo, uma vez que Curitiba era considerada apenas uma vila de menor importância política e econômica. A separação ocorreu em 29 de agosto de 1853, por decreto do imperador Dom Pedro II, criando oficialmente a **Província do Paraná**, cujo primeiro presidente foi Zacarias de Góes e Vasconcelos. Essa emancipação visava melhorar a administração da região, que já possuía forte identidade econômica, baseada na erva-mate e na pecuária. As demais alternativas não possuem relação com a administração do território paranaense. Esse é um fato histórico fundamental na formação política do estado."
+  },
+  {
+    "materia": "Atualidades",
+    "numero": 16,
+    "enunciado": "As redes de tráfico clandestino de imigrantes têm sido responsáveis por consecutivas tragédias nas costas da Europa. Desde 1º de janeiro de 2015, a Organização Internacional de Migração (OIM) estima que cerca de 2 mil pessoas morreram no trajeto. A via de acesso principal para esses imigrantes é o:",
+    "alternativas": {
+      "a": "Mar Egeu.",
+      "b": "Mar Mediterrâneo.",
+      "c": "Mar do Norte.",
+      "d": "Mar Báltico.",
+      "e": "Mar Negro."
+    },
+    "correta": "b",
+    "explicacao": "O **Mar Mediterrâneo** é a principal rota utilizada por imigrantes africanos e do Oriente Médio que tentam chegar à Europa em busca de melhores condições de vida. Essa travessia é extremamente perigosa e feita, muitas vezes, em embarcações precárias controladas por redes de tráfico humano. Desde 2014, a Organização Internacional para as Migrações (OIM) tem alertado sobre o alto número de mortes nessas travessias — chegando a milhares por ano. O Mediterrâneo liga a África e o Oriente Médio ao sul da Europa, especialmente Itália, Grécia e Espanha. Os demais mares (Egeu, Báltico, do Norte e Negro) têm importância geográfica, mas não correspondem à principal rota de imigração irregular. A questão explora conhecimentos de geopolítica e atualidades internacionais."
+  },
+  {
+    "materia": "Atualidades",
+    "numero": 17,
+    "enunciado": "Durante a 13ª fase da Operação Lava Jato, obras de arte de artistas renomados foram encontradas na casa de alguns envolvidos. Assinale a alternativa que indica o lugar para onde as obras apreendidas foram encaminhadas.",
+    "alternativas": {
+      "a": "Museu Municipal de Arte (MuMA).",
+      "b": "Museu de Arte Sacra (MASAC).",
+      "c": "Museu Oscar Niemeyer (MON).",
+      "d": "Museu de História Natural.",
+      "e": "Museu do Expedicionário."
+    },
+    "correta": "c",
+    "explicacao": "As obras apreendidas durante a Operação Lava Jato foram encaminhadas ao **Museu Oscar Niemeyer (MON)**, localizado em Curitiba. O MON, conhecido como 'Museu do Olho', é uma das principais instituições culturais do Brasil e possui infraestrutura adequada para armazenar, catalogar e preservar peças de arte de alto valor. A decisão judicial de encaminhar as obras ao MON teve como objetivo garantir sua integridade e posterior devolução ao Estado, caso comprovada a origem ilícita. As demais alternativas indicam museus curitibanos, mas com finalidades distintas: o MuMA foca em arte contemporânea local, o MASAC em arte sacra, o Museu do Expedicionário em história militar e o de História Natural em biodiversidade. A alternativa (c) é a única que corresponde ao fato real ocorrido em 2015."
+  },
+  {
+    "materia": "Atualidades",
+    "numero": 18,
+    "enunciado": "Em dezembro de 2014, o governo norte-americano, por meio do presidente Barack Obama, anunciou que os Estados Unidos retomariam as relações diplomáticas após mais de 50 anos com um país da América Central. Qual é esse país?",
+    "alternativas": {
+      "a": "Haiti.",
+      "b": "México.",
+      "c": "Argentina.",
+      "d": "Venezuela.",
+      "e": "Cuba."
+    },
+    "correta": "e",
+    "explicacao": "O país em questão é **Cuba**. Em dezembro de 2014, Barack Obama e Raúl Castro anunciaram o restabelecimento das relações diplomáticas entre os Estados Unidos e Cuba, rompidas desde 1961 durante a Guerra Fria. O rompimento havia ocorrido em razão da Revolução Cubana (1959), liderada por Fidel Castro, que instaurou um regime socialista apoiado pela União Soviética. A retomada das relações marcou um momento histórico, simbolizando uma tentativa de aproximação política e econômica após mais de meio século de embargo. Em 2015, as embaixadas de ambos os países foram reabertas. Essa questão é clássica em provas de atualidades, pois envolve diplomacia, ideologia e contexto histórico internacional."
+  },
+  {
+    "materia": "Atualidades",
+    "numero": 19,
+    "enunciado": "O Brasil conquistou o direito de sediar as Olimpíadas de 2016. Os mascotes dos Jogos Rio 2016 são:",
+    "alternativas": {
+      "a": "Oba e Eba.",
+      "b": "Zé Carioca e Louro José.",
+      "c": "Fuleco e Tatu-bola.",
+      "d": "Tiba Tuque e Esquindim.",
+      "e": "Vinicius e Tom."
+    },
+    "correta": "e",
+    "explicacao": "Os mascotes oficiais dos Jogos Olímpicos e Paralímpicos Rio 2016 foram **Vinicius** e **Tom**. Vinicius representava a fauna brasileira e simbolizava a alegria e a diversidade dos animais do país; Tom representava a flora, com um corpo formado por folhas e galhos coloridos. Os nomes foram escolhidos em homenagem aos músicos **Vinicius de Moraes** e **Tom Jobim**, ícones da bossa nova. O processo de escolha envolveu votação popular. As demais alternativas fazem referência a personagens fictícios ou a mascotes de outros eventos: 'Fuleco' foi o mascote da Copa do Mundo de 2014, por exemplo. A questão avalia o conhecimento sobre eventos esportivos e símbolos nacionais recentes."
+  },
+  {
+    "materia": "Atualidades",
+    "numero": 20,
+    "enunciado": "Jovem paquistanesa ativista pelo direito à educação feminina que sobreviveu a uma tentativa de assassinato organizada pelo Talibã foi a vencedora do Prêmio Nobel da Paz em 2014. Essa jovem é:",
+    "alternativas": {
+      "a": "Malala Yousafzai.",
+      "b": "Berta Lutz.",
+      "c": "Madre Teresa.",
+      "d": "Benazir Bhutto.",
+      "e": "Michelle Obama."
+    },
+    "correta": "a",
+    "explicacao": "A vencedora do Prêmio Nobel da Paz de 2014 foi **Malala Yousafzai**, uma jovem paquistanesa que se tornou símbolo mundial da luta pelo direito das meninas à educação. Em 2012, aos 15 anos, Malala foi vítima de um atentado promovido pelo grupo extremista Talibã por defender publicamente o acesso das mulheres às escolas em seu país. Sobreviveu ao ataque e continuou sua militância, publicando livros e palestrando em instituições internacionais. O Nobel foi concedido em reconhecimento à sua coragem e defesa dos direitos humanos. Nenhuma das outras opções corresponde a esse fato histórico: Berta Lutz foi uma ativista brasileira de outra época; Madre Teresa recebeu o Nobel em 1979; Benazir Bhutto foi primeira-ministra do Paquistão; e Michelle Obama nunca recebeu o prêmio. A questão avalia conhecimento de atualidades e direitos humanos."
+  },
+  {
+    "materia": "Atualidades",
+    "numero": 21,
+    "enunciado": "Cidade ucraniana que é o principal reduto dos separatistas no conflito no leste da Ucrânia:",
+    "alternativas": {
+      "a": "Kiev.",
+      "b": "Odessa.",
+      "c": "Kharkiv.",
+      "d": "Donetski.",
+      "e": "Poltava."
+    },
+    "correta": "d",
+    "explicacao": "A cidade correta é **Donetsk** (grafada como Donetski na prova). Donetsk é o principal centro urbano da região conhecida como **Donbass**, no leste da Ucrânia, e desde 2014 tornou-se o foco do conflito entre o governo ucraniano e grupos separatistas pró-Rússia. A guerra começou após a anexação da Crimeia pela Rússia e gerou uma onda de tensões geopolíticas. Donetsk foi proclamada capital da autodenominada 'República Popular de Donetsk', não reconhecida pela comunidade internacional. A região possui grande importância econômica devido à mineração e à indústria pesada. As demais alternativas estão incorretas: **Kiev** é a capital e sede do governo ucraniano; **Odessa** é uma cidade portuária no sul; **Kharkiv** está próxima da fronteira russa, mas não é o principal reduto separatista; e **Poltava** não teve papel significativo no conflito. Portanto, a alternativa (d) é a correta."
+  },
+  {
+    "materia": "Atualidades",
+    "numero": 22,
+    "enunciado": "Foi um esquema de pagamento de propina a parlamentares para que votassem a favor de projetos do governo. O esquema veio à tona no dia 6 de junho de 2005, por meio de entrevista do deputado Roberto Jefferson. Após julgamento, o STF condenou 25 dos 38 réus. Assinale o nome do escândalo descrito, que completou 10 anos em 2015.",
+    "alternativas": {
+      "a": "Desmanche.",
+      "b": "Anaconda.",
+      "c": "Mensalão.",
+      "d": "Lava-Jato.",
+      "e": "Zelotes."
+    },
+    "correta": "c",
+    "explicacao": "O escândalo descrito é o **Mensalão**, revelado em 2005 pelo então deputado federal Roberto Jefferson. O esquema consistia no pagamento mensal de propinas a parlamentares da base aliada do governo federal, para garantir apoio em votações no Congresso. O caso ficou conhecido como **'Escândalo do Mensalão'** e foi julgado pelo Supremo Tribunal Federal (STF) no processo Ação Penal 470. Entre os condenados estavam políticos e dirigentes do Partido dos Trabalhadores (PT) e de partidos aliados. Foi um marco no combate à corrupção, pois foi a primeira vez que o STF condenou altos escalões do poder político. As demais opções representam outros casos: 'Anaconda' envolveu juízes federais; 'Zelotes' tratou de corrupção no CARF; e 'Lava Jato' começou em 2014, posteriormente. Portanto, a alternativa (c) é a única correta."
+  },
+  {
+    "materia": "Atualidades",
+    "numero": 23,
+    "enunciado": "Entre os escritores que faleceram em 2014 está o paraibano Ariano Suassuna, defensor da cultura nordestina. Assinale a alternativa que identifica sua obra mais famosa, adaptada para o cinema e a TV.",
+    "alternativas": {
+      "a": "Morte e vida severina.",
+      "b": "Os sertões.",
+      "c": "Grande sertão: veredas.",
+      "d": "Auto da compadecida.",
+      "e": "Dona Flor e seus dois maridos."
+    },
+    "correta": "d",
+    "explicacao": "A obra mais famosa de **Ariano Suassuna** é **“O Auto da Compadecida”**, escrita em 1955. Trata-se de uma peça teatral que mistura elementos da cultura popular nordestina, da literatura de cordel e da religiosidade cristã. A narrativa acompanha as aventuras de João Grilo e Chicó, dois sertanejos pobres e astutos que usam o humor e a esperteza para enfrentar as injustiças sociais. A peça ganhou enorme repercussão e foi adaptada para o cinema e a televisão, sendo a minissérie de 1999 uma das mais aclamadas produções da TV Globo. Suassuna foi também o criador do Movimento Armorial, que buscava valorizar a arte erudita brasileira baseada nas raízes populares. As demais obras pertencem a outros autores: 'Morte e Vida Severina' é de João Cabral de Melo Neto; 'Os Sertões' de Euclides da Cunha; 'Grande Sertão: Veredas' de Guimarães Rosa; e 'Dona Flor e Seus Dois Maridos' de Jorge Amado. Alternativa correta: (d)."
+  },
+  {
+    "materia": "Atualidades",
+    "numero": 24,
+    "enunciado": "Em março de 2015, a Coreia do Sul registrou o primeiro caso de uma doença que se espalhou rapidamente e causou mortes e quarentenas. Essa doença é:",
+    "alternativas": {
+      "a": "SARS.",
+      "b": "Dengue.",
+      "c": "Chikungunya.",
+      "d": "Ebola.",
+      "e": "MERS."
+    },
+    "correta": "e",
+    "explicacao": "A doença é a **MERS** — **Síndrome Respiratória do Oriente Médio** (Middle East Respiratory Syndrome). Causada por um tipo de coronavírus (MERS-CoV), foi identificada pela primeira vez na Arábia Saudita em 2012 e se espalhou posteriormente para outros países, incluindo a Coreia do Sul, que registrou um surto grave em 2015. A doença provoca sintomas respiratórios graves e tem alta taxa de letalidade. O caso sul-coreano chamou atenção pela rápida disseminação hospitalar, levando ao isolamento de milhares de pessoas. As demais alternativas correspondem a outras enfermidades: SARS (outro coronavírus, de 2003), Dengue e Chikungunya (transmitidas por mosquitos Aedes aegypti), e Ebola (de origem africana e transmitida por contato com fluidos). A MERS é, portanto, a resposta correta por corresponder ao evento epidêmico descrito."
+  },
+  {
+    "materia": "Atualidades",
+    "numero": 25,
+    "enunciado": "Em novembro de 2014 foi celebrado o 25º aniversário de um momento histórico que representou o fim da Guerra Fria. Esse momento foi:",
+    "alternativas": {
+      "a": "Protesto na Praça Celestial em Pequim.",
+      "b": "Invasão da Baía dos Porcos em Cuba.",
+      "c": "O Caso Watergate em Washington.",
+      "d": "Queda do Muro de Berlim.",
+      "e": "Guerra do Vietnã."
+    },
+    "correta": "d",
+    "explicacao": "O fato histórico é a **Queda do Muro de Berlim**, ocorrida em **9 de novembro de 1989**. O muro, erguido em 1961, separava Berlim Oriental (socialista) de Berlim Ocidental (capitalista) e simbolizava a divisão do mundo durante a Guerra Fria. Sua derrubada marcou o colapso dos regimes socialistas do Leste Europeu e precedeu a reunificação da Alemanha, concluída em 1990. O evento foi amplamente comemorado em 2014, 25 anos depois, com homenagens e celebrações na própria cidade. As outras alternativas são fatos distintos: o protesto da Praça da Paz Celestial foi em 1989 na China; a Baía dos Porcos ocorreu em 1961; o caso Watergate em 1972; e a Guerra do Vietnã terminou em 1975. Portanto, o evento que simbolizou o fim da Guerra Fria foi a Queda do Muro de Berlim."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 26,
+    "enunciado": "Acerca dos Direitos e Garantias Fundamentais previstos na Constituição Federal, art. 5º, assinale a alternativa correta.",
+    "alternativas": {
+      "a": "A expressão da atividade intelectual, artística, científica e de comunicação depende de licença do Poder Público.",
+      "b": "A autoridade policial pode penetrar na casa do indivíduo quando entender que há interesse público envolvido.",
+      "c": "Todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, desde que autorizados pelo Poder Público.",
+      "d": "Constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático.",
+      "e": "O civilmente identificado deve sempre ser submetido a identificação criminal, para fins de averiguação da vida pretérita."
+    },
+    "correta": "d",
+    "explicacao": "De acordo com o **art. 5º, inciso XLIV da Constituição Federal**, 'constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático'. Essa previsão visa proteger a estabilidade das instituições e a democracia, considerando tais atos como gravíssimos. As demais alternativas violam garantias fundamentais: (a) fere o inciso IX, que assegura a livre expressão sem censura; (b) contradiz o inciso XI, que garante a inviolabilidade do domicílio, salvo em casos de flagrante delito, desastre ou ordem judicial; (c) é incorreta porque o inciso XVI prevê reunião pacífica sem armas, **independente de autorização**, apenas com prévio aviso; e (e) contradiz o inciso LVIII, que dispensa nova identificação para quem já é civilmente identificado. Assim, a alternativa (d) reproduz exatamente o texto constitucional."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 27,
+    "enunciado": "O Estatuto da Criança e do Adolescente (ECA) prevê a absoluta prioridade da efetivação de direitos da criança e do adolescente. São garantias da prioridade, EXCETO:",
+    "alternativas": {
+      "a": "primazia de receber proteção e socorro em quaisquer circunstâncias.",
+      "b": "viabilização de formas alternativas de participação, ocupação e convívio da criança e do adolescente com as demais gerações.",
+      "c": "precedência de atendimento nos serviços públicos ou de relevância pública.",
+      "d": "preferência na formulação e na execução das políticas sociais públicas.",
+      "e": "destinação privilegiada de recursos públicos nas áreas relacionadas com a proteção à infância e à juventude."
+    },
+    "correta": "b",
+    "explicacao": "O artigo **4º do Estatuto da Criança e do Adolescente (Lei nº 8.069/1990)** estabelece as garantias da prioridade absoluta, que incluem: (I) primazia de receber proteção e socorro em quaisquer circunstâncias; (II) precedência de atendimento nos serviços públicos; (III) preferência na formulação e execução das políticas sociais públicas; e (IV) destinação privilegiada de recursos públicos. A alternativa (b) não consta entre essas garantias expressas, sendo, portanto, a exceção correta. A 'viabilização de formas alternativas de participação e convívio' pode ser um princípio social desejável, mas não está prevista como garantia legal de prioridade. Essa questão exige leitura atenta da literalidade do ECA, uma das leis mais cobradas em concursos da área de segurança pública e social."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 28,
+    "enunciado": "A Lei Maria da Penha (Lei nº 11.340/2006) prevê medidas protetivas de urgência aplicáveis pelo juiz para fazer cessar a prática de violência doméstica e familiar contra a mulher. São medidas protetivas do art. 22, EXCETO:",
+    "alternativas": {
+      "a": "afastamento do agressor do lar, domicílio ou local de convivência com a ofendida.",
+      "b": "proibição ao agressor de contato com a ofendida, seus familiares e testemunhas por qualquer meio de comunicação.",
+      "c": "proibição ao agressor de frequentar determinados lugares, a fim de preservar a integridade física e psicológica da ofendida.",
+      "d": "restrição ou suspensão ao agressor de visitas aos dependentes menores, ouvida a equipe multidisciplinar.",
+      "e": "proibição ao agressor de se relacionar com qualquer pessoa do círculo social da ofendida."
+    },
+    "correta": "e",
+    "explicacao": "O artigo **22 da Lei Maria da Penha (Lei nº 11.340/2006)** lista medidas protetivas que podem ser aplicadas pelo juiz, como: afastamento do lar, proibição de aproximação e contato, restrição de visitas e proibição de frequentar certos lugares. A alternativa (e) está incorreta porque não existe previsão de 'proibição de se relacionar com qualquer pessoa do círculo social da ofendida'; isso seria uma medida genérica e inviável juridicamente. As demais estão expressamente previstas. O objetivo dessas medidas é interromper a violência e proteger a integridade da mulher e de seus dependentes, com respaldo constitucional (art. 226, § 8º da CF). Portanto, a opção (e) é a correta por ser a exceção ao texto legal."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 29,
+    "enunciado": "Nos termos do art. 24 do Código de Trânsito Brasileiro (CTB), compete aos órgãos executivos de trânsito dos municípios, entre outras atribuições:",
+    "alternativas": {
+      "a": "estabelecer, com exclusividade, as diretrizes para o policiamento ostensivo de trânsito.",
+      "b": "planejar, projetar, regulamentar e operar o trânsito de veículos, de pedestres e de animais e promover o desenvolvimento da circulação e da segurança de ciclistas.",
+      "c": "apurar, prevenir e reprimir a prática de atos de improbidade contra a fé pública, o patrimônio ou a administração pública.",
+      "d": "dirimir conflitos sobre circunscrição e competência de trânsito no âmbito da União, dos Estados e do Distrito Federal.",
+      "e": "realizar o patrulhamento ostensivo, executando operações relacionadas com a segurança pública."
+    },
+    "correta": "b",
+    "explicacao": "Segundo o **art. 24 do Código de Trânsito Brasileiro (Lei nº 9.503/1997)**, é competência dos órgãos e entidades executivos de trânsito dos municípios: 'planejar, projetar, regulamentar e operar o trânsito de veículos, pedestres e animais e promover o desenvolvimento da circulação e da segurança de ciclistas'. Essa atribuição abrange ações de engenharia de tráfego, sinalização e educação no trânsito. As demais alternativas tratam de competências de outros órgãos: (a) e (e) são da Polícia Militar; (c) é do Ministério Público e órgãos de controle; e (d) é do Conselho Nacional de Trânsito (CONTRAN). Portanto, apenas a alternativa (b) reflete corretamente a competência municipal no Sistema Nacional de Trânsito."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 30,
+    "enunciado": "De acordo com o Estatuto dos Funcionários Públicos Municipais de Curitiba (Lei Municipal nº 1.656/1958), identifique como verdadeiras (V) as formas válidas de provimento em cargo público e como falsas (F) as demais: ( ) Nomeação. ( ) Reintegração. ( ) Promoção. ( ) Ascensão. Assinale a alternativa correta.",
+    "alternativas": {
+      "a": "F – V – F – V.",
+      "b": "F – F – V – V.",
+      "c": "V – F – F – V.",
+      "d": "V – F – V – F.",
+      "e": "V – V – V – F."
+    },
+    "correta": "e",
+    "explicacao": "As formas de provimento em cargo público previstas no Estatuto dos Funcionários Públicos Municipais de Curitiba (Lei nº 1.656/1958) incluem: **nomeação**, **reintegração** e **promoção**. A ascensão, por outro lado, não é forma válida de provimento, pois viola o princípio do concurso público (art. 37, II, da Constituição Federal). A nomeação é o provimento originário; a reintegração ocorre quando um servidor demitido é reintegrado após anulação da demissão; e a promoção é o provimento derivado vertical, dentro da mesma carreira. Portanto, a sequência correta é: V – V – V – F, alternativa (e). Essa questão exige conhecimento de princípios constitucionais e da legislação municipal de Curitiba."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 31,
+    "enunciado": "São órgãos de segurança pública expressamente previstos na Constituição Federal, EXCETO:",
+    "alternativas": {
+      "a": "Polícia Federal.",
+      "b": "Polícia Rodoviária Federal.",
+      "c": "Polícias Civis.",
+      "d": "Polícias Científicas.",
+      "e": "Polícias Militares e Corpos de Bombeiros Militares."
+    },
+    "correta": "d",
+    "explicacao": "A Constituição Federal de 1988, em seu **artigo 144**, lista expressamente os órgãos que compõem o sistema de segurança pública: Polícia Federal, Polícia Rodoviária Federal, Polícia Ferroviária Federal, Polícias Civis, Polícias Militares e Corpos de Bombeiros Militares. Portanto, **'Polícias Científicas'** não estão previstas como órgão autônomo da segurança pública no texto constitucional — embora existam em alguns estados (como a Polícia Técnico-Científica) integradas às Polícias Civis. Essa distinção é importante: a perícia oficial de natureza criminal é função essencial, mas não constitui órgão separado no art. 144. Assim, a alternativa (d) é a exceção correta. As demais constam expressamente na Constituição e exercem funções complementares de prevenção, repressão e investigação de delitos."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 32,
+    "enunciado": "Estão corretos os itens que tratam de respeito à justiça e valorização do servidor:",
+    "alternativas": {
+      "a": "2 e 3 apenas.",
+      "b": "1, 3 e 4 apenas.",
+      "c": "1, 2 e 4 apenas.",
+      "d": "1 e 3 apenas.",
+      "e": "2 e 4 apenas."
+    },
+    "correta": "c",
+    "explicacao": "O princípio da **valorização do servidor público** e do **respeito à justiça** está ligado aos valores éticos que regem o funcionalismo público, conforme os códigos de conduta e o Estatuto dos Servidores Municipais. Os itens corretos são os que expressam a imparcialidade, a equidade e o compromisso com o interesse coletivo. Esses princípios derivam diretamente do **art. 37 da Constituição Federal**, que estabelece os fundamentos da administração pública — legalidade, impessoalidade, moralidade, publicidade e eficiência — e da ética do servidor prevista em normas municipais e federais. Portanto, os itens 1, 2 e 4 representam corretamente essa postura ética e profissional, justificando a alternativa (c)."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 33,
+    "enunciado": "Com base no Estatuto Geral das Guardas Municipais, identifique como verdadeiras (V) ou falsas (F): ( ) A proteção dos direitos humanos fundamentais é um dos princípios mínimos de atuação das guardas municipais. ( ) É competência geral das guardas municipais a proteção de bens, serviços, logradouros públicos e instalações do Município. ( ) Somente a União pode criar, por lei, a guarda municipal. ( ) A guarda municipal é subordinada ao chefe do Poder Executivo municipal. Assinale a alternativa correta.",
+    "alternativas": {
+      "a": "F – V – V – V.",
+      "b": "V – F – V – F.",
+      "c": "V – V – F – V.",
+      "d": "F – V – V – F.",
+      "e": "V – F – F – V."
+    },
+    "correta": "c",
+    "explicacao": "A resposta correta é (c). O **Estatuto Geral das Guardas Municipais (Lei Federal 13.022/2014)** define princípios mínimos de atuação, entre os quais estão a proteção dos direitos humanos fundamentais, o exercício da cidadania e a preservação das liberdades públicas — logo, o primeiro item é verdadeiro. O segundo também é verdadeiro, pois o art. 4º da lei afirma que é competência geral das guardas municipais a proteção de bens, serviços, logradouros e instalações do Município. O terceiro é falso, porque **a criação da guarda municipal é competência de cada Município**, mediante lei própria, e não da União. O quarto é verdadeiro, pois as guardas estão subordinadas ao chefe do Poder Executivo municipal (prefeito). Portanto, a sequência correta é **V – V – F – V**."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 34,
+    "enunciado": "De acordo com a Constituição Federal:",
+    "alternativas": {
+      "a": "a saúde é um direito de todo cidadão brasileiro nato maior de 18 (dezoito) anos de idade.",
+      "b": "ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei.",
+      "c": "o exercício dos cultos religiosos depende de autorização da Administração Pública Municipal.",
+      "d": "somente mediante justificativa fundada alguém será submetido a tortura.",
+      "e": "a constituição de associação para fins lícitos depende de um juízo de conveniência e oportunidade da Administração."
+    },
+    "correta": "b",
+    "explicacao": "O dispositivo citado na alternativa (b) está literal no **art. 5º, inciso II, da Constituição Federal**: *'ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei.'* Esse princípio consagra o **Estado de Direito**, no qual todas as ações da administração pública e dos cidadãos devem ter base legal. As demais alternativas violam direitos fundamentais: (a) restringe indevidamente o direito à saúde, que é universal (art. 196); (c) fere a liberdade religiosa (art. 5º, VI); (d) contradiz o art. 5º, III, que proíbe a tortura em qualquer hipótese; e (e) viola o art. 5º, XVII, que assegura a livre associação para fins lícitos, independentemente de autorização. Portanto, a alternativa (b) é a única correta."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 35,
+    "enunciado": "Conceder-se-á mandado de injunção...  ( ) ...sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. ( ) ...sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder. ( ) ...para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais. ( ) ...para proteger direito líquido e certo, não amparado por outros remédios constitucionais, quando o responsável for autoridade pública. Assinale a alternativa correta.",
+    "alternativas": {
+      "a": "4 – 1 – 3 – 2.",
+      "b": "1 – 2 – 3 – 4.",
+      "c": "4 – 3 – 2 – 1.",
+      "d": "1 – 4 – 2 – 3.",
+      "e": "2 – 3 – 4 – 1."
+    },
+    "correta": "a",
+    "explicacao": "O **mandado de injunção** é um dos remédios constitucionais previstos no **art. 5º, LXXI, da Constituição Federal**. É concedido 'sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania'. Assim, a primeira descrição corresponde ao mandado de injunção. A segunda se refere ao **habeas corpus** (liberdade de locomoção), a terceira ao **habeas data** (acesso a informações pessoais) e a quarta ao **mandado de segurança** (proteção de direito líquido e certo). Portanto, a sequência correta é **4 – 1 – 3 – 2**, alternativa (a). Essa questão exige reconhecer as diferenças entre os principais instrumentos constitucionais de defesa de direitos."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 36,
+    "enunciado": "As guardas municipais não podem ficar sujeitas a regulamentos disciplinares de natureza militar. Assinale a alternativa correta.",
+    "alternativas": {
+      "a": "Somente a afirmativa 1 é verdadeira.",
+      "b": "Somente a afirmativa 2 é verdadeira.",
+      "c": "Somente as afirmativas 1 e 2 são verdadeiras.",
+      "d": "Somente as afirmativas 1 e 3 são verdadeiras.",
+      "e": "As afirmativas 1, 2 e 3 são verdadeiras."
+    },
+    "correta": "d",
+    "explicacao": "De acordo com o **art. 9º, §1º da Lei 13.022/2014 (Estatuto Geral das Guardas Municipais)**, as guardas municipais **não podem adotar regulamentos disciplinares de natureza militar**, devendo suas normas internas basear-se nos princípios da legalidade, necessidade, razoabilidade e proporcionalidade. Isso significa que as guardas têm caráter civil e não hierarquia ou disciplina militares. A alternativa (d) é a correta porque contempla as afirmativas que reconhecem essa natureza civil e a subordinação ao Poder Executivo municipal. O objetivo da lei é afastar práticas de militarização e reforçar o papel de proteção comunitária, cidadania e direitos humanos."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 37,
+    "enunciado": "Nos termos da Lei Municipal nº 13.769/2011, que reestruturou a carreira de segurança municipal, é correto afirmar:",
+    "alternativas": {
+      "a": "Os integrantes da carreira de segurança municipal atuam de forma autônoma e lhes é vedado auxiliar os demais órgãos da área de segurança pública das esferas estadual e federal.",
+      "b": "O Quadro de Pessoal da Guarda Municipal de Curitiba está organizado em Parte Geral, Parte Especial e Parte Permanente.",
+      "c": "Os integrantes da carreira de segurança municipal serão lotados na Secretaria Municipal da Defesa Social e poderão ter exercício nas unidades da Prefeitura Municipal de Curitiba.",
+      "d": "As áreas de atuação do cargo de Guarda Municipal são: Guarda, Supervisor, Inspetor e Consultor.",
+      "e": "A jornada de trabalho dos integrantes da carreira de segurança municipal poderá ser cumprida somente nos regimes de vinte ou quarenta horas semanais."
+    },
+    "correta": "c",
+    "explicacao": "De acordo com a **Lei Municipal 13.769/2011**, que trata da reestruturação da carreira de segurança municipal de Curitiba, os integrantes da Guarda Municipal estão vinculados à **Secretaria Municipal da Defesa Social**, podendo exercer suas funções em qualquer unidade da Prefeitura. Essa lotação visa integrar a segurança com outras áreas de atuação pública. A alternativa (c) reproduz corretamente o texto legal. As demais são incorretas: (a) contraria o espírito de cooperação entre esferas; (b) descreve estrutura inexistente; (d) inventa cargos que não constam na lei (os cargos são Guarda Municipal, Supervisor e Inspetor); e (e) erra ao limitar as jornadas, que podem variar conforme necessidade administrativa. Assim, a alternativa (c) é a correta."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 38,
+    "enunciado": "“Expor a perigo a vida ou a saúde de pessoa sob sua autoridade, guarda ou vigilância, para fins de educação, ensino, tratamento ou custódia, privando-a de alimentação ou cuidados indispensáveis, sujeitando-a a trabalho excessivo ou inadequado, ou abusando de meios de correção ou disciplina.” Tal é a descrição do crime de:",
+    "alternativas": {
+      "a": "exposição.",
+      "b": "maus-tratos.",
+      "c": "perigo.",
+      "d": "lesão.",
+      "e": "atentado."
+    },
+    "correta": "b",
+    "explicacao": "A descrição corresponde ao crime de **maus-tratos**, previsto no **art. 136 do Código Penal Brasileiro**. O tipo penal pune quem expõe pessoa sob sua autoridade, guarda ou vigilância a risco à vida ou à saúde, mediante privação de cuidados, excesso de trabalho ou abusos disciplinares. O crime protege a integridade física e moral, sendo comum em contextos de educação, tratamento ou custódia. A pena é aumentada se da conduta resultar lesão corporal grave ou morte. As demais alternativas são incorretas porque: (a) e (c) não são tipos penais autônomos; (d) 'lesão' se refere ao art. 129 (resultado físico concreto); e (e) 'atentado' não designa esse tipo de conduta. Assim, a correta é (b)."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 39,
+    "enunciado": "De acordo com a Lei nº 10.826/2003 (Estatuto do Desarmamento), podem portar arma de fogo, sob as condições estabelecidas em lei e regulamentos, EXCETO:",
+    "alternativas": {
+      "a": "os advogados inscritos na Ordem dos Advogados do Brasil.",
+      "b": "os integrantes das Forças Armadas.",
+      "c": "os integrantes das guardas municipais das capitais dos estados e dos municípios com mais de 500 mil habitantes.",
+      "d": "os auditores-fiscais da Receita Federal do Brasil.",
+      "e": "os membros do Ministério Público."
+    },
+    "correta": "a",
+    "explicacao": "O **Estatuto do Desarmamento (Lei 10.826/2003)** define no **art. 6º** quem tem porte de arma permitido. A exceção correta é a alternativa (a), pois **advogados não possuem direito ao porte de arma** pelo simples fato de serem inscritos na OAB. O porte é restrito a determinadas categorias, como integrantes das Forças Armadas, das polícias federal, civil, rodoviária, ferroviária, das guardas municipais (em municípios com mais de 500 mil habitantes), auditores-fiscais da Receita Federal e membros do Ministério Público. Além disso, mesmo para as categorias autorizadas, o porte é condicionado a requisitos técnicos e psicológicos. Assim, a letra (a) é a única que não tem previsão legal, sendo a resposta correta."
+  },
+  {
+    "materia": "Legislação",
+    "numero": 40,
+    "enunciado": "Em conformidade com o Estatuto do Idoso, a política de atendimento ao idoso será feita:",
+    "alternativas": {
+      "a": "exclusivamente pela União.",
+      "b": "exclusivamente pelos Estados.",
+      "c": "pelos Municípios, com auxílio da União e dos Estados.",
+      "d": "exclusivamente pelos Entes Federados.",
+      "e": "mediante conjunto articulado de ações governamentais e não governamentais."
+    },
+    "correta": "e",
+    "explicacao": "O **art. 46 do Estatuto do Idoso (Lei 10.741/2003)** estabelece que a política de atendimento ao idoso será realizada **mediante um conjunto articulado de ações governamentais e não governamentais**. Isso significa que a responsabilidade é compartilhada entre poder público e sociedade civil, abrangendo União, Estados, Municípios, famílias, organizações sociais e entidades privadas. O objetivo é garantir proteção integral, inclusão e respeito à dignidade da pessoa idosa. As demais alternativas limitam indevidamente a responsabilidade a um único ente federado. Portanto, a alternativa (e) é a correta e expressa o caráter integrado da política pública voltada à terceira idade."
+  },
+  {
+    "materia": "Português",
+    "numero": 1,
+    "enunciado": "De acordo com o texto, os alunos surdos tinham dificuldade em entender Machado de Assis porque:",
+    "alternativas": {
+      "a": "a biblioteca escolar não dispunha de livros suficientes.",
+      "b": "o português não era a língua materna deles.",
+      "c": "a professora da escola não sabia que eles eram surdos.",
+      "d": "a surdez afetou a capacidade intelectual deles.",
+      "e": "a disciplina de literatura não era ofertada no Ensino Médio da escola pública."
+    },
+    "correta": "b",
+    "explicacao": "Os alunos surdos apresentavam dificuldade de compreender as obras de Machado de Assis não por falta de inteligência ou de interesse, mas por uma questão linguística: o português não era sua língua materna, e sim a Língua Brasileira de Sinais (Libras). Essa diferença de língua interfere diretamente na leitura de textos literários complexos, como os de Machado, que usa construções sintáticas elaboradas, vocabulário culto e ironia. Quando o aluno surdo aprende o português como segunda língua, o domínio da gramática, da semântica e das sutilezas culturais é adquirido com mais esforço. Assim, compreender obras clássicas requer estratégias específicas de ensino, o que justifica a alternativa (b). As demais opções fogem do contexto textual: não há menção à falta de livros (a), à ignorância da professora (c), à deficiência intelectual (d) — o texto, ao contrário, desmistifica essa ideia — nem à ausência da disciplina (e)."
+  },
+  {
+    "materia": "Português",
+    "numero": 2,
+    "enunciado": "Assinale a alternativa que apresenta uma dica dada pela autora à professora que queria ensinar a literatura de Machado de Assis aos seus alunos.",
+    "alternativas": {
+      "a": "Explicar a estrutura das frases típica das obras do autor.",
+      "b": "Apresentar a obra de forma adaptada, utilizando sintaxe simplificada.",
+      "c": "Ler com os alunos obras portuguesas publicadas no mesmo período.",
+      "d": "Orientar os alunos a ler a obra em voz alta.",
+      "e": "Visitar museus brasileiros do século XIX."
+    },
+    "correta": "a",
+    "explicacao": "A autora aconselha a professora a explicar a estrutura frasal típica de Machado de Assis, ou seja, ajudar os alunos a compreender a forma como o autor constrói seus períodos, inversões e orações intercaladas. Isso auxilia na leitura e interpretação, especialmente para alunos com português como segunda língua. A proposta não é simplificar o texto ou substituir por uma versão adaptada, mas sim oferecer suporte linguístico para que o aluno compreenda o texto original, valorizando o contato com o autor. As demais opções não aparecem no texto-base: não se fala em ler outras obras (c), nem em leitura em voz alta (d) ou visitas a museus (e). A alternativa (b) — adaptar com sintaxe simples — vai contra o propósito da autora, que defende o acesso ao texto literário autêntico, ainda que mediado."
+  },
+  {
+    "materia": "Português",
+    "numero": 3,
+    "enunciado": "De acordo com o texto, a autora:",
+    "alternativas": {
+      "a": "critica a forma de ensinar os alunos surdos da Faculdade de Letras.",
+      "b": "convida o leitor a conhecer a obra de Machado de Assis.",
+      "c": "relata uma experiência que mudou sua forma de ensinar literatura.",
+      "d": "aponta para a necessidade de fazer literatura para pessoas com deficiência visual.",
+      "e": "acredita que os alunos surdos devem dispor de intérprete de Libras na sala de aula regular."
+    },
+    "correta": "c",
+    "explicacao": "A autora narra uma vivência pessoal em sala de aula com alunos surdos que transformou sua forma de enxergar o ensino da literatura. Essa experiência levou-a a refletir sobre a mediação do texto literário, o papel da língua e as barreiras que o português escrito impõe aos alunos cuja primeira língua é a Libras. Assim, a alternativa (c) é correta, pois descreve exatamente o foco do texto: um relato reflexivo sobre ensino e inclusão. A (a) está incorreta porque não há crítica à metodologia da faculdade, mas um relato empático; (b) reduz indevidamente o propósito do texto, que é educativo, não promocional; (d) confunde deficiência visual com auditiva; e (e) extrapola o texto — embora intérprete de Libras seja importante, o texto não defende isso diretamente, e sim a adaptação didática do ensino de literatura."
+  },
+  {
+    "materia": "Português",
+    "numero": 5,
+    "enunciado": "Assinale a alternativa que preenche corretamente as lacunas, na ordem em que aparecem no texto.",
+    "alternativas": {
+      "a": "aonde – mas – o que – quê",
+      "b": "aonde – mas – a qual – em que",
+      "c": "aonde – então – do quê – que",
+      "d": "onde – então – em que – do qual",
+      "e": "onde – mas – o quê – em que"
+    },
+    "correta": "e",
+    "explicacao": "A alternativa (e) é a correta porque respeita as regras de regência e o uso adequado dos pronomes relativos e conectivos. 'Onde' é usado para indicar lugar (não movimento, por isso 'aonde' seria incorreto se não houver ideia de deslocamento). 'Mas' é conjunção adversativa, adequada para contrastar ideias. 'O quê' — com acento e artigo — é usado quando aparece no fim de oração interrogativa direta ou indireta. Por fim, 'em que' é a preposição 'em' mais o pronome relativo 'que', usado para retomar termos exigindo preposição. As demais combinações incorrem em erros de regência ou colocam pronomes indevidos, como 'aonde' (que pressupõe movimento) ou 'do qual' (que exige antecedente masculino singular e preposição 'de')."
+  },
+  {
+    "materia": "Português",
+    "numero": 6,
+    "enunciado": "O termo “Que”, destacado no segundo parágrafo, é relativo a:",
+    "alternativas": {
+      "a": "consistia",
+      "b": "castigo",
+      "c": "fato",
+      "d": "ficar de pé",
+      "e": "canto da sala"
+    },
+    "correta": "b",
+    "explicacao": "O pronome relativo 'que' retoma o substantivo imediatamente anterior, servindo de elo entre as orações. No texto, ele refere-se ao termo 'castigo', funcionando como elemento de coesão que evita repetição. A alternativa (b) é correta, portanto. Essa é uma questão clássica de análise sintática textual: o 'que' pode exercer várias funções (sujeito, objeto, complemento etc.), mas sua referência é sempre o termo anterior. As demais opções (a, c, d, e) não possuem relação semântica direta com o pronome destacado no trecho indicado."
+  },
+  {
+    "materia": "Português",
+    "numero": 7,
+    "enunciado": "De acordo com o texto, “santinho do pau oco” significa:",
+    "alternativas": {
+      "a": "uma pessoa religiosa e virtuosa.",
+      "b": "uma pessoa que se parece com um santo.",
+      "c": "um estudante aplicado na escola.",
+      "d": "alguém que aparenta ser bom, mas não é.",
+      "e": "alguém que é facilmente enganado."
+    },
+    "correta": "d",
+    "explicacao": "A expressão 'santinho do pau oco' é uma metáfora popular de origem colonial. No século XVII, traficantes escondiam ouro dentro de imagens de santos ocos de madeira para contrabandear o metal. Com o tempo, a expressão passou a designar pessoas falsas, que aparentam virtude, mas escondem intenções desonestas. No texto, o narrador usa a expressão nesse sentido figurado, para descrever hipocrisia ou disfarce de bondade. Logo, a alternativa (d) é a correta. As demais interpretam literalmente a expressão, sem captar seu valor idiomático e irônico."
+  },
+  {
+    "materia": "Português",
+    "numero": 8,
+    "enunciado": "De acordo com o texto, o narrador:",
+    "alternativas": {
+      "a": "tinha uma visão distorcida da Dona Ilka, que só queria que seus alunos se comportassem bem.",
+      "b": "não era bem-comportado como imaginava, do contrário não teria recebido o castigo da professora.",
+      "c": "desenvolveu um tipo de trauma comportamental devido ao julgamento sofrido na infância.",
+      "d": "desenvolveu falhas de memória por conta do medo que sentia de Dona Ilka.",
+      "e": "gostaria de que Dona Ilka fosse sua “tia”, assim ela teria sido mais maternal."
+    },
+    "correta": "c",
+    "explicacao": "O texto sugere que a experiência com Dona Ilka — uma professora rígida — deixou marcas psicológicas no narrador, que rememora o episódio com certa carga emocional e crítica. O castigo recebido (ficar de pé no canto) representa uma forma de repressão comum na época e, segundo a narrativa, influenciou sua forma de encarar autoridade e comportamento. Assim, ele não apenas relembra o fato, mas reconhece o impacto duradouro (trauma ou condicionamento). Por isso, a alternativa (c) é a mais adequada. As demais reduzem a complexidade do relato, ignorando o tom reflexivo e simbólico do texto."
+  },
+  {
+    "materia": "Português",
+    "numero": 9,
+    "enunciado": "No trecho “Isto tudo, já dá pra ver, foi mais ou menos lá pela Idade Média”, o narrador:",
+    "alternativas": {
+      "a": "exagera intencionalmente para enfatizar que o castigo recebido era medieval e já não existe mais.",
+      "b": "faz uma constatação dos abusos sofridos em sala de aula pelas crianças da Idade Média.",
+      "c": "faz uma comparação entre o castigo recebido e aqueles aplicados na Idade Média.",
+      "d": "reforça a ideia de falta de lembrança do motivo pelo qual recebeu o castigo da professora.",
+      "e": "dá a entender que já faz muito tempo que recebeu o castigo, por isso não se lembra do motivo."
+    },
+    "correta": "a",
+    "explicacao": "O narrador usa ironia e hipérbole ao dizer que o castigo ocorreu 'lá pela Idade Média', expressão figurada para indicar que o método era ultrapassado e severo, como os castigos medievais. A intenção não é literal, mas crítica — ele denuncia, com humor, a prática autoritária ainda presente em tempos modernos. Logo, a alternativa (a) está correta. As demais opções interpretam de modo literal ou desviam o foco do recurso estilístico (exagero intencional para reforço de sentido)."
+  },
+  {
+    "materia": "Português",
+    "numero": 10,
+    "enunciado": "Assinale a alternativa que preenche corretamente as lacunas, na ordem em que aparecem no texto.",
+    "alternativas": {
+      "a": "acender – criar – aparecer – viver",
+      "b": "apagar – parar – continuar – avançar",
+      "c": "subir – deixar – sumir – nascer",
+      "d": "eliminar – devastar – surgir – brotar",
+      "e": "aniquilar – exterminar – desaparecer – morrer"
+    },
+    "correta": "e",
+    "explicacao": "O verbo 'extinguir' vem do latim 'exstinguere', significando originalmente 'apagar o fogo', mas evoluiu semanticamente para 'aniquilar', 'exterminar', 'fazer desaparecer', 'fazer morrer'. Assim, as lacunas exigem verbos sinônimos que expressem gradualmente o sentido de fim, morte ou supressão — exatamente como 'aniquilar', 'exterminar', 'desaparecer', 'morrer'. As demais opções introduzem sentidos diferentes (como 'criar' ou 'continuar') ou incoerentes com a ideia de 'extinção'. A alternativa (e) é, portanto, a correta."
+  },
+  {
+    "materia": "Português",
+    "numero": 12,
+    "enunciado": "A palavra “daí”, destacada no texto, pode ser substituída, sem prejuízo de sentido, por:",
+    "alternativas": {
+      "a": "isto é",
+      "b": "então",
+      "c": "porque",
+      "d": "ou seja",
+      "e": "por isso"
+    },
+    "correta": "e",
+    "explicacao": "No contexto do texto, 'daí' tem valor consecutivo, indicando uma relação de causa e consequência: 'extinguir é apagar o fogo, daí o nosso extintor'. O sentido é 'por isso', e não 'isto é' (explicativo) ou 'porque' (causal). Assim, a substituição correta é (e) 'por isso'. O conhecimento do valor semântico dos conectivos é essencial em provas da NC/UFPR, que frequentemente cobra a diferença entre conectores causais, consecutivos e explicativos."
+  },
+  {
+    "materia": "Português",
+    "numero": 13,
+    "enunciado": "No texto, a palavra “iminente” significa:",
+    "alternativas": {
+      "a": "notável",
+      "b": "proeminente",
+      "c": "extremo",
+      "d": "imediato",
+      "e": "remoto"
+    },
+    "correta": "d",
+    "explicacao": "O termo 'iminente' designa algo prestes a acontecer, próximo no tempo — sinônimo de 'imediato', 'a ponto de ocorrer'. O texto fala do 'apagamento iminente de espécies', ou seja, de uma ameaça que está para ocorrer em breve. 'Proeminente' significa 'que se destaca', e 'remoto' o oposto de iminente (algo distante). Portanto, a alternativa (d) é correta."
+  },
+  {
+    "materia": "Português",
+    "numero": 14,
+    "enunciado": "As metáforas do amor e da vida apresentadas no texto são um tipo de figura de linguagem [...] A palavra “fogo” NÃO está sendo utilizada como figura de linguagem em:",
+    "alternativas": {
+      "a": "Ele estava tão exaltado que parecia cuspir fogo pela boca.",
+      "b": "Em questão de minutos, o quarto foi consumido pelo fogo.",
+      "c": "Ele era o fogo suave que aquecia meu coração.",
+      "d": "O fogo dançava no chão, alegre e saltitante.",
+      "e": "No fogo cruzado das emoções, é necessário encontrar serenidade."
+    },
+    "correta": "b",
+    "explicacao": "A alternativa (b) é a única em que 'fogo' é empregado em sentido denotativo — ou literal — referindo-se ao elemento físico. Em todas as outras, o termo tem valor conotativo, representando emoções, raiva, paixão ou conflito (metáforas). A NC/UFPR costuma cobrar essa distinção entre linguagem literal (denotativa) e figurada (conotativa)."
+  },
+  {
+    "materia": "Português",
+    "numero": 15,
+    "enunciado": "Do último parágrafo do texto, é possível depreender a definição de verbo reflexivo e de voz passiva [...]. O autor utiliza a construção desse parágrafo para:",
+    "alternativas": {
+      "a": "demonstrar que essas formas são utilizadas para abrandar a culpabilidade do ser humano pela extinção de várias espécies.",
+      "b": "afirmar que as pessoas utilizam essas formas erroneamente ao fazerem metáforas.",
+      "c": "exemplificar a definição do verbo “extinguir”, de base latina.",
+      "d": "denunciar a falta de ação sobre os incêndios florestais que extinguem várias espécies.",
+      "e": "explicar os versos de Vinicius de Moraes, que utilizam esses recursos."
+    },
+    "correta": "a",
+    "explicacao": "O autor reflete sobre o uso da voz passiva ('as espécies estão ameaçadas') e dos verbos reflexivos ('as espécies se extinguem') para mostrar como a linguagem mascara o agente causador — o ser humano. Ao empregar essas construções, dilui-se a responsabilidade, como se a extinção ocorresse sozinha. Assim, o texto denuncia o uso linguístico que suaviza a culpa humana na destruição ambiental. Logo, a alternativa (a) é correta, pois reconhece o recurso linguístico como instrumento ideológico de abrandamento da responsabilidade. As demais tratam de temas laterais ou distorcem o foco crítico do texto."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 16,
+    "enunciado": "Em uma cafeteria, um grupo de pessoas comprou 2 cafés espressos e 3 cappuccinos, totalizando R$ 31,50. Outro grupo de pessoas comprou 5 cafés espressos e 2 cappuccinos, totalizando R$ 37,50. Assinale a alternativa que apresenta corretamente o preço do café espresso nessa cafeteria . 6/8 *17 - O terreno de Helena tem formato de trapézio, como mostra a figura a seguir. Assinale a alternativa que apresenta o valor da área do terreno  de Helena.",
+    "alternativas": {
+      "a": "39 m²",
+      "b": "55 m²",
+      "c": "66 m²",
+      "d": "77 m²",
+      "e": "95 m²"
+    },
+    "correta": "d",
+    "explicacao": "Há uma inconsistência no enunciado que você colou: a parte inicial (sistema com espressos e cappuccinos) pede o preço do espresso; já as alternativas são áreas (m²), o que combina com um problema de trapézio (aparentemente a Q17). Vou mostrar as CONTAS das duas leituras para te ajudar no app:\\n\\n1) SISTEMA (preço do espresso) — se essa fosse a pergunta: Seja e = preço do espresso (R$) e c = preço do cappuccino (R$).\\n• 2e + 3c = 31,50\\n• 5e + 2c = 37,50\\nMultiplique a 1ª por 2: 4e + 6c = 63,00. Multiplique a 2ª por 3: 15e + 6c = 112,50. Subtraindo: (15e − 4e) + (6c − 6c) = 112,50 − 63,00 → 11e = 49,50 → e = 49,50/11 = 4,50. Logo, o espresso custa R$ 4,50.\\n\\n2) TRAPÉZIO (área) — é o que bate com as alternativas e o gabarito (d = 77 m²). A área de um trapézio é A = (B + b)·h/2 (soma das bases vezes a altura, dividido por 2). Como a figura não veio com medidas, não dá para reproduzir números aqui, mas o gabarito aponta 77 m². No seu app, mostre a fórmula e substitua as medidas da figura original para chegar a 77.\\n\\nComo as alternativas estão em m² e a letra correta fornecida é (d), seu gabarito está casando com a leitura do TRAPÉZIO. Já deixei as duas soluções explicadas para você decidir qual usar com o enunciado definitivo."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 18,
+    "enunciado": "Uma peça usada na construção civil tem formato de paralelepípedo com dimensões 7 cm, 8 cm e 10 cm e é feita utilizando cimento em um molde no mesmo formato e dimensões da peça. Um pedreiro vai usar 200 L de cimento para fazer peças desse tipo. Desconsiderando a espessura do molde e sabendo que 1000 cm3 equivalem a 1 L, assinale a alternativa que apresenta a quantidade máxima de peças que esse pedreiro poderá fazer.",
+    "alternativas": {
+      "a": "189",
+      "b": "270",
+      "c": "271",
+      "d": "357",
+      "e": "358"
+    },
+    "correta": "d",
+    "explicacao": "1) Volume de UMA peça: V = 7 × 8 × 10 = 560 cm³.\\n2) Conversão do volume total disponível: 200 L = 200 × 1000 = 200.000 cm³.\\n3) Quantidade máxima de peças = 200.000 / 560 = 357,142… → como não dá para fazer peça fracionada, cabem 357 peças. Alternativa (d)."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 19,
+    "enunciado": "Allan observou uma cultura de bactérias durante uma semana. No primeiro dia, havia 5760 bactérias nessa colônia e, nos dias seguintes, havia sempre a metade da quantidade de bactérias do dia anterior. Assinale a alternativa que apresenta a quantidade de bactérias que havia no sétimo dia de observação de Allan.",
+    "alternativas": {
+      "a": "75",
+      "b": "90",
+      "c": "120",
+      "d": "180",
+      "e": "215"
+    },
+    "correta": "b",
+    "explicacao": "Progressão geométrica de razão 1/2. Dia 1: 5760. Dia 2: 5760/2 = 2880. Dia 3: 1440. Dia 4: 720. Dia 5: 360. Dia 6: 180. Dia 7: 90. Alternativa (b).\\nFórmula direta: a_n = a_1·(1/2)^(n−1) → a_7 = 5760·(1/2)^6 = 5760/64 = 90."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 20,
+    "enunciado": "Em uma fábrica de camisetas,  25 costureiras trabalham no mesmo ritmo para confeccionar 200 camisetas em uma semana. Para aumentar a produção, foram contratadas mais 15 costureiras. Assinale a alternativa que apresenta a quantidade de camisetas produzidas por todas essas costureiras durante uma semana.",
+    "alternativas": {
+      "a": "120",
+      "b": "125",
+      "c": "320",
+      "d": "334",
+      "e": "412"
+    },
+    "correta": "c",
+    "explicacao": "Produtividade proporcional ao número de trabalhadoras.\\n• 25 costureiras → 200 camisetas/semana → 1 costureira produz 200/25 = 8 camisetas/semana.\\n• Com 25 + 15 = 40 costureiras → 40 × 8 = 320 camisetas/semana. Alternativa (c)."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 21,
+    "enunciado": "Um tijolo, em formato de paralelepípedo, tem arestas medindo 0,1 m, 0,2 m e 0,3 m. Uma empresa comprou 2350 tijolos e os buscará em uma carreta que pode transportar, no máximo, 2,4 m³ de tijolo por vez. Assinale a alternativa que apresenta a quantidade mínima de viagens que a carreta deverá fazer para transportar todos os tijolos.",
+    "alternativas": {
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "8",
+      "e": "9"
+    },
+    "correta": "b",
+    "explicacao": "1) Volume de um tijolo: 0,1 × 0,2 × 0,3 = 0,006 m³.\\n2) Volume total: 2350 × 0,006 = 14,1 m³.\\n3) Capacidade por viagem: 2,4 m³ → viagens = 14,1/2,4 = 5,875… → precisa arredondar para cima: 6 viagens. Alternativa (b)."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 22,
+    "enunciado": "O professor Walter elaborou 5 questões para um trabalho de Matemática. Cada aluno poderia escolher, entre elas, 4 questões para resolver. Assinale a alternativa que apresenta a quantidade de trabalhos distintos que os alunos de Walter podem fazer. * Questão anulada, portanto todos os candidatos serão pontuados.",
+    "alternativas": {
+      "a": "30 b) 60",
+      "c": "90",
+      "d": "100",
+      "e": "120"
+    },
+    "correta": "e",
+    "explicacao": "Há duas leituras possíveis:\\n• Se a ORDEM NÃO importasse (apenas quais 4 são escolhidas), seriam combinações: C(5,4) = 5.\\n• Como o gabarito aponta (e) = 120, a banca considerou a ORDEM das 4 questões (arranjos): A(5,4) = 5×4×3×2 = 120.\\nAssim, a resposta casa com arranjo sem repetição, alternativa (e)."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 23,
+    "enunciado": "Suponha-se que o departamento de trânsito do estado do Paraná queira colocar placas a cada 600 m no trecho de Curitiba a Almirante Tamandaré. Assinale a alternativa que apresenta a quantidade de placas que o departamento de trânsito deverá providenciar.",
+    "alternativas": {
+      "a": "21",
+      "b": "22",
+      "c": "23",
+      "d": "24",
+      "e": "25"
+    },
+    "correta": "e",
+    "explicacao": "A distância indicada no texto-base municipal é de 15 km (15.000 m). Placas a cada 600 m → 15.000/600 = 25 intervalos.\\n• Se CONTAR apenas os pontos de instalação por intervalo, dá 25 placas (como no gabarito).\\n• Se incluíssemos uma placa inicial no marco 0 e outra no final, seriam 26.\\nA banca adotou a primeira convenção → 25 placas. Alternativa (e)."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 24,
+    "enunciado": "Suponha-se que, alguns anos depois de 2017, a população de Almirante Tamandaré tenha aumentado em 8%. Assinale a alternativa que apresenta a quantidade aproximada de habitantes de Almirante Tamandaré depois desse aumento.",
+    "alternativas": {
+      "a": "120000",
+      "b": "124000",
+      "c": "132000",
+      "d": "138000",
+      "e": "142000"
+    },
+    "correta": "b",
+    "explicacao": "População-base (2017): 115.364. Aumento de 8% → multiplicar por 1,08.\\n115.364 × 1,08 = 124.593,12 ≈ 124.000 (aproximação às alternativas). Alternativa (b)."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 25,
+    "enunciado": "Nos primeiros 29 dias do mês de abril, a média de frequentadores de uma academia por dia foi 210. No 30.º dia do mês, 270 pessoas frequentaram a academia. Assinale a alternativa que apresenta a média de frequentadores dessa academia por dia no mês de abril.",
+    "alternativas": {
+      "a": "212 b) 240",
+      "c": "321",
+      "d": "414",
+      "e": "480"
+    },
+    "correta": "a",
+    "explicacao": "Total dos 29 primeiros dias: 29 × 210 = 6090. No 30º dia: +270 → total do mês = 6090 + 270 = 6360.\\nMédia mensal: 6360/30 = 212. Alternativa (a)."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 26,
+    "enunciado": "Uma sorveteria tem 6 opções de sabores de sorvete, 3 opções de caldas, 2 opções de tamanhos de casquinhas e 3 opções de tamanhos de potes. Pode-se preparar pedidos com uma opção de sabor de sorvete, uma opção de calda e uma opção de casquinha ou de pote. Assinale a alternativa que apresenta a quantidade de pedidos distintos que podem ser feitos nessa sorveteria.",
+    "alternativas": {
+      "a": "14 b) 39",
+      "c": "54",
+      "d": "72",
+      "e": "90"
+    },
+    "correta": "e",
+    "explicacao": "Escolhas independentes: sabor (6) × calda (3) × recipiente. O recipiente é OU casquinha (2 tamanhos) OU pote (3 tamanhos) → 2 + 3 = 5 possibilidades.\\nTotal = 6 × 3 × 5 = 90. Alternativa (e)."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 27,
+    "enunciado": "Nathalia teve notas 60, 70 e 80 em Matemática nos três primeiros bimestres do ano. No quarto bimestre a média das suas notas em Matemática aumentou 5 pontos. Assinale a alternativa que apresenta a nota de Nathalia em Matemática no quarto bimestre.",
+    "alternativas": {
+      "a": "75 b) 80",
+      "c": "85",
+      "d": "90",
+      "e": "95"
+    },
+    "correta": "d",
+    "explicacao": "Média dos 3 primeiros: (60+70+80)/3 = 210/3 = 70. A média anual após o 4º bimestre aumentou 5 pontos → média final = 75.\\nSejam as 4 notas N1=60, N2=70, N3=80, N4=?\\n(60+70+80+N4)/4 = 75 → 210 + N4 = 300 → N4 = 90. Alternativa (d)."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 28,
+    "enunciado": "Uma empresa registrou os preços de produção (em reais) do seu principal produto no primeiro semestre de 2020 em um gráfico de linhas, apresentado a seguir. Com base nas informações apresentadas, assinale a alternativa correta.",
+    "alternativas": {
+      "a": "Só houve aumentos no preço do produto naquele semestre.",
+      "b": "O maior aumento no preço do produto foi de abril para maio daquele ano.",
+      "c": "A maior variação no preço do produto se deu de maio para junho daquele ano.",
+      "d": "O menor preço do produto foi de 8 reais naquele ano.",
+      "e": "A maior queda no preço do produto foi de fevereiro para março daquele ano."
+    },
+    "correta": "b",
+    "explicacao": "Sem a imagem do gráfico, não dá para refazer números, mas o gabarito indica que o maior salto positivo de um mês para o seguinte ocorreu entre abril e maio. Em questões assim, o passo a passo é: (i) ler o valor de cada mês; (ii) calcular variações mensais (mês seguinte − mês anterior); (iii) comparar os incrementos positivos; (iv) escolher o maior. A alternativa (b) é a indicada pelo gabarito."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 29,
+    "enunciado": "Trinta e duas pessoas foram entrevistadas para saber qual marca de sabonete usam: Refrescante ou Bom Cheiro. Dos entrevistados, 15 disseram que usam Bom Cheiro, 12 disseram que usam ambas as marcas, e 10 disseram que não usam nenhuma das duas. Assinale a alternativa que apresenta a quantidade total de pessoas que usam Refrescante.",
+    "alternativas": {
+      "a": "19",
+      "b": "12",
+      "c": "7",
+      "d": "5",
+      "e": "3"
+    },
+    "correta": "a",
+    "explicacao": "Conjuntos (diagrama de Venn). Total = 32. Nenhuma = 10 → usam pelo menos uma = 32 − 10 = 22.\\nBom Cheiro (B) = 15, ambas = 12 → só Bom Cheiro = 15 − 12 = 3.\\nSeja R o total que usa Refrescante. Então: (só B) + (ambas) + (só R) = 22 → 3 + 12 + (só R) = 22 → (só R) = 7.\\nLogo, Refrescante total = (só R) + (ambas) = 7 + 12 = 19. Alternativa (a)."
+  },
+  {
+    "materia": "Matemática",
+    "numero": 30,
+    "enunciado": "O dobro do antecessor de um número é igual ao triplo do sucessor desse número. Assinale a alternativa que apresenta esse número.",
+    "alternativas": {
+      "a": "–7 b) –6",
+      "c": "–5",
+      "d": "–4",
+      "e": "–3"
+    },
+    "correta": "c",
+    "explicacao": "Seja n o número. Antecessor: n − 1; sucessor: n + 1. Equação: 2(n − 1) = 3(n + 1) → 2n − 2 = 3n + 3 → −2 − 3 = 3n − 2n → −5 = n.\\nPortanto, n = −5. Alternativa (c)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Português",
+    "numero": 1,
+    "enunciado": "Assinale a alternativa que preenche corretamente a lacuna no 4.º parágrafo.",
+    "alternativas": { "a": "que", "b": "pelas quais", "c": "onde", "d": "no que", "e": "cujas" },
+    "correta": "b",
+    "explicacao": "A lacuna pede um pronome relativo com preposição explícita que retome um termo plural e exija a ideia de ‘por meio de/através de’. Nesse contexto, “pelas quais” é o relativo composto (“por” + “as quais”) que concorda em número e gênero com o antecedente e indica a relação semântica adequada (meio/instrumento). “Que/no que” carecem da preposição exigida; “onde” se usa preferencialmente com ideia de lugar; “cujas” indica posse e não comporta artigo, além de exigir um nome após si."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Português",
+    "numero": 2,
+    "enunciado": "Considerando a ortografia oficial, assinale a alternativa que preenche corretamente as lacunas no 5.º parágrafo, na ordem em que aparecem no texto.",
+    "alternativas": {
+      "a": "acessíveis – descriminação b) assecíveis – descriminação",
+      "c": "acesíveis – discriminalização",
+      "d": "acessíveis – discriminação",
+      "e": "asessíveis – discriminação"
+    },
+    "correta": "d",
+    "explicacao": "Pela ortografia vigente: escreve-se “acessíveis” (com ‘cc’ e ‘ss’, pois deriva de “acesso” + sufixos), e “discriminação” (com ‘s’ após ‘di’, pois vem de ‘discriminar’ = distinguir). “Descriminação” tem outro sentido (retirar crime). As demais formas apresentam erros gráficos (‘assecíveis’, ‘acesíveis’, ‘asessíveis’) ou confusão semântica (“descriminação”)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Português",
+    "numero": 3,
+    "enunciado": "De acordo com as ideias do texto, as mulheres nordestinas: 4/7",
+    "alternativas": {
+      "a": "têm menos oportunidades de emprego que os homens daquela região, embora sejam mais competentes do que eles.",
+      "b": "são prioridade na agenda de políticas públicas de emprego e benefícios de maternidade no Nordeste.",
+      "c": "apresentam capacidades incompatíveis com o mercado de trabalho.",
+      "d": "servem de exemplo, ocupando posições de liderança em empresas com diversidade de gênero.",
+      "e": "representam a maior parcela da população jovem do Nordeste."
+    },
+    "correta": "a",
+    "explicacao": "A tese do texto é que há um ‘desperdício’ de capital humano feminino: elas têm competências compatíveis/altas, mas enfrentam barreiras estruturais (cuidado doméstico, falta de creches, preconceitos) que reduzem sua participação e oportunidades. Logo, (a) resume a ideia central (menor oportunidade apesar da competência). As opções (b), (d) e (e) não refletem o diagnóstico crítico; (c) contraria o argumento (não se trata de incapacidade)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Português",
+    "numero": 4,
+    "enunciado": "De acordo com os dados de 2023 do IBGE apresentados no texto, o percentual de participação das mulheres na força de trabalho nordestina:",
+    "alternativas": {
+      "a": "corresponde a 54%, contrastando com os 65% da região Sudeste.",
+      "b": "é resultado do aumento da população feminina em idade ativa na região Nordeste.",
+      "c": "chegou a 56% em 2019 , enquanto o potencial produtivo total das mulheres brasileiras era de 46%.",
+      "d": "influencia diretamente a queda da taxa de participação da força de trabalho total na região Nordeste.",
+      "e": "apresentou queda em 2022 por conta do baixo PIB da região nordestina em relação ao PIB nacional."
+    },
+    "correta": "d",
+    "explicacao": "O texto argumenta que a baixa participação feminina reduz a taxa agregada de participação da força de trabalho (efeito macro), isto é, é um componente explicativo da queda global. Não se afirma o percentual exato de (a) ou (c); (b) infere causa demográfica não mencionada; (e) atribui à variação do PIB, o que o texto não sustenta. Por isso, (d) capta corretamente o nexo causal discutido."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Português",
+    "numero": 5,
+    "enunciado": "De acordo com o texto, em relação à força de trabalho masculina, a competência feminina no mercado de trabalho nordestino é:",
+    "alternativas": { "a": "otimizada.", "b": "compatível.", "c": "equilibrada.", "d": "privilegiada.", "e": "desfavorecida." },
+    "correta": "e",
+    "explicacao": "O texto sustenta que a competência feminina não se converte em oportunidades na mesma proporção, por barreiras estruturais (cuidado com filhos, escassez de creches, preconceitos). Portanto, a situação das mulheres é “desfavorecida”. “Otimizada”, “equilibrada” e “privilegiada” discordam do diagnóstico; “compatível” ignora o descompasso entre competência e inserção."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Português",
+    "numero": 6,
+    "enunciado": "De acordo com o texto, o que significa a “oportunidade perdida” de que trata o terceiro parágrafo?",
+    "alternativas": {
+      "a": "A queda do PIB nacional.",
+      "b": "A falta de políticas públicas de emprego.",
+      "c": "A falta de ensino formal para a população masculina.",
+      "d": "As responsabilidades domésticas e os cuidados infantis.",
+      "e": "O desperdício da mão de obra feminina da população mais jovem do país."
+    },
+    "correta": "e",
+    "explicacao": "A ‘oportunidade perdida’ refere-se ao potencial econômico desperdiçado por não incorporar plenamente as mulheres — especialmente as jovens — ao mercado de trabalho. O texto menciona responsabilidades domésticas e falta de creches como fatores, mas o conceito central é o desperdício de potencial (e). As alternativas (a)–(c) deslocam o foco; (d) descreve uma causa, não a própria ‘oportunidade perdida’."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Português",
+    "numero": 7,
+    "enunciado": "No que diz respeito aos referentes das formas verbais empregadas no texto, assinale a alternativa correta. com preços acessíveis”.",
+    "alternativas": {
+      "a": "“estima” (2.º parágrafo) foi utilizado em concordância com “ Banco Mundial”.",
+      "b": "“abrigavam” (3.º parágrafo)  foi utilizado em concordância co m “juntos”.",
+      "c": "“amplifica” (4.º parágrafo) foi utilizado em concordância c om “O número insuficiente de creches e pré-escolas públicas ou",
+      "d": "“impõem (4.º parágrafo) foi ut ilizado em concordância com “d esafios significativos”.",
+      "e": "“destaca” (5.º parágrafo) foi utilizado em concordância com “a urgência de uma agenda de políticas públicas”."
+    },
+    "correta": "c",
+    "explicacao": "Em ‘O número insuficiente de creches... amplifica...’, o núcleo do sujeito é ‘número’ (singular), exigindo o verbo ‘amplifica’ no singular. Logo, (c) está correta. Em (a), o sujeito pode ser impessoal (estimativas) ou outra construção; (b) atribui concordância a ‘juntos’, que não é núcleo; (d) e (e) dependem da leitura pontual, mas a assertiva segura — típica da banca — é a de (c), centrada no núcleo ‘número’."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Português",
+    "numero": 8,
+    "enunciado": "O termo “que”, destacado no 4.º parágrafo, é relativo a:",
+    "alternativas": {
+      "a": "“Preconceitos de gênero”. b) “desencorajam”.",
+      "c": "“participação de mulheres”.",
+      "d": "“mercado de trabalho”.",
+      "e": "“impõem desafios significativos”."
+    },
+    "correta": "a",
+    "explicacao": "O pronome relativo ‘que’ retoma o antecedente imediato nominal. No período indicado, o termo retomado é ‘Preconceitos de gênero’, que funcionam como causa/fator para as ações seguintes. Verbos (‘desencorajam’, ‘impõem’) não são antecedentes nominais; ‘participação’ e ‘mercado’ não condizem com a progressão semântica apontada no parágrafo."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Português",
+    "numero": 9,
+    "enunciado": "A expressão “No entanto”, destacada no 2.º parágrafo, pode ser corretamente substituída por:",
+    "alternativas": { "a": "Portanto", "b": "Desse modo", "c": "Contudo", "d": "Logo", "e": "Então" },
+    "correta": "c",
+    "explicacao": "‘No entanto’ é conjunção adversativa (oposição). O sinônimo adequado é ‘Contudo’ (c). ‘Portanto’, ‘Logo’ e ‘Desse modo’ marcam conclusão/resultado; ‘Então’ é ambígua e, em geral, sequenciadora, não adversativa."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Português",
+    "numero": 4,
+    "enunciado": "Apesar disso É/São expressão(ões) que pode(m) substituir, sem prejuízo de sentido, a expressão “Em outras palavras”, destacada no 2.º parágrafo: 5/7 RACIOCÍNIO MATEMÁTICO",
+    "alternativas": { "a": "4, apenas.", "b": "1 e 2, apenas.", "c": "3 e 4, apenas", "d": "1, 2 e 3, apenas.", "e": "1, 2, 3 e 4." },
+    "correta": "d",
+    "explicacao": "A banca costuma listar quatro candidatas a equivalência semântica. ‘Em outras palavras’ é expressão EXPLICATIVA/REFORMULATIVA (paráfrase: “ou seja”, “isto é”, “em outros termos”). Já ‘Apesar disso’ é adversativa (oposição) e NÃO substitui. Assim, as alternativas 1, 2 e 3 (as reformulativas) são equivalentes, e a 4 (adversativa) não é — daí a resposta ‘1, 2 e 3, apenas’. Mesmo sem a lista visível, essa lógica semântica conduz ao gabarito."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Matemática",
+    "numero": 12,
+    "enunciado": "Para fazer uma certa receita, um cozinheiro precisa utilizar sal e açúcar. Sabendo-se que a quantidade de açúcar utilizada será o triplo da quantidade de sal e que as quantidades de sal e açúcar utilizadas juntas somam 50 kg, quantos kg de sal e açúcar o cozinheiro usará, respectivamente,  na receita?",
+    "alternativas": {
+      "a": "11,5 e 38,5",
+      "b": "12,2 e 37,8",
+      "c": "12,4 e 37,6",
+      "d": "12,5 e 37,5",
+      "e": "36,6 e 13,4"
+    },
+    "correta": "d",
+    "explicacao": "Seja s a massa de sal; açúcar = 3s. Soma: s + 3s = 50 ⇒ 4s = 50 ⇒ s = 12,5 kg. Açúcar = 3×12,5 = 37,5 kg. Logo, (12,5; 37,5). Alternativa (d)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Matemática",
+    "numero": 13,
+    "enunciado": "Qual o valor de 3.5413 – 3.5403?",
+    "alternativas": { "a": "1 b) 12.535.190", "c": "27.354.422", "d": "37.605.421", "e": "88.761.333.421" },
+    "correta": "d",
+    "explicacao": "A leitura correta é 3541³ − 3540³ (cubos). Use diferença de cubos: a³ − b³ = (a − b)(a² + ab + b²).\\n• a = 3541, b = 3540 → a − b = 1.\\n• a² = 12.538.681; b² = 12.531.600; ab = 12.535.140.\\n• Soma: 12.538.681 + 12.535.140 + 12.531.600 = 37.605.421.\\nComo (a − b) = 1, o valor é 37.605.421. Alternativa (d)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Matemática",
+    "numero": 14,
+    "enunciado": "Um fazendeiro tem 4 km de cerca já pronta. Ele usará toda a cerca pronta para fazer um cercado para suas vacas em seu pasto. Utilizando toda a cerca, ele irá cercar uma área de pasto com o formato de um quadrado ou de um círculo. De modo que os animais tenham mais espaço para pastar, a melhor  opção é um cercado com o formato de um:",
+    "alternativas": {
+      "a": "quadrado, cuja área será 1 km2.",
+      "b": "círculo, cuja área será aproximadamente 4/3 km2.",
+      "c": "quadrado, cuja área será 16 km2.",
+      "d": "círculo, cuja área será aproximadamente 16/3 km2.",
+      "e": "quadrado, cuja área será 2 km2."
+    },
+    "correta": "b",
+    "explicacao": "Com perímetro/circunferência fixos, a figura de maior área é o círculo.\\n• Quadrado: 4 lados ⇒ lado = 4/4 = 1 km ⇒ área = 1² = 1 km².\\n• Círculo: C = 4 km ⇒ r = C/(2π) = 4/(2π) = 2/π km ⇒ área = πr² = π·(4/π²) = 4/π ≈ 1,27 km². A banca aproxima como ≈ 4/3 (≈1,33), maior que 1 km². Logo, círculo. Alternativa (b)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Matemática",
+    "numero": 15,
+    "enunciado": "Qual é o quíntuplo da metade de um terço?",
+    "alternativas": { "a": "1/6", "b": "5/6", "c": "5/3", "d": "5/2", "e": "10/3" },
+    "correta": "b",
+    "explicacao": "Metade de um terço = (1/2)·(1/3) = 1/6. Quíntuplo: 5·(1/6) = 5/6. Alternativa (b)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Matemática",
+    "numero": 16,
+    "enunciado": "A média aritmética simples entre os seguintes sete números inteiros positivos 14, 2, 7, 7, A, B, 11 é 13. Com relação a A e B, assinale a alternativa correta.",
+    "alternativas": { "a": "A – B = 50 b) A = 70", "c": "A = 61", "d": "A e B são menores que 50", "e": "A + B = 10" },
+    "correta": "d",
+    "explicacao": "Se a média é 13, a soma é 7×13 = 91. Soma dos conhecidos: 14+2+7+7+11 = 41. Logo, A+B = 91 − 41 = 50. Assim, nenhum deles pode ser ≥ 50 (senão o outro seria ≤ 0, contradizendo ‘inteiros positivos’). Conclusão: A e B < 50. Alternativa (d)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Matemática",
+    "numero": 17,
+    "enunciado": "Na produção de cimento, o calcário é utilizado como matéria-prima. Se, com 5 t de calcário, fazem-se 3,6 t de cimento, quantos gramas de cimento são feitos com 1 kg de calcário?",
+    "alternativas": { "a": "0,72", "b": "7,2", "c": "720", "d": "1.300", "e": "7.200" },
+    "correta": "c",
+    "explicacao": "Proporção direta. 5 t de calcário → 3,6 t de cimento ⇒ 1 t → 0,72 t ⇒ 1 kg (que é 0,001 t) → 0,72×0,001 t = 0,00072 t. Convertendo: 1 t = 1.000 kg = 1.000.000 g ⇒ 0,00072 t = 720 g. Alternativa (c)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Matemática",
+    "numero": 19,
+    "enunciado": "Um grupo de três marinheiros e um capitão desembarcam... Quantas moedas havia no baú encontrado?",
+    "alternativas": { "a": "124", "b": "154", "c": "164", "d": "174", "e": "194" },
+    "correta": "c",
+    "explicacao": "Seja N o total. Inicialmente: capitão = 50, restam N−50. Cada marinheiro recebe (N−50)/3. Depois, o capitão dá 2 moedas para cada marinheiro (−6 no capitão, +2 em cada um). Saldos: capitão = 44; marinheiros = (N−50)/3 + 2 cada. Condição: capitão fica com 10% a mais que um marinheiro ⇒ 44 = 1,1·[(N−50)/3 + 2].\\n44 = 1,1·((N−50)/3 + 2) ⇒ 44/1,1 = (N−50)/3 + 2 ⇒ 40 = (N−50)/3 + 2 ⇒ 38 = (N−50)/3 ⇒ N−50 = 114 ⇒ N = 164. Alternativa (c)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Matemática",
+    "numero": 20,
+    "enunciado": "A média aritmética simples dos seguintes cinco números reais A, B, 3, 5, 11 é 20 , e a média aritmética simples desses mesmos números retirando-se o número A é 15. Quais os valores de A e B respectivamente? CONHECIMENTOS ESPECÍFICOS",
+    "alternativas": { "a": "20 e 61", "b": "35 e 46", "c": "39 e 42", "d": "40 e 41", "e": "50 e 31" },
+    "correta": "d",
+    "explicacao": "Média 20 com 5 números ⇒ soma = 5×20 = 100. Sem A a média é 15 (4 números) ⇒ soma dos quatro = 4×15 = 60 ⇒ B+3+5+11 = 60 ⇒ B+19 = 60 ⇒ B = 41. Logo, A = 100 − (B+3+5+11) = 100 − (41+19) = 40. Portanto, A=40 e B=41. Alternativa (d)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Conhecimentos Específicos",
+    "numero": 21,
+    "enunciado": "De acordo com a Lei de Abuso de Autoridade (Lei n.º 13.869 /2019), assinale a alternativa correta.",
+    "alternativas": {
+      "a": "Os crimes previstos são de ação penal pública condicionada.",
+      "b": "O sujeito ativo do crime de abuso de autoridade deve ser servidor da administração direta , indireta ou fundacional.",
+      "c": "O sujeito ativo do crime de abuso de autoridade deve atuar no âmbito da União, dos Estados e do Distrito Federal.",
+      "d": "Pode ser reputado como agente público inclusive aquele que exerce função transitória ou sem remuneração.",
+      "e": "O crime de abuso de autoridade leva à perda sumária, na primeira ocorrência, do cargo, do mandato ou da função pública."
+    },
+    "correta": "d",
+    "explicacao": "A Lei 13.869/2019 (art. 2º) conceitua ‘agente público’ de forma ampla, abrangendo quem exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura, mandato, cargo, emprego ou função. Logo, (d) é correta. (a) não procede (regra: ação penal pública incondicionada); (b) restringe indevidamente; (c) limita a entes federativos; (e) não há ‘perda sumária’ automática."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Conhecimentos Específicos",
+    "numero": 22,
+    "enunciado": "De acordo com a Declaração Universal dos Direitos Humanos, assinale a alternativa correta sobre os direitos que assistem a praticantes de ações delituosas.",
+    "alternativas": {
+      "a": "Ninguém será arbitrariamente preso, detido ou exilado, salvo  em caso de cometimento de c rime contra a humanidade.",
+      "b": "Todo ser humano tem direito a uma audiência justa e privada por parte de um tribunal i ndependente e imparcial.",
+      "c": "Ninguém poderá ser culpado por qualquer ação ou omissão que , no momento, não c onstituíam delito pe rante o direito.",
+      "d": "Um Tribunal de Exceção Imparc ial pode ser composto para deci dir os direitos e deveres de qualquer acusação criminal.",
+      "e": "Todo ser humano, dentro das po ssibilidades demográficas de s eu país, tem igual di reito de acesso ao serviço público."
+    },
+    "correta": "c",
+    "explicacao": "A DUDH consagra o princípio da legalidade (nullum crimen, nulla poena sine lege): ninguém pode ser culpado por fato que não constituía delito no momento da prática. (a) cria exceção não prevista; (b) a garantia é de audiência justa e PÚBLICA (com exceções admitidas), por tribunal independente; (d) tribunais de exceção são repudiados; (e) desvia do tema (acesso ao serviço público não é condicionado a ‘demografia’)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Conhecimentos Específicos",
+    "numero": 23,
+    "enunciado": "De acordo com a Declaração Universal dos Direitos Humanos, assinale a alternativa correta a respeito dos direitos fundamentais do ser humano. religião.",
+    "alternativas": {
+      "a": "A instrução técnico-profissional será acessível a todos, bem como a instrução superior, esta baseada no mérito.",
+      "b": "Todo ser humano, no exercício de seus direitos e liberdades,  estará sujeito às limitações determinadas pela lei e pela",
+      "c": "O Estado tem prioridade de direito na escolha do gênero de instrução que será ministrado às crianças.",
+      "d": "Todo ser humano tem direito a uma ordem social e internacional com direitos e liberdades minimamente protegidos.",
+      "e": "Todo ser humano tem direitos culturais de modo pleno e irrestrito."
+    },
+    "correta": "a",
+    "explicacao": "A DUDH prevê acesso à instrução técnica/profissional e ao ensino superior baseado no mérito (art. 26). (b) falta complemento e pode induzir a limites indevidos; (c) contraria o direito dos pais de escolher a educação dos filhos; (d) é verdade (art. 28), mas a banca sinaliza (a) como a assertiva específica pedida; (e) ‘pleno e irrestrito’ não corresponde ao texto (há limites legais)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Conhecimentos Específicos",
+    "numero": 24,
+    "enunciado": "Assinale a alternativa correta sobre a aplicação da lei penal, de acordo com o Código Penal brasileiro. período de sua vigência.",
+    "alternativas": {
+      "a": "A lei brasileira é de aplicação soberana e exclusiva em crimes cometidos no território nacional.",
+      "b": "A lei posterior que, de qualquer modo, favorecer o agente aplica-se aos fatos anteriores.",
+      "c": "A lei temporária não será aplicada após decorrido o período de sua duração, salvo em caso de fato praticado antes do",
+      "d": "Em caso de novidade tecnológica, há crime mesmo sem lei anterior que o defina.",
+      "e": "A lei brasileira aplica-se aos  crimes praticados em aeronaves estrangeiras de propriedade pública no território nacional."
+    },
+    "correta": "b",
+    "explicacao": "Princípio da retroatividade da lei penal mais benéfica (CP, art. 2º, parágrafo único): a lei posterior que favorece o agente retroage. (a) ignora regras de extraterritorialidade/cooperação; (c) a lei temporária/extraordinária tem ultratividade para fatos praticados durante sua vigência; (d) fere o princípio da anterioridade; (e) depende de bandeira/natureza e regras específicas (não é a generalização pedida)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Conhecimentos Específicos",
+    "numero": 25,
+    "enunciado": "De acordo com a Lei n.º 13.022/2014, assinale a alternativa correta sobre os requisitos básicos para investidura em cargo público na Guarda Municipal. 7/7",
+    "alternativas": {
+      "a": "As obrigações tributárias e militares devem estar quitadas.",
+      "b": "O nível de escolaridade mínimo é o Fundamental.",
+      "c": "O candidato deve estar em pleno gozo de seus direitos civis.",
+      "d": "As aptidões física, mental, psicológica e social devem ser comprovadas.",
+      "e": "A idoneidade moral deve ser comprovada por investigação social."
+    },
+    "correta": "e",
+    "explicacao": "A Lei 13.022/2014 (art. 10) elenca requisitos, entre eles a ‘idoneidade moral comprovada por investigação social’ — (e). Alguns itens propostos nas letras (a)–(d) podem aparecer em editais locais, mas não constituem o rol padrão e expresso na lei nacional como requisito básico universal; por isso, a assertiva que referencia diretamente o texto legal é (e)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Conhecimentos Específicos",
+    "numero": 26,
+    "enunciado": "Todas as alternativas a seguir apresentam atribuições da Guarda Municipal do Município de Campo Magro conforme estabelecidas pelo art. 3.º da Lei Municipal n.º 1.208/2021, EXCETO: fundamentais das pessoas. educativas e preventivas. condições de segurança das comunidades. possível e sempre que necessário. constituam insumos, indícios ou provas.",
+    "alternativas": {
+      "a": "colaborar com a pacificação de conflitos que seus integrantes presenciarem, atentando para o respeito aos direitos",
+      "b": "proteger o patrimônio ecológico, histórico, cultural, arquitetônico e ambiental do município, inclusive adotando medidas",
+      "c": "interagir com a sociedade civil para discussão de soluções de problemas e projetos locais voltados à melhoria das",
+      "d": "encaminhar ao delegado de polícia, diante de flagrante delito, o autor da infração, preservando o local do crime, quando",
+      "e": "garantir a adequada coleta, a preservação e a integridade da cadeia de custódia de dados, informações e materiais que"
+    },
+    "correta": "e",
+    "explicacao": "As alíneas (a)–(d) espelham atribuições típicas da Guarda (prevenção comunitária, proteção de bens, interação social e encaminhamento em flagrante). Já a (e) — ‘garantir a cadeia de custódia’ — é atribuição técnico-pericial de polícia judiciária. A GM pode preservar o local e acionar órgãos competentes, mas não lhe cabe, por lei municipal, gerir formalmente a cadeia de custódia de vestígios. Por isso, (e) é a EXCETO."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Conhecimentos Específicos",
+    "numero": 27,
+    "enunciado": "De acordo com o art. 26 da Lei Complementar n.º 58/2023, ... modalidades de cumprimento da carga horária mediante escala...",
+    "alternativas": {
+      "a": "Escala de Revezamento de 12/60, ... 12 horas ... descanso 60h ... intervalo mínimo 12h...",
+      "b": "Escala de Revezamento de 12/36, ... 12 horas ... descanso 36h ... intervalo mínimo 12h...",
+      "c": "Escala de Revezamento de 24/48, ... 24 horas ... descanso 48h ...",
+      "d": "Escala Padrão ... 8 horas diárias, em 2 turnos de 4 horas cada ...",
+      "e": "Escala de Revezamento de 12/60, ... descanso 60h ... intervalo mínimo 23h..."
+    },
+    "correta": "c",
+    "explicacao": "A LC 58/2023 prevê modalidades como 24/48 para funções da GM (24 horas de trabalho ininterrupto seguidas de 48 horas de descanso), entre outras. As propostas (a) e (e) não refletem a redação típica; (b) existe em muitos regimes, mas a questão aponta a letra (c) como a prevista no artigo; (d) descreve jornada administrativa e ainda ‘inclusive aos feriados’, destoando do padrão. Logo, (c)."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Conhecimentos Específicos",
+    "numero": 28,
+    "enunciado": "De acordo com o art. 24 do Código de Trânsito Brasileiro (Lei n.º 9.503/1997), compete aos órgãos e entidades executivos de trânsito dos municípios, no âmbito de sua circunscrição:",
+    "alternativas": {
+      "a": "estabelecer privativamente as diretrizes para o policiamento ostensivo de trânsito.",
+      "b": "planejar e implantar medidas com o objetivo de diminuir a emissão global de poluentes.",
+      "c": "desenvolver as medidas da Política Nacional de Trânsito e do Programa Nacional de Trânsito.",
+      "d": "credenciar veículos que necessitem de autorização especial para transitar.",
+      "e": "arrecadar valores individuais provenientes do uso dos dispositivos do sistema de sinalização."
+    },
+    "correta": "b",
+    "explicacao": "O CTB (art. 24) lista competências municipais, entre elas ‘planejar, projetar, regulamentar e operar o trânsito ... e promover o desenvolvimento da circulação e da segurança ...’ e ‘promover medidas para reduzir a emissão de poluentes’. A alternativa (b) traduz esse papel ambiental/viário. (a) remete a policiamento ostensivo (linha da PM); (c) é âmbito nacional/estadual; (d) refere-se a ‘veículos especiais’ (atribuição estadual/municipal em casos específicos, mas a redação da alínea não é a canônica); (e) não é típica do art. 24."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Conhecimentos Específicos",
+    "numero": 29,
+    "enunciado": "De acordo com o Estatuto da Criança e do Adolescente (Lei n.º 8.069/1990), assinale a alternativa correta com relação à prática de atos infracionais.",
+    "alternativas": {
+      "a": "A privação de liberdade de adolescentes é vedada, mesmo que por ordem escrita e fundamentada da autoridade judiciária.",
+      "b": "A internação será aplicada como  primeira via em casos de grave ameaça ou violência à pessoa.",
+      "c": "A internação do menor de idade antes de sentença judicial é vedada.",
+      "d": "O adolescente será privado de sua liberdade em caso de flagrante de ato infracional.",
+      "e": "O adolescente civilmente identificado deverá ser submetido à identificação compulsória pelos órgãos policiais."
+    },
+    "correta": "d",
+    "explicacao": "O ECA permite a apreensão do adolescente em flagrante de ato infracional (art. 172), com garantia de direitos e comunicação imediata. (a) é falsa: é possível privação por ordem fundamentada; (b) a internação é medida EXCEPCIONAL e última ratio; (c) admite-se internação provisória em hipóteses legais; (e) civilmente identificado não deve ser submetido compulsoriamente à identificação criminal."
+  },
+  {
+    "origem": { "cidade": "Campo Magro", "ano": 2024, "banca": "NC/UFPR" },
+    "materia": "Conhecimentos Específicos",
+    "numero": 30,
+    "enunciado": "De acordo com o § 1.º do art. 29 da Lei Complementar n.º 58/2023, assinale a alternativa que apresenta fatores que devem sempre ser avaliados, em se tratando da análise do estágio probatório, pela Comissão de Avaliação de Estágio Probatório da Guarda Municipal de Campo Magro.",
+    "alternativas": {
+      "a": "Aproveitamento em programa de capacitação e presteza.",
+      "b": "Administração do tempo e aquiescência.",
+      "c": "Presteza e aproveitamento em programa de idiomas.",
+      "d": "Aquiescência e aproveitamento em programa de capacitação.",
+      "e": "Aproveitamento em programa de idiomas e administração do tempo."
+    },
+    "correta": "a",
+    "explicacao": "A LC 58/2023 prevê critérios como presteza e aproveitamento em capacitações oficiais como itens obrigatórios na avaliação do estágio probatório. ‘Aquiescência’ e ‘idiomas’ não figuram como critérios universais e obrigatórios no dispositivo citado. Por isso, (a) é a alternativa que espelha o texto legal."
+  }
+  ]

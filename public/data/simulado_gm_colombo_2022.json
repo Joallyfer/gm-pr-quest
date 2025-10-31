@@ -1,0 +1,515 @@
+[
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 1,
+    "enunciado": "De acordo com o texto de Ailton Krenak, qual é o significado da expressão destacada \"cabeça da terra\"?",
+    "alternativas": {
+      "a": "Identificação profunda com um sítio.",
+      "b": "Profunda comunhão com a terra.",
+      "c": "Profunda conexão com os indígenas.",
+      "d": "Identificação com a história indígena.",
+      "e": "Profunda conexão com a humanidade."
+    },
+    "correta": "b",
+    "explicacao": "A expressão “cabeça da terra” é explicitada pelo próprio autor como a herança identitária que liga o povo Krenak à Terra em uma relação de pertencimento, comunhão e indissociabilidade. Assim, “cabeça da terra” sintetiza uma visão cosmológica em que natureza e humanidade não se separam, o que corresponde à ideia de profunda comunhão com a terra."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 3,
+    "enunciado": "A expressão “do qual” destacada no texto faz referência a:",
+    "alternativas": {
+      "a": "lugar.",
+      "b": "sítio.",
+      "c": "sagrado.",
+      "d": "Krenak.",
+      "e": "desraigados."
+    },
+    "correta": "a",
+    "explicacao": "O pronome relativo “do qual” retoma o termo “lugar” imediatamente anterior, funcionando como retomada anafórica que estabelece coesão referencial entre a oração relativa e o antecedente “lugar” mencionado no período."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 4,
+    "enunciado": "A conjunção “Logo”, destacada no texto, pode ser substituída, sem prejuízo do sentido, por:",
+    "alternativas": {
+      "a": "Também.",
+      "b": "Entretanto.",
+      "c": "Porque.",
+      "d": "Ademais.",
+      "e": "Portanto."
+    },
+    "correta": "e",
+    "explicacao": "“Logo” introduz uma conclusão decorrente do que foi dito anteriormente; no português formal, “portanto” é o conectivo conclusivo prototípico que preserva esse mesmo valor lógico-semântico."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 5,
+    "enunciado": "O vocábulo “restringe” pode ser substituído, sem prejuízo do sentido, por:",
+    "alternativas": {
+      "a": "impossibilita.",
+      "b": "amplia.",
+      "c": "descinge.",
+      "d": "limita.",
+      "e": "padroniza."
+    },
+    "correta": "d",
+    "explicacao": "“Restringir” significa “limitar”, “conter em certos limites”. A substituição por “limita” mantém o núcleo semântico do verbo original no contexto da frase, conservando a ideia de redução de possibilidades."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 6,
+    "enunciado": "De acordo com o texto “O que é lugar de fala?”, a expressão refere-se a:",
+    "alternativas": {
+      "a": "Experiências sociais que determinam o discurso do indivíduo em um sistema de opressores e oprimidos.",
+      "b": "Liberdade de expressão da minoria baseada no conhecimento acadêmico acumulado.",
+      "c": "Direito da maioria de reivindicar a fala a partir de suas posições ideológicas e sociais.",
+      "d": "Lugares onde é permitida a expressão variada e discordante, independentemente da posição social.",
+      "e": "Vivências sociais experimentadas por indivíduos opressores que garantem sua liberdade de expressão."
+    },
+    "correta": "a",
+    "explicacao": "“Lugar de fala” é um conceito que articula a posição social e histórica do sujeito às experiências que moldam sua perspectiva. No texto, evidencia-se que grupos diferentes falam de pontos de vista distintos, pois vivenciam de modos diversos as estruturas de opressão, o que define o “lugar” a partir do qual se fala."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 7,
+    "enunciado": "De acordo com o texto de Conceição Evaristo, por que o coronelzinho parou de ensinar o alfabeto para o pai de Ponciá?",
+    "alternativas": {
+      "a": "O menino negro não estava interessado em aprender, por isso o coronelzinho se desinteressou.",
+      "b": "O coronelzinho se interessou por outra brincadeira, já que o menino negro aprendeu rápido.",
+      "c": "O coronelzinho se desinteressou porque o menino negro respondeu aos seus ensinamentos.",
+      "d": "O coronelzinho se desinteressou porque acreditava que negros não conseguiam aprender.",
+      "e": "O menino negro aprendeu rápido, mas logo desistiu por não acreditar na capacidade do coronelzinho."
+    },
+    "correta": "c",
+    "explicacao": "O enredo mostra que o ensino era uma “brincadeira” pautada por relações de poder: quando o coronelzinho percebe que o negro realmente aprende, cessa o ensino. A razão é o incômodo causado pela constatação do aprendizado — e não a falta de interesse do aprendiz."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 8,
+    "enunciado": "Um recurso linguístico do texto é a substituição de um nome por uma característica do indivíduo. Exemplo:",
+    "alternativas": {
+      "a": "distraído.",
+      "b": "ensinamento.",
+      "c": "sinhô-moço.",
+      "d": "Ponciá.",
+      "e": "brincadeira."
+    },
+    "correta": "c",
+    "explicacao": "“Sinhô-moço” é uma designação metonímica que identifica o indivíduo pelo seu status/posição social, substituindo o nome próprio por uma característica relacional (senhor jovem da casa), recurso típico de caracterização sociocultural no texto."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 9,
+    "enunciado": "Complete as lacunas: \"Durante a pandemia, _____ inúmeras mortes de mulheres por feminicídio. Esses números _____ aumentado significativamente no Brasil. Tal realidade tem ____ com o isolamento social...\"",
+    "alternativas": {
+      "a": "houveram, têm, aver.",
+      "b": "houve, tem, haver.",
+      "c": "houveram, tem, a ver.",
+      "d": "houve, têm, a ver.",
+      "e": "houveram, têm, haver."
+    },
+    "correta": "d",
+    "explicacao": "O verbo “haver” com sentido de “existir” é impessoal e fica no singular: “houve”. O sujeito “números” está no plural, logo “têm”. A locução correta é “a ver” (relação), não “haver/aver”. Assim: “houve”, “têm”, “a ver”."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Língua Portuguesa",
+    "numero": 10,
+    "enunciado": "Assinale a alternativa em que todas as palavras devem receber acento gráfico segundo a ortografia vigente:",
+    "alternativas": {
+      "a": "Candida, feiura, dominio.",
+      "b": "Suburbio, paraquedas, titulo.",
+      "c": "Ideia, hifen, moinho.",
+      "d": "Plateia, baritono, tanga.",
+      "e": "Carcere, conico, prodigo."
+    },
+    "correta": "e",
+    "explicacao": "“Cárcere”, “cônico” e “pródigo” são palavras paroxítonas com sílaba tônica marcada por acento gráfico (á, ô, ó), conforme as regras de acentuação do Acordo Ortográfico."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Matemática",
+    "numero": 11,
+    "enunciado": "A média entre 10 produtos é R$ 5,00. Ao adicionar mais 1 produto, a média passa a R$ 6,00. Qual o valor desse produto?",
+    "alternativas": {
+      "a": "R$ 5,00.",
+      "b": "R$ 6,00.",
+      "c": "R$ 16,00.",
+      "d": "R$ 50,00.",
+      "e": "R$ 66,00."
+    },
+    "correta": "c",
+    "explicacao": "Soma inicial = 10 × 5 = 50. Nova média 6 para 11 itens ⇒ soma final = 11 × 6 = 66. Logo, o valor do 11º produto é 66 − 50 = 16."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Matemática",
+    "numero": 12,
+    "enunciado": "Após desconto de 40%, o valor passou a R$ 900,00. Qual era o valor original?",
+    "alternativas": {
+      "a": "R$ 540,00.",
+      "b": "R$ 600,00.",
+      "c": "R$ 1.000,00.",
+      "d": "R$ 1.500,00.",
+      "e": "R$ 2.250,00."
+    },
+    "correta": "d",
+    "explicacao": "Preço final = 60% do original. Assim, 0,60 × P = 900 ⇒ P = 900 ÷ 0,60 = 1.500."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Matemática",
+    "numero": 13,
+    "enunciado": "Luiza precisa encaixotar 360 livros iguais. Cada caixa comporta 40 livros. Quantas caixas são necessárias?",
+    "alternativas": {
+      "a": "9.",
+      "b": "10.",
+      "c": "11.",
+      "d": "12.",
+      "e": "13."
+    },
+    "correta": "a",
+    "explicacao": "Quantidade de caixas = 360 ÷ 40 = 9, exatamente, pois a divisão é inteira."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Matemática",
+    "numero": 14,
+    "enunciado": "Quanto é a metade de um terço?",
+    "alternativas": {
+      "a": "6.",
+      "b": "1.",
+      "c": "1/2.",
+      "d": "1/3.",
+      "e": "1/6."
+    },
+    "correta": "e",
+    "explicacao": "Metade de 1/3 = (1/2) × (1/3) = 1/6, pela multiplicação de frações (numeradores e denominadores)."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Matemática",
+    "numero": 15,
+    "enunciado": "Um buquê com 20 rosas tem brancas e vermelhas. O número de brancas é quatro vezes o de vermelhas. Quantas brancas há?",
+    "alternativas": {
+      "a": "4.",
+      "b": "5.",
+      "c": "15.",
+      "d": "16.",
+      "e": "20."
+    },
+    "correta": "d",
+    "explicacao": "Seja R o número de vermelhas; então brancas = 4R. Total: R + 4R = 20 ⇒ 5R = 20 ⇒ R = 4; brancas = 4R = 16."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Matemática",
+    "numero": 16,
+    "enunciado": "Em uma sequência de figuras, a cada passo adiciona-se o mesmo número de losangos. Quantos losangos haverá no passo 8?",
+    "alternativas": {
+      "a": "43.",
+      "b": "48.",
+      "c": "49.",
+      "d": "50.",
+      "e": "55."
+    },
+    "correta": "c",
+    "explicacao": "O padrão descrito indica progressão aritmética de razão constante entre passos. O resultado indicado para o 8º passo é 49, coerente com um crescimento linear que, partindo do padrão apresentado, totaliza 49 unidades na oitava figura."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Matemática",
+    "numero": 17,
+    "enunciado": "Estacionamento: 1ª hora R$ 10,00. A partir da 2ª hora, R$ 2,50 por 15 min. Para 2,5 horas, qual o valor?",
+    "alternativas": {
+      "a": "R$ 15,00.",
+      "b": "R$ 17,50.",
+      "c": "R$ 20,00.",
+      "d": "R$ 22,50.",
+      "e": "R$ 25,00."
+    },
+    "correta": "e",
+    "explicacao": "Primeira hora: R$ 10,00. Restam 1,5 horas = 90 min = 6 blocos de 15 min; cada bloco custa R$ 2,50 ⇒ 6 × 2,50 = 15,00. Total: 10 + 15 = 25."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Matemática",
+    "numero": 18,
+    "enunciado": "Área de um retângulo de largura 9 m e comprimento 12 m:",
+    "alternativas": {
+      "a": "108 m².",
+      "b": "100 m².",
+      "c": "54 m².",
+      "d": "45 m².",
+      "e": "20 m²."
+    },
+    "correta": "a",
+    "explicacao": "Área = base × altura = 12 × 9 = 108 m²."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Matemática",
+    "numero": 19,
+    "enunciado": "Classe com 80 alunos: 60 cursam Geometria Analítica e 50 cursam Cálculo I. Quantos cursam ambas?",
+    "alternativas": {
+      "a": "20.",
+      "b": "30.",
+      "c": "40.",
+      "d": "50.",
+      "e": "60."
+    },
+    "correta": "b",
+    "explicacao": "Pela inclusão-exclusão: |A ∪ B| = |A| + |B| − |A ∩ B|. Considerando 80 alunos no total: 80 = 60 + 50 − x ⇒ x = 110 − 80 = 30."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Matemática",
+    "numero": 20,
+    "enunciado": "Quanto é 5% de R$ 50,00?",
+    "alternativas": {
+      "a": "R$ 1,00.",
+      "b": "R$ 2,50.",
+      "c": "R$ 5,00.",
+      "d": "R$ 7,50.",
+      "e": "R$ 10,00."
+    },
+    "correta": "b",
+    "explicacao": "5% = 0,05. Assim, 0,05 × 50 = 2,50."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 21,
+    "enunciado": "De acordo com a Lei Federal nº 13.022/2014 (Estatuto Geral das Guardas Municipais), assinale a alternativa correta:",
+    "alternativas": {
+      "a": "Os cargos em comissão das guardas municipais deverão ser providos pelo Chefe do Poder Executivo imediato.",
+      "b": "As guardas municipais ficam sujeitas a regulamentos disciplinares de natureza militar.",
+      "c": "As guardas municipais têm direito de adotar outras denominações consagradas pelo uso, além de guarda municipal.",
+      "d": "As guardas municipais utilizarão uniforme e equipamentos padronizados obrigatoriamente na cor azul-marinho.",
+      "e": "A investidura no cargo de guarda municipal é permitida a cidadãos brasileiros e estrangeiros com visto de trabalho."
+    },
+    "correta": "c",
+    "explicacao": "O Estatuto autoriza a adoção de outras denominações consagradas pelo uso, preservando a natureza civil da instituição e sua autonomia administrativa e funcional no âmbito municipal."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 22,
+    "enunciado": "Lei Municipal nº 1.167/2010 (Guarda Municipal de Colombo) — competências do Superintendente. Assinale a EXCEÇÃO:",
+    "alternativas": {
+      "a": "colaborar com os órgãos da Defesa Civil e prestar assistência à população no caso de calamidade pública.",
+      "b": "representar a Guarda Municipal em solenidades de caráter civil, militar e eclesiástico.",
+      "c": "manter a ordem e a disciplina conforme a hierarquia da Instituição e a legislação vigente.",
+      "d": "manifestar-se em processos sobre assuntos de interesse da Guarda Municipal.",
+      "e": "integrar-se com autoridades policiais do Estado para colaboração mútua."
+    },
+    "correta": "a",
+    "explicacao": "A colaboração com a Defesa Civil e a assistência direta à população em calamidades integram missões operacionais da Guarda e do poder público, não figurando como atribuição típica e específica do Superintendente no rol de competências administrativas do cargo."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 23,
+    "enunciado": "Decreto Municipal nº 13/2022 — Porte de armas pela Guarda Municipal de Colombo. São circunstâncias para negar/suspender a autorização, EXCETO:",
+    "alternativas": {
+      "a": "suspensão de vínculo de trabalho por tempo indeterminado.",
+      "b": "condenação por violência doméstica.",
+      "c": "diagnóstico de anormalidade psicológica, ainda que transitória.",
+      "d": "uso de arma/munição do Município em atividade remunerada extracorporação.",
+      "e": "afastamento do serviço por licença médica de qualquer natureza por qualquer período."
+    },
+    "correta": "e",
+    "explicacao": "O afastamento por licença médica, por si só e qualquer que seja o período, não caracteriza automaticamente hipótese de negativa ou suspensão do porte, devendo-se observar critérios específicos e avaliações previstas na norma municipal."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 24,
+    "enunciado": "CTB (Lei nº 9.503/1997) — competências executivas de trânsito municipais, EXCETO:",
+    "alternativas": {
+      "a": "implantar, manter e operar sistema de estacionamento rotativo pago nas vias.",
+      "b": "proceder autorização de apreensão de objetos relacionados a fatos delituosos.",
+      "c": "coletar dados estatísticos e elaborar estudos sobre acidentes e suas causas.",
+      "d": "arrecadar valores de escolta de cargas superdimensionadas ou perigosas.",
+      "e": "implantar, manter e operar sistema de sinalização e equipamentos de controle viário."
+    },
+    "correta": "b",
+    "explicacao": "A autorização para apreensão de objetos relacionados a fatos delituosos insere-se na seara da persecução penal/autoridade policial, não constituindo competência típica do órgão executivo municipal de trânsito prevista no CTB."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 25,
+    "enunciado": "Código Penal — maus-tratos: se o crime é praticado contra pessoa menor de 14 anos, o que ocorre com a pena?",
+    "alternativas": {
+      "a": "resultando em morte, a pena é de reclusão de 8 a 15 anos.",
+      "b": "resultando em lesão grave, a pena é de reclusão de 3 a 10 anos.",
+      "c": "havendo incapacidade permanente para o trabalho, a pena é de reclusão de 3 a 10 anos.",
+      "d": "aumenta-se a pena de um terço.",
+      "e": "sendo contra menor de 18 anos, aumenta-se a pena em metade."
+    },
+    "correta": "d",
+    "explicacao": "O tipo penal de maus-tratos prevê causa de aumento quando a vítima é menor de 14 anos, majorando a reprimenda em um terço, dada a especial vulnerabilidade da pessoa ofendida."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 26,
+    "enunciado": "Lei nº 10.826/2003 — porte de arma de fogo. Assinale a alternativa correta:",
+    "alternativas": {
+      "a": "é autorizado aos advogados para defesa pessoal.",
+      "b": "é autorizado aos integrantes das guardas municipais que integram regiões metropolitanas, quando em serviço.",
+      "c": "é defeso aos integrantes das Forças Armadas e da Força Nacional de Segurança Pública.",
+      "d": "é defeso aos integrantes das guardas municipais dos Municípios com menos de 300 mil habitantes, mesmo em serviço.",
+      "e": "é autorizado aos integrantes das guardas municipais dos Municípios com mais de 300 mil habitantes, nas condições do Regulamento."
+    },
+    "correta": "b",
+    "explicacao": "A legislação federal admite o porte funcional aos integrantes de guardas municipais de regiões metropolitanas quando em serviço, observados os requisitos normativos e controles institucionais previstos."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 27,
+    "enunciado": "Lei nº 11.343/2006 — SISNAD: assinale a alternativa correta.",
+    "alternativas": {
+      "a": "atua em articulação com SUS, SUAS e guardas municipais via Proerd.",
+      "b": "tem como princípio a articulação com MPs e Poderes visando cooperação mútua.",
+      "c": "tem finalidade exclusiva de articular, integrar e coordenar prevenção, atenção e reinserção.",
+      "d": "compreende o conjunto ordenado de princípios, regras, critérios e recursos que envolvem políticas, planos, programas, ações e projetos sobre drogas.",
+      "e": "considera drogas as substâncias listadas pelo Poder Legislativo Federal."
+    },
+    "correta": "d",
+    "explicacao": "O SISNAD é um sistema abrangente que integra princípios, regras, critérios e recursos humanos e materiais, estruturando políticas, planos e programas sobre drogas, em uma abordagem intersetorial e coordenada."
+  },
+  {
+    "origem": {
+      "cidade": "Colombo",
+      "ano": 2022,
+      "banca": "NC/UFPR"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 29,
+    "enunciado": "Estatuto do Idoso (Lei nº 10.741/2003) — assinale a alternativa correta:",
+    "alternativas": {
+      "a": "É obrigação assegurar ao idoso, com absoluta prioridade, inclusive renda mínima.",
+      "b": "Entre os idosos, é assegurada prioridade especial aos maiores de 85 anos.",
+      "c": "A obrigação alimentar é solidária, não podendo o idoso optar entre os prestadores.",
+      "d": "A atenção integral à saúde se dá pelo SUS e SUAS em conjunto isolado.",
+      "e": "O direito ao respeito consiste na inviolabilidade da integridade física, psíquica e moral, abrangendo preservação da imagem, identidade, autonomia, valores, ideias e crenças, dos espaços e objetos pessoais."
+    },
+    "correta": "e",
+    "explicacao": "O direito ao respeito do idoso consubstancia a proteção integral de sua dignidade e autonomia, incluindo aspectos físicos, psíquicos e morais, com resguardo da imagem, identidade, crenças, valores e de seus espaços e objetos pessoais."
+  }
+]

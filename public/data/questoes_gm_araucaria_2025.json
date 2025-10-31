@@ -1,0 +1,616 @@
+[
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Português",
+    "numero": 1,
+    "enunciado": "Qual tema social é ironizado desde o título da crônica?",
+    "alternativas": {
+      "a": "A eloquência complexa das elites.",
+      "b": "A eloquência inútil das gramáticas escolares.",
+      "c": "A eloquência louvável dos magistrados.",
+      "d": "A eloquência admirável da política brasileira."
+    },
+    "correta": "b",
+    "explicacao": "A alternativa correta é sustentada pelo **texto-base**: identifica-se a tese e as pistas linguísticas que direcionam a interpretação sem extrapolações, garantindo que o sentido assinalado coincide com o do autor."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Português",
+    "numero": 2,
+    "enunciado": "Qual é o conflito estabelecido na crônica?",
+    "alternativas": {
+      "a": "A gagueira do deputado em seu discurso na câmara.",
+      "b": "A necessidade de improviso para um discurso inesperado.",
+      "c": "A impaciência da câmara diante do discurso de um colega.",
+      "d": "A pressão do presidente diante da ineficiência de um deputado."
+    },
+    "correta": "e",
+    "explicacao": "A alternativa correta é sustentada pelo **texto-base**: identifica-se a tese e as pistas linguísticas que direcionam a interpretação sem extrapolações, garantindo que o sentido assinalado coincide com o do autor."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Português",
+    "numero": 3,
+    "enunciado": "O que o diálogo cochichado revela sobre os demais parlamentares?",
+    "alternativas": {
+      "a": "A insegurança do deputado passou despercebida pelos parlamentares.",
+      "b": "Os parlamentares aguardavam ansiosos pelo discurso do deputado.",
+      "c": "O decoro parlamentar não foi respeitado na câmara.",
+      "d": "Os deputados não se sentiram seguros para fazer nenhum aparte à fala do deputado."
+    },
+    "correta": "c",
+    "explicacao": "A alternativa correta é sustentada pelo **texto-base**: identifica-se a tese e as pistas linguísticas que direcionam a interpretação sem extrapolações, garantindo que o sentido assinalado coincide com o do autor."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Português",
+    "numero": 4,
+    "enunciado": "Qual é o motivo de alívio dos parlamentares no desfecho da crônica?",
+    "alternativas": {
+      "a": "O deputado foi corrigido por um dos colegas parlamentares.",
+      "b": "O presidente encerrou o discurso do deputado.",
+      "c": "Os deputados escarneceram do colega orador.",
+      "d": "O discurso tedioso chegou ao fim."
+    },
+    "correta": "b",
+    "explicacao": "A alternativa correta é sustentada pelo **texto-base**: identifica-se a tese e as pistas linguísticas que direcionam a interpretação sem extrapolações, garantindo que o sentido assinalado coincide com o do autor."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Português",
+    "numero": 5,
+    "enunciado": "O uso da forma reduzida \"pra\" justifica-se por qual característica do gênero crônica?",
+    "alternativas": {
+      "a": "O tom humorístico.",
+      "b": "A inspiração no cotidiano.",
+      "c": "O aspecto literário.",
+      "d": "O campo social jornalístico."
+    },
+    "correta": "c",
+    "explicacao": "A alternativa correta é sustentada pelo **texto-base**: identifica-se a tese e as pistas linguísticas que direcionam a interpretação sem extrapolações, garantindo que o sentido assinalado coincide com o do autor."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Português",
+    "numero": 6,
+    "enunciado": "O verbo \"embatucar\", no contexto, refere-se à qual ação?",
+    "alternativas": {
+      "a": "Iniciar um discurso.",
+      "b": "Justificar-se.",
+      "c": "Indignar-se.",
+      "d": "Gaguejar."
+    },
+    "correta": "b",
+    "explicacao": "A alternativa correta é sustentada pelo **texto-base**: identifica-se a tese e as pistas linguísticas que direcionam a interpretação sem extrapolações, garantindo que o sentido assinalado coincide com o do autor."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Português",
+    "numero": 7,
+    "enunciado": "",
+    "alternativas": {
+      "a": "Considerando um critério sintático, a flexão do verbo \"recusar\", para uma concordância correta no período \"Não sou daqueles que...\", seria:",
+      "b": "recusas.",
+      "c": "recusa.",
+      "d": "recuse.",
+      "e": "recuso."
+    },
+    "correta": "d",
+    "explicacao": "Resposta fundamentada no conteúdo da disciplina, mantendo a coerência com o enunciado e a literalidade quando for legislação."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Português",
+    "numero": 8,
+    "enunciado": "",
+    "alternativas": {
+      "a": "Assinale a alternativa em que o \"que\" poderia ser substituído pelo \"porque\".",
+      "b": "\"Daqueles que o quê?\"",
+      "c": "\"[...] ele que tão facilmente caía nelas [...]\".",
+      "d": "\"Acho que vai para o singular.\"",
+      "e": "\"[...] um desses casos que os gramáticos registram [...]\"."
+    },
+    "correta": "d",
+    "explicacao": "Resposta fundamentada no conteúdo da disciplina, mantendo a coerência com o enunciado e a literalidade quando for legislação."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Raciocínio Lógico-Matemático",
+    "numero": 10,
+    "enunciado": "Assinale a alternativa que apresenta a análise sintática CORRETA da oração \"O orador foi vivamente cumprimentado.\". \"foi\" funciona como verbo de ligação. \"O orador\" funciona como sujeito indeterminado. \"vivamente\" funciona como adjunto adnominal. \"cumprimentado\" funciona como predicativo do sujeito. Raciocínio Lógico - Matemático O texto seguinte servirá de base para responder às questões de 11 a 11. Conte com o app da Uber nas avaliações com estrelas - Como funcionam as avaliações Após cada viagem, usuário e motorista parceiro têm a oportunidade de avaliar um ao outro, com 1 a 5 estrelas, com base na experiência da viagem. As avaliações são anônimas. Você não verá as avaliações individuais conectadas a uma viagem ou pessoa específica. Sua avaliação de motorista parceiro é uma média das últimas 500 avaliações dos seus passageiros. (...) Como avaliar e receber avaliações",
+    "alternativas": {
+      "a": "O texto seguinte servirá de base para responder às questões de 11 a 11.",
+      "b": "Sua avaliação de motorista parceiro é uma média das últimas 500 avaliações dos seus passageiros.",
+      "c": "Depois de cada viagem, o app oferece a você (motorista) e ao usuário a oportunidade de fazer uma avaliação.",
+      "d": "Se você (motorista) ou o usuário escolher menos que 5 estrelas, o app pode pedir comentários sobre essa avaliação.",
+      "e": "O usuário também têm a opção de escolher entre um conjunto de elogios que se aplicam a você ou à sua viagem."
+    },
+    "correta": "a",
+    "explicacao": "A resolução aplica **proporcionalidade/álgebra/probabilidade** conforme os dados apresentados, com conversões e operações consistentes até o resultado final."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 11,
+    "enunciado": "Roger é motorista de aplicativo e possui uma nota média baseada nas avaliações dos usuários, que variam de 1 a 5 estrelas. No dia 10, sua nota média era de 4,85, considerando um total de 300 corridas avaliadas desde que começou a trabalhar no aplicativo. No dia 11, Roger realizou 20 corridas adicionais e recebeu as seguintes avaliações: 2 corridas com 3 estrelas; 6 corridas com 4 estrelas; 12 corridas com 5 estrelas. Considere que todas as avaliações foram contabilizadas pelo aplicativo e nenhuma foi descartada. Pergunta:",
+    "alternativas": {
+      "a": "Considere que todas as avaliações foram contabilizadas pelo aplicativo e nenhuma foi descartada.",
+      "b": "4,82.",
+      "c": "4,84.",
+      "d": "4,85.",
+      "e": "4,86."
+    },
+    "correta": "e",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 13,
+    "enunciado": "Considere os conjuntos a seguir. O conjunto",
+    "alternativas": {
+      "a": "Considere os conjuntos a seguir.",
+      "b": "14.",
+      "c": "10.",
+      "d": "12.",
+      "e": "8."
+    },
+    "correta": "e",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 14,
+    "enunciado": "Uma gráfica consegue imprimir 500 livros em 5 dias, utilizando 10 impressoras. Quantos livros essa gráfica conseguirá imprimir em 6 dias, utilizando 12 impressoras, considerando o mesmo ritmo de trabalho?",
+    "alternativas": {
+      "a": "800.",
+      "b": "600.",
+      "c": "650.",
+      "d": "850."
+    },
+    "correta": "b",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Raciocínio Lógico-Matemático",
+    "numero": 15,
+    "enunciado": "Fabiano emprestou R$ 1.000,00 ao seu primo, que devolveu o valor após 3 meses, acrescido de juros simples de 1% ao mês. Em seguida, Fabiano aplicou o montante total recebido em uma conta de investimento que rende juros simples de 2% ao mês por um período de 9 meses.",
+    "alternativas": {
+      "a": "Fabiano emprestou R$ 1.000,00 ao seu primo, que devolveu o valor após 3 meses, acrescido de juros simples de 1% ao mês.",
+      "b": "R$ 1.185,40.",
+      "c": "R$ 1.230,00.",
+      "d": "R$ 1.278,00.",
+      "e": "R$ 1.260,00."
+    },
+    "correta": "a",
+    "explicacao": "A resolução aplica **proporcionalidade/álgebra/probabilidade** conforme os dados apresentados, com conversões e operações consistentes até o resultado final."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Informática",
+    "numero": 16,
+    "enunciado": "A extensão .exe indica um arquivo de qual tipo?",
+    "alternativas": {
+      "a": "Arquivo de áudio/vídeo.",
+      "b": "Arquivo de lote.",
+      "c": "Arquivo de planilha eletrônica.",
+      "d": "Arquivo de documento de texto."
+    },
+    "correta": "d",
+    "explicacao": "Resposta fundamentada no conteúdo da disciplina, mantendo a coerência com o enunciado e a literalidade quando for legislação."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 17,
+    "enunciado": "O que é um periférico de entrada?",
+    "alternativas": {
+      "a": "Um dispositivo que realiza processamento de dados.",
+      "b": "Um dispositivo que executa comandos do processador.",
+      "c": "Um dispositivo que conecta o computador à internet.",
+      "d": "Um dispositivo que recebe informações do computador."
+    },
+    "correta": "c",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 18,
+    "enunciado": "Qual tecnologia é fundamental para o funcionamento de ferramentas generativas de texto?",
+    "alternativas": {
+      "a": "Bancos de dados relacionais para armazenamento de dados.",
+      "b": "Algoritmos de busca usados na indexação de páginas.",
+      "c": "Processadores gráficos para renderizar imagens.",
+      "d": "Sistemas operacionais de código aberto."
+    },
+    "correta": "e",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 19,
+    "enunciado": "No Microsoft Excel 2016 (PT-BR), qual será o resultado da fórmula =10/2 quando aplicada em uma célula?",
+    "alternativas": {
+      "a": "10.",
+      "b": "2.",
+      "c": "20.",
+      "d": "0."
+    },
+    "correta": "e",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 20,
+    "enunciado": "É o objetivo principal de um firewall: realizar backups automáticos. monitorar a temperatura do processador. acelerar o processamento de programas. reforçar a conexão Wi-Fi. Conhecimentos Específicos Questão 21 Após a leitura do texto a seguir, considere o que for proposto. \"Os direitos humanos da 1.ª dimensão marcam a passagem de um Estado autoritário para um Estado de Direito e, nesse contexto, o respeito às liberdades individuais, em uma verdadeira perspectiva de absenteísmo estatal. Seu reconhecimento surge com maior evidência nas primeiras Constituições escritas, e podem ser caracterizados como frutos do pensamento liberal-burguês do século XVIII. Tais direitos dizem respeito às liberdades públicas e aos direitos políticos, ou seja, direitos civis e políticos a traduzir o valor liberdade.\" (Pedro Lenza. Direito constitucional. São Paulo: Saraiva Educação, 2021.)",
+    "alternativas": {
+      "a": "Após a leitura do texto a seguir, considere o que for proposto.",
+      "b": "Quanto aos direitos e garantias fundamentais expressos na Constituição Federal de 1988, assinale a alternativa CORRETA.",
+      "c": "É plena a liberdade de associação para fins lícitos, inclusive a de caráter paramilitar.",
+      "d": "A lei prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada.",
+      "e": "A lei excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito."
+    },
+    "correta": "c",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 21,
+    "enunciado": "Após a leitura do texto a seguir, considere o que for proposto. \"Os direitos humanos da 1.ª dimensão marcam a passagem de um Estado autoritário para um Estado de Direito e, nesse contexto, o respeito às liberdades individuais, em uma verdadeira perspectiva de absenteísmo estatal. Seu reconhecimento surge com maior evidência nas primeiras Constituições escritas, e podem ser caracterizados como frutos do pensamento liberal-burguês do século XVIII. Tais direitos dizem respeito às liberdades públicas e aos direitos políticos, ou seja, direitos civis e políticos a traduzir o valor liberdade.\" (Pedro Lenza. Direito constitucional. São Paulo: Saraiva Educação, 2021.)",
+    "alternativas": {
+      "a": "Após a leitura do texto a seguir, considere o que for proposto.",
+      "b": "Quanto aos direitos e garantias fundamentais expressos na Constituição Federal de 1988, assinale a alternativa CORRETA.",
+      "c": "É plena a liberdade de associação para fins lícitos, inclusive a de caráter paramilitar.",
+      "d": "A lei prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada.",
+      "e": "A lei excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito."
+    },
+    "correta": "b",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 23,
+    "enunciado": "A respeito do que o Código Penal prevê acerca dos crimes contra a pessoa, assinale a alternativa CORRETA. Abandonar pessoa que está sob seu cuidado, guarda, vigilância ou autoridade, e, por",
+    "alternativas": {
+      "a": "A respeito do que o Código Penal prevê acerca dos crimes contra a pessoa, assinale a alternativa CORRETA.",
+      "b": "qualquer motivo, incapaz de defender-se dos riscos resultantes do abandono: Pena - reclusão, de seis meses a seis anos.",
+      "c": "Matar alguém: Pena - detenção, de seis a vinte anos.",
+      "d": "Ofender a integridade corporal ou a saúde de outrem: Pena – reclusão, de três meses a um ano."
+    },
+    "correta": "e",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 24,
+    "enunciado": "A respeito do que determina o Decreto-Lei nº 2.848/1940, Código Penal, especialmente acerca dos crimes contra a pessoa, considere as assertivas a seguir. Deixar de prestar assistência, quando possível fazê-lo sem risco pessoal, à criança abandonada ou extraviada, ou à pessoa inválida ou ferida, ao desamparo ou em grave e iminente perigo; ou não pedir, nesses casos, o socorro da autoridade pública: Pena - detenção, de um a seis meses, ou multa. Exigir cheque-caução, nota promissória ou qualquer garantia, bem como o preenchimento prévio de formulários administrativos, como condição para o atendimento médico-hospitalar emergencial: Pena – reclusão, de 3 (três) meses a 1 (um) ano, ou multa. Expor a perigo a vida ou a saúde de pessoa sob sua autoridade, guarda ou vigilância, para fim de educação, ensino, tratamento ou custódia, quer privando-a de alimentação ou cuidados indispensáveis, quer sujeitando-a a trabalho excessivo ou inadequado, quer abusando de meios de correção ou disciplina: Pena - detenção, de dois meses a um ano, ou multa. Participar de rixa, salvo para separar os contendores: Pena - reclusão, de quinze dias a dois meses, ou multa.",
+    "alternativas": {
+      "a": "Participar de rixa, salvo para separar os contendores: Pena - reclusão, de quinze dias a dois meses, ou multa.",
+      "b": "I, II e III, apenas.",
+      "c": "II, III e IV, apenas.",
+      "d": "II e IV, apenas.",
+      "e": "III e IV, apenas."
+    },
+    "correta": "b",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 26,
+    "enunciado": "Leia o artigo a seguir, extraído do Código Penal e, então, responda o que for proposto. \"Art. 317 - Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de tal vantagem: Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa.\"",
+    "alternativas": {
+      "a": "O artigo acima tipifica qual crime?",
+      "b": "Emprego irregular de verbas ou rendas públicas.",
+      "c": "Prevaricação.",
+      "d": "Peculato.",
+      "e": "Excesso de exação."
+    },
+    "correta": "d",
+    "explicacao": "Resposta fundamentada no conteúdo da disciplina, mantendo a coerência com o enunciado e a literalidade quando for legislação."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 27,
+    "enunciado": "A Lei nº 10.826, também conhecida como Estatuto do Desarmamento, traz como ementa: \"Dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – Sinarm, define crimes e dá outras providências.\" De acordo com o teor da referida Lei, considere as assertivas a seguir. É obrigatório o registro de arma de fogo no órgão competente. A empresa que comercializa armas de fogo, acessórios e munições responde legalmente por essas mercadorias, ficando registradas como de sua propriedade enquanto não forem vendidas. O certificado de Registro de Arma de Fogo, com validade em todo o território nacional, autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou dependência desses, ou, ainda, no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa. Possuir ou manter sob sua guarda arma de fogo, acessório ou munição, de uso permitido, em desacordo com determinação legal ou regulamentar, no interior de sua residência ou dependência desta, ou, ainda no seu local de trabalho, desde que seja o titular ou o responsável legal do estabelecimento ou empresa: Pena – reclusão, de 1 (um) a 3 (três) anos, ou multa.",
+    "alternativas": {
+      "a": "É obrigatório o registro de arma de fogo no órgão competente.",
+      "b": "II, III e IV, apenas.",
+      "c": "III e IV, apenas.",
+      "d": "II e IV, apenas.",
+      "e": "I, II e IV, apenas."
+    },
+    "correta": "a",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 28,
+    "enunciado": "À luz do Estatuto Geral das Guardas Municipais, considere as assertivas a seguir. São princípios mínimos de atuação das guardas municipais: proteção dos direitos humanos fundamentais, do exercício da cidadania e das liberdades públicas; uso aleatório da força. O Município pode criar, por lei, sua guarda municipal. A guarda municipal é subordinada ao chefe do Poder Executivo municipal. As guardas municipais devem ficar sujeitas a regulamentos disciplinares de natureza militar.",
+    "alternativas": {
+      "a": "Está CORRETO o que se afirma em:",
+      "b": "I, II e III, apenas.",
+      "c": "I e IV, apenas.",
+      "d": "II e IV, apenas.",
+      "e": "II, III e IV, apenas."
+    },
+    "correta": "d",
+    "explicacao": "Resposta fundamentada no conteúdo da disciplina, mantendo a coerência com o enunciado e a literalidade quando for legislação."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 29,
+    "enunciado": "A respeito do Estatuto da Pessoa Idosa, especialmente acerca de sua previsão quanto aos crimes, julgue verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência CORRETA. (  ) Discriminar pessoa idosa, impedindo ou dificultando seu acesso a operações bancárias, aos meios de transporte, ao direito de contratar ou por qualquer outro meio ou instrumento necessário ao exercício da cidadania, por motivo de idade: Pena – detenção de 6 (seis) meses a 1 (um) ano ou multa. (  ) Não constitui crime a negativa de crédito motivada por superendividamento da pessoa idosa. (  ) Deixar de prestar assistência à pessoa idosa, quando possível fazê-lo sem risco pessoal, em situação de iminente perigo, ou recusar, retardar ou dificultar sua assistência à saúde, sem justa causa, ou não pedir, nesses casos, o socorro de autoridade pública: Pena – reclusão de 6 (seis) meses a 1 (um) ano ou multa.",
+    "alternativas": {
+      "a": "idosa.",
+      "b": "F, V, F, F.",
+      "c": "V, F, V, F.",
+      "d": "V, V, F, F.",
+      "e": "V, V, F, V."
+    },
+    "correta": "d",
+    "explicacao": "Resposta fundamentada no conteúdo da disciplina, mantendo a coerência com o enunciado e a literalidade quando for legislação."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 32,
+    "enunciado": "A Lei nº 11.343/2006 institui o Sistema Nacional de Políticas Públicas sobre Drogas (Sisnad). Sobre o assunto, julgue verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência CORRETA. (  ) Constituem atividades de prevenção do uso indevido de drogas, para efeito desta Lei, aquelas direcionadas para a redução dos fatores de vulnerabilidade e risco e para a promoção e o fortalecimento dos fatores de proteção. ( ) Constituem atividades de atenção ao usuário e dependente de drogas e respectivos familiares, para efeito desta Lei, aquelas que visem à melhoria da qualidade de vida e à redução dos riscos e dos danos associados ao uso de drogas. ( ) A União, os Estados, o Distrito Federal e os Municípios poderão conceder benefícios às instituições privadas que desenvolverem programas de reinserção no mercado de trabalho, do usuário e do dependente de drogas encaminhados por órgão oficial. (  ) O usuário e o dependente de drogas que, em razão da prática de infração penal, estiverem cumprindo pena privativa de liberdade ou submetidos a medida de segurança,",
+    "alternativas": {
+      "a": "têm impedidos os serviços de atenção à sua saúde.",
+      "b": "F, V, F, V.",
+      "c": "V, V, F, F.",
+      "d": "V, F, V, F.",
+      "e": "F, F, F, V."
+    },
+    "correta": "e",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 33,
+    "enunciado": "Acerca do Sistema Nacional de Políticas Públicas sobre Drogas (Sisnad), julgue verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência CORRETA. (  ) É indispensável a licença prévia da autoridade competente para produzir, extrair, fabricar, transformar, preparar, possuir, manter em depósito, importar, exportar, reexportar, remeter, transportar, expor, oferecer, vender, comprar, trocar, ceder ou adquirir, para qualquer fim, drogas ou matéria-prima destinada à sua preparação, observadas as demais exigências legais. (  ) Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar: Pena - reclusão de 5 (cinco) a 15 (quinze) anos e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) dias-multa. (  ) Fabricar, adquirir, utilizar, transportar, oferecer, vender, distribuir, entregar a qualquer título, possuir, guardar ou fornecer, ainda que gratuitamente, maquinário, aparelho, instrumento ou qualquer objeto destinado à fabricação, preparação, produção ou transformação de drogas, sem autorização ou em desacordo com determinação legal ou regulamentar: Pena – detenção, de 3 (três) a 10 (dez) anos, e pagamento de 1.200 (mil e duzentos) a 2.000 (dois mil) dias-multa.",
+    "alternativas": {
+      "a": "(V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência CORRETA.",
+      "b": "V, V, F, F.",
+      "c": "F, F, V, V.",
+      "d": "F, V, F, V.",
+      "e": "F, F, V, F."
+    },
+    "correta": "b",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 34,
+    "enunciado": "Tendo por norte o Sisnad, considere as assertivas a seguir. Ocorrendo prisão em flagrante, a autoridade de polícia judiciária fará, imediatamente, comunicação ao juiz competente, remetendo-lhe cópia do auto lavrado, do qual será dada vista ao órgão do Ministério Público, em 72 (setenta e duas) horas. A destruição das drogas apreendidas sem a ocorrência de prisão em flagrante será feita por incineração, no prazo máximo de 30 (trinta) dias contados da data da apreensão, guardando-se amostra necessária à realização do laudo definitivo. O inquérito policial será concluído no prazo de 30 (trinta) dias, se o indiciado estiver preso, e de 90 (noventa) dias, quando solto. Oferecida a denúncia, o juiz ordenará a notificação do acusado para oferecer defesa prévia, por escrito, no prazo de 10 (dez) dias.",
+    "alternativas": {
+      "a": "Tendo por norte o Sisnad, considere as assertivas a seguir.",
+      "b": "I e II, apenas.",
+      "c": "I e III, apenas.",
+      "d": "I, II e IV, apenas.",
+      "e": "I, II e III, apenas."
+    },
+    "correta": "a",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 35,
+    "enunciado": "Assinale a alternativa que preenche CORRETAMENTE as lacunas extraídas da Lei Municipal nº 1.364/2002, que cria a Guarda Municipal de Araucária. \"Art. 3º Constituem obrigações da Guarda Nacional: - \t, no exercício de suas atribuições, com a Polícia Civil e a Brigada Militar;",
+    "alternativas": {
+      "a": "- exercer a segurança \t da população nos bairros junto aos Conselhos Comunitários de Segurança;\".",
+      "b": "Disputar; progressiva.",
+      "c": "Cooperar; ostensiva.",
+      "d": "Concorrer; ostensiva.",
+      "e": "Concorrer; preventiva."
+    },
+    "correta": "d",
+    "explicacao": "Resposta fundamentada no conteúdo da disciplina, mantendo a coerência com o enunciado e a literalidade quando for legislação."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 37,
+    "enunciado": "Tendo por norte a Lei Municipal nº 1.684/2006, julgue verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência CORRETA. ( ) Para fins disciplinares e para os demais efeitos legais, a conduta do servidor da Guarda Municipal será considerada: boa, quando no período de 48 (quarenta e oito) meses não tiver sofrido qualquer punição. (  ) Para fins disciplinares e para os demais efeitos legais, a conduta do servidor da Guarda Municipal será considerada: insuficiente, quando no período de 24 (vinte e quatro) meses não tiver sofrido pena de suspensão. (  ) Para a classificação de conduta, 2 (duas) advertências equivalerão a 1 (uma) repreensão e 2 (duas) repreensões a 1 (uma) suspensão.",
+    "alternativas": {
+      "a": "afirma a seguir e assinale a alternativa com a sequência CORRETA.",
+      "b": "V, F, V, F.",
+      "c": "F, V, F, V.",
+      "d": "V, V, F, F.",
+      "e": "F, V, V, V."
+    },
+    "correta": "a",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 38,
+    "enunciado": "Assinale a alternativa que preenche CORRETAMENTE as lacunas extraídas da Lei Municipal nº 1.684/2006. \"Art. 20. São infrações disciplinares de natureza \t: - descuidar-se do asseio pessoal, dos equipamentos ou ambiente de trabalho;\". \"Art. 22. São infrações disciplinares de natureza \t:",
+    "alternativas": {
+      "a": "- participar da gerência, administração ou prestar serviços a empresa privada de segurança;\".",
+      "b": "Média. Média.",
+      "c": "Média. Grave.",
+      "d": "Leve. Leve.",
+      "e": "Leve. Média."
+    },
+    "correta": "b",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": "Conhecimentos Específicos",
+    "numero": 39,
+    "enunciado": "A Lei Municipal Complementar nº 23/2020 dispõe sobre o Código de Posturas do Município de Araucária. Sobre o seu teor, considere as assertivas a seguir. Não serão permitidos a natação, o banho ou a prática de esportes náuticos nos rios, córregos, lagos e espaços públicos do Município, exceto nos locais designados previamente como próprios para esses fins. A emissão de sons e ruídos, em decorrência de quaisquer atividades industriais, comerciais, sociais, religiosas, recreativas ou dos serviços de lazer e diversão, culturais e esportivas, inclusive as de propaganda, obedecerá ao interesse da saúde, da segurança, do meio ambiente e do sossego da população, assim como aos padrões e critérios determinados em regulamento específico. Deverá ser promovida a execução de obras e serviços em logradouros públicos em horários de pico e em horários de descanso, como noites, finais de semana e feriados. As autoridades competentes pela fiscalização deverão autuar os infratores responsáveis por fontes móveis de poluição sonora, que poderão ter seus equipamentos apreendidos como instrumentos comprobatórios das infrações, respondendo ainda pelas implicações jurídicas de ordem administrativa, civil e criminal.",
+    "alternativas": {
+      "a": "Está CORRETO o que se afirma em:",
+      "b": "I, II e III, apenas.",
+      "c": "III e IV, apenas.",
+      "d": "II e III, apenas.",
+      "e": "II, III e IV, apenas."
+    },
+    "correta": "d",
+    "explicacao": "Resposta fundamentada no conteúdo da disciplina, mantendo a coerência com o enunciado e a literalidade quando for legislação."
+  },
+  {
+    "origem": {
+      "cidade": "Araucária",
+      "ano": 2025,
+      "banca": "Fafipa"
+    },
+    "materia": null,
+    "numero": 40,
+    "enunciado": "Assinale a alternativa que preenche CORRETAMENTE a lacuna a seguir, extraída do Código de Posturas do Município de Araucária. \"Art. 61. É proibido embaraçar ou impedir, por qualquer meio, o livre trânsito de pedestres ou de veículos nas ruas, praças, calçadas e passeios, exceto para efeito de obras públicas devidamente autorizadas, por determinação policial ou por meio de autorização do órgão municipal de trânsito. § 3º O responsável deverá providenciar, com antecedência mínima de \t dias, a notificação aos moradores da via ou logradouro público onde será realizada a ação, sobre a necessidade de seu impedimento.\"",
+    "alternativas": {
+      "a": "21 (vinte e um).",
+      "b": "2 (dois).",
+      "c": "14 (quatorze).",
+      "d": "30 (trinta)."
+    },
+    "correta": "b",
+    "explicacao": "A alternativa correta segue a **literalidade do texto normativo** (Lei 13.022/2014, CF/88, CTB, Lei 13.869/2019 etc.), sem extrapolações."
+  }
+]
