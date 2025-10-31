@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Question } from "@/types/question";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -11,6 +11,7 @@ interface QuestionCardProps {
   totalQuestions: number;
   onAnswer: (answer: string) => void;
   showFeedback?: boolean;
+  selectedAnswerProp?: string | null;
 }
 
 export function QuestionCard({
@@ -19,9 +20,16 @@ export function QuestionCard({
   totalQuestions,
   onAnswer,
   showFeedback = false,
+  selectedAnswerProp,
 }: QuestionCardProps) {
-  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
+  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(selectedAnswerProp || null);
   const [showExplanation, setShowExplanation] = useState(false);
+
+  // Reset state when question changes
+  useEffect(() => {
+    setSelectedAnswer(selectedAnswerProp || null);
+    setShowExplanation(false);
+  }, [question.numero, questionNumber, selectedAnswerProp]);
 
   const handleAnswerSelect = (answer: string) => {
     if (showFeedback && selectedAnswer) return;

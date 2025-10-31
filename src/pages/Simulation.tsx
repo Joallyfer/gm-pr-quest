@@ -46,11 +46,17 @@ const Simulation = () => {
     setLoading(true);
     try {
       const allQuestions = await loadAllQuestions();
+      console.log(`Total de questões carregadas: ${allQuestions.length}`);
+      
       const simQuestions = getSimulationQuestions(allQuestions);
       
-      if (simQuestions.length < 40) {
-        toast.error("Não há questões suficientes para gerar um simulado completo");
+      if (simQuestions.length < 30) {
+        toast.error(`Não há questões suficientes. Encontradas: ${simQuestions.length}/40`);
         return;
+      }
+      
+      if (simQuestions.length < 40) {
+        toast.warning(`Simulado gerado com ${simQuestions.length} questões (ideal: 40)`);
       }
       
       setQuestions(simQuestions);
@@ -289,6 +295,7 @@ const Simulation = () => {
           totalQuestions={questions.length}
           onAnswer={handleAnswer}
           showFeedback={false}
+          selectedAnswerProp={answers[currentQuestionIndex] || null}
         />
 
         <div className="mt-6 flex justify-between gap-4">

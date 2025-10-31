@@ -39,12 +39,35 @@ export function normalizeSubject(subject: string): string {
   
   const normalized = subject.toLowerCase().trim();
   
-  if (normalized.includes("portugu")) return "Português";
-  if (normalized.includes("lógic") || normalized.includes("rlm")) return "RLM";
-  if (normalized.includes("informát")) return "Informática";
-  if (normalized.includes("história") || normalized.includes("geografia")) return "História e Geografia";
-  if (normalized.includes("direito")) return "Noções de Direito";
-  if (normalized.includes("legisla")) return "Legislação";
+  // Português / Língua Portuguesa
+  if (normalized.includes("portugu") || normalized.includes("língua")) {
+    return "Português";
+  }
+  
+  // RLM / Raciocínio Lógico
+  if (normalized.includes("lógic") || normalized.includes("raciocínio") || normalized.includes("matemát")) {
+    return "RLM";
+  }
+  
+  // Informática
+  if (normalized.includes("informát")) {
+    return "Informática";
+  }
+  
+  // História e Geografia
+  if (normalized.includes("história") || normalized.includes("geografia")) {
+    return "História e Geografia";
+  }
+  
+  // Direito
+  if (normalized.includes("direito")) {
+    return "Noções de Direito";
+  }
+  
+  // Legislação
+  if (normalized.includes("legisla")) {
+    return "Legislação";
+  }
   
   return subject;
 }
@@ -59,6 +82,12 @@ export function getRandomQuestions(questions: Question[], count: number): Questi
 }
 
 export function getSimulationQuestions(questions: Question[]): Question[] {
+  // First, normalize all questions
+  const normalizedQuestions = questions.map(q => ({
+    ...q,
+    materia: normalizeSubject(q.materia)
+  }));
+
   const subjects = [
     { name: "Português", count: 5 },
     { name: "RLM", count: 5 },
@@ -69,12 +98,24 @@ export function getSimulationQuestions(questions: Question[]): Question[] {
   ];
 
   const simulationQuestions: Question[] = [];
+  let missingQuestions = 0;
 
   for (const subject of subjects) {
-    const subjectQuestions = getQuestionsBySubject(questions, subject.name);
-    const selected = getRandomQuestions(subjectQuestions, subject.count);
-    simulationQuestions.push(...selected);
+    const subjectQuestions = normalizedQuestions.filter(q => q.materia === subject.name);
+    console.log(`${subject.name}: ${subjectQuestions.length} questões disponíveis, precisa de ${subject.count}`);
+    
+    if (subjectQuestions.length < subject.count) {
+      missingQuestions += subject.count - subjectQuestions.length;
+      // Add all available questions
+      simulationQuestions.push(...subjectQuestions);
+    } else {
+      const selected = getRandomQuestions(subjectQuestions, subject.count);
+      simulationQuestions.push(...selected);
+    }
   }
+
+  console.log(`Total de questões no simulado: ${simulationQuestions.length}/40`);
+  console.log(`Questões faltando: ${missingQuestions}`);
 
   return simulationQuestions;
 }

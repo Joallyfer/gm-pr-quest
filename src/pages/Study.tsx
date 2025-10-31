@@ -184,6 +184,7 @@ const Study = () => {
           totalQuestions={questions.length}
           onAnswer={handleAnswer}
           showFeedback={true}
+          selectedAnswerProp={null}
         />
 
         <div className="mt-6 flex justify-end">
