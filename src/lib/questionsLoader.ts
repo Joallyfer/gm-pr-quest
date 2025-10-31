@@ -35,6 +35,8 @@ export async function loadAllQuestions(): Promise<Question[]> {
 }
 
 export function normalizeSubject(subject: string): string {
+  if (!subject) return "Outros";
+  
   const normalized = subject.toLowerCase().trim();
   
   if (normalized.includes("portugu")) return "Português";
