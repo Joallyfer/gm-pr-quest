@@ -20,14 +20,8 @@ const Essay = () => {
   const [selectedTheme, setSelectedTheme] = useState<string | null>(null);
   const [essayText, setEssayText] = useState("");
   const [submitting, setSubmitting] = useState(false);
-  const isPremium = false; // Will be replaced with real user data
 
   const handleSubmit = async () => {
-    if (!isPremium) {
-      toast.error("Recurso exclusivo para assinantes Premium");
-      return;
-    }
-
     if (!selectedTheme) {
       toast.error("Selecione um tema primeiro");
       return;
@@ -64,39 +58,11 @@ const Essay = () => {
                 <p className="text-xs text-muted-foreground">Correção automática e feedback</p>
               </div>
             </div>
-            {isPremium && (
-              <div className="flex items-center gap-2 text-warning">
-                <Sparkles className="h-4 w-4" />
-                <span className="text-sm font-semibold">Premium</span>
-              </div>
-            )}
           </div>
         </div>
       </header>
 
       <main className="container max-w-4xl mx-auto px-4 py-8">
-        {!isPremium && (
-          <Card className="p-8 bg-gradient-primary text-white mb-8">
-            <div className="flex flex-col md:flex-row items-center gap-6">
-              <div className="w-16 h-16 rounded-full bg-white/20 flex items-center justify-center flex-shrink-0">
-                <Lock className="h-8 w-8 text-white" />
-              </div>
-              <div className="flex-1 text-center md:text-left">
-                <h3 className="text-2xl font-bold mb-2">
-                  Recurso Exclusivo Premium
-                </h3>
-                <p className="text-white/90 mb-4">
-                  Correção automática de redações com Inteligência Artificial, nota de 0 a 100 
-                  e feedback detalhado sobre gramática, coesão e argumentação.
-                </p>
-                <Button className="bg-white text-primary hover:bg-white/90">
-                  Fazer Upgrade Agora
-                </Button>
-              </div>
-            </div>
-          </Card>
-        )}
-
         <Card className="p-6 border-l-4 border-l-primary bg-primary/5 mb-8">
           <div className="flex items-start gap-3">
             <PenTool className="h-6 w-6 text-primary flex-shrink-0 mt-1" />
@@ -125,12 +91,11 @@ const Essay = () => {
               <button
                 key={index}
                 onClick={() => setSelectedTheme(theme)}
-                disabled={!isPremium}
-                className={`w-full text-left p-4 rounded-lg border-2 transition-all ${
+                className={`w-full text-left p-4 rounded-lg border-2 transition-all cursor-pointer ${
                   selectedTheme === theme
                     ? "border-primary bg-primary/5"
                     : "border-border hover:border-primary/50"
-                } ${!isPremium ? "opacity-50 cursor-not-allowed" : "cursor-pointer"}`}
+                }`}
               >
                 <div className="flex items-start gap-3">
                   <span className="flex-shrink-0 w-8 h-8 rounded-full bg-primary/10 flex items-center justify-center text-sm font-semibold text-primary">
@@ -159,7 +124,7 @@ const Essay = () => {
             }
             value={essayText}
             onChange={(e) => setEssayText(e.target.value)}
-            disabled={!isPremium || !selectedTheme}
+            disabled={!selectedTheme}
             className="min-h-[400px] font-mono text-sm leading-relaxed"
           />
         </Card>
@@ -172,13 +137,12 @@ const Essay = () => {
             }}
             variant="outline"
             className="flex-1"
-            disabled={!isPremium}
           >
             Limpar
           </Button>
           <Button
             onClick={handleSubmit}
-            disabled={!isPremium || !selectedTheme || essayText.length < 500 || submitting}
+            disabled={!selectedTheme || essayText.length < 500 || submitting}
             className="flex-1 bg-gradient-primary"
           >
             {submitting ? (
