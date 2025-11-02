@@ -76,8 +76,21 @@ export function getQuestionsBySubject(questions: Question[], subject: string): Q
   return questions.filter(q => normalizeSubject(q.materia) === subject);
 }
 
+export function removeDuplicateQuestions(questions: Question[]): Question[] {
+  const seen = new Set<string>();
+  return questions.filter(q => {
+    const key = `${q.enunciado.trim().toLowerCase()}`;
+    if (seen.has(key)) {
+      return false;
+    }
+    seen.add(key);
+    return true;
+  });
+}
+
 export function getRandomQuestions(questions: Question[], count: number): Question[] {
-  const shuffled = [...questions].sort(() => Math.random() - 0.5);
+  const uniqueQuestions = removeDuplicateQuestions(questions);
+  const shuffled = [...uniqueQuestions].sort(() => Math.random() - 0.5);
   return shuffled.slice(0, count);
 }
 
