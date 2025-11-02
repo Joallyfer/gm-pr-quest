@@ -7,6 +7,7 @@ import { Question } from "@/types/question";
 import { loadAllQuestions, getQuestionsBySubject, getRandomQuestions } from "@/lib/questionsLoader";
 import { QuestionCard } from "@/components/QuestionCard";
 import { toast } from "sonner";
+import { getUserProgress, recordQuestionAnswer, hasReachedFreeLimit } from "@/lib/userProgress";
 
 const subjects = [
   "Português",
@@ -22,9 +23,8 @@ const Study = () => {
   const [selectedSubject, setSelectedSubject] = useState<string | null>(null);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [answeredCount, setAnsweredCount] = useState(0);
-  const [correctCount, setCorrectCount] = useState(0);
   const [loading, setLoading] = useState(false);
+  const progress = getUserProgress();
 
   const FREE_LIMIT = 30;
 
@@ -51,16 +51,14 @@ const Study = () => {
   };
 
   const handleAnswer = (answer: string) => {
-    const isCorrect = answer === questions[currentQuestionIndex].correta;
+    const currentQuestion = questions[currentQuestionIndex];
+    const isCorrect = answer === currentQuestion.correta;
     
-    if (isCorrect) {
-      setCorrectCount(prev => prev + 1);
-    }
+    // Record the answer
+    recordQuestionAnswer(currentQuestion, answer, isCorrect, selectedSubject || "");
     
-    setAnsweredCount(prev => prev + 1);
-
     // Check free limit
-    if (answeredCount + 1 >= FREE_LIMIT) {
+    if (hasReachedFreeLimit()) {
       toast.warning("Você atingiu o limite de questões gratuitas!", {
         description: "Faça upgrade para o plano Premium e continue estudando.",
       });
@@ -132,8 +130,9 @@ const Study = () => {
 
           <Card className="mt-6 p-4 bg-muted/50">
             <p className="text-sm text-muted-foreground text-center">
-              💡 <strong>Plano Gratuito:</strong> Você tem acesso a até {FREE_LIMIT} questões. 
-              Questões respondidas: <strong>{answeredCount}/{FREE_LIMIT}</strong>
+              💡 <strong>{progress.isPremium ? "Plano Premium" : "Plano Gratuito"}:</strong> 
+              {progress.isPremium ? " Acesso ilimitado" : ` Você tem acesso a até ${FREE_LIMIT} questões`}. 
+              Questões respondidas: <strong>{progress.totalQuestionsAnswered}{progress.isPremium ? "" : `/${FREE_LIMIT}`}</strong>
             </p>
           </Card>
         </main>
@@ -164,13 +163,13 @@ const Study = () => {
               <div>
                 <h1 className="text-lg font-bold text-foreground">{selectedSubject}</h1>
                 <p className="text-xs text-muted-foreground">
-                  {correctCount} acertos de {answeredCount} respondidas
+                  Progresso: {progress.totalQuestionsAnswered} questões respondidas
                 </p>
               </div>
             </div>
             <div className="text-right">
               <p className="text-sm font-medium text-foreground">
-                Questões restantes: {FREE_LIMIT - answeredCount}
+                Questões restantes: {progress.isPremium ? "∞" : Math.max(0, FREE_LIMIT - progress.totalQuestionsAnswered)}
               </p>
             </div>
           </div>

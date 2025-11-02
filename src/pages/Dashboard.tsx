@@ -3,33 +3,38 @@ import { Shield, BookOpen, Target, TrendingUp, PenTool, RotateCcw, LogOut } from
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { useNavigate } from "react-router-dom";
+import { getUserProgress, getLatestSimulation, getAverageSimulationScore } from "@/lib/userProgress";
 
 const Dashboard = () => {
   const navigate = useNavigate();
   const [userName] = useState("Usuário"); // Will be replaced with real auth
 
+  const progress = getUserProgress();
+  const latestSim = getLatestSimulation();
+  const avgScore = getAverageSimulationScore();
+
   const stats = [
     {
       label: "Questões Respondidas",
-      value: "0",
-      total: "30",
+      value: progress.totalQuestionsAnswered.toString(),
+      total: progress.isPremium ? "∞" : "30",
       color: "text-primary",
     },
     {
       label: "Simulados Realizados",
-      value: "0",
-      total: "1",
+      value: progress.simulationsCompleted.length.toString(),
+      total: progress.isPremium ? "∞" : "1",
       color: "text-accent",
     },
     {
       label: "Última Nota",
-      value: "-",
+      value: latestSim ? latestSim.score.toString() : "-",
       total: "100",
       color: "text-success",
     },
     {
       label: "Média Geral",
-      value: "-",
+      value: avgScore > 0 ? avgScore.toString() : "-",
       total: "100",
       color: "text-warning",
     },

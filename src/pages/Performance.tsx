@@ -3,29 +3,35 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { useNavigate } from "react-router-dom";
 import { Progress } from "@/components/ui/progress";
+import { getUserProgress, getSubjectStatistics, getTotalStudyTime } from "@/lib/userProgress";
 
 const Performance = () => {
   const navigate = useNavigate();
 
-  // Mock data - will be replaced with real user data
+  const progress = getUserProgress();
+  const subjectStats = getSubjectStatistics();
+  const studyTime = getTotalStudyTime();
+
   const stats = {
-    totalQuestions: 0,
-    correctAnswers: 0,
-    simulationsCompleted: 0,
-    averageScore: 0,
-    studyTime: 0,
+    totalQuestions: progress.totalQuestionsAnswered,
+    correctAnswers: progress.totalCorrectAnswers,
+    simulationsCompleted: progress.simulationsCompleted.length,
+    averageScore: progress.simulationsCompleted.length > 0
+      ? Math.round(progress.simulationsCompleted.reduce((sum, sim) => sum + sim.score, 0) / progress.simulationsCompleted.length)
+      : 0,
+    studyTime,
   };
 
-  const subjectPerformance = [
-    { subject: "Português", correct: 0, total: 0, percentage: 0 },
-    { subject: "RLM", correct: 0, total: 0, percentage: 0 },
-    { subject: "Informática", correct: 0, total: 0, percentage: 0 },
-    { subject: "História e Geografia", correct: 0, total: 0, percentage: 0 },
-    { subject: "Noções de Direito", correct: 0, total: 0, percentage: 0 },
-    { subject: "Legislação", correct: 0, total: 0, percentage: 0 },
-  ];
+  // Create array for all subjects with stats
+  const allSubjects = ["Português", "RLM", "Informática", "História e Geografia", "Noções de Direito", "Legislação"];
+  const subjectPerformance = allSubjects.map(subject => ({
+    subject,
+    correct: subjectStats[subject]?.correct || 0,
+    total: subjectStats[subject]?.total || 0,
+    percentage: subjectStats[subject]?.percentage || 0,
+  }));
 
-  const simulationHistory: any[] = [];
+  const simulationHistory = progress.simulationsCompleted;
 
   const formatTime = (minutes: number) => {
     const hours = Math.floor(minutes / 60);

@@ -1,12 +1,58 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Shield, ArrowLeft, RotateCcw, AlertCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { useNavigate } from "react-router-dom";
+import { getIncorrectQuestions, recordQuestionAnswer } from "@/lib/userProgress";
+import { QuestionCard } from "@/components/QuestionCard";
 
 const Review = () => {
   const navigate = useNavigate();
-  const [wrongQuestions] = useState([]); // Will be populated from user data
+  const [wrongQuestions, setWrongQuestions] = useState<any[]>([]);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+
+  useEffect(() => {
+    const incorrect = getIncorrectQuestions();
+    setWrongQuestions(incorrect);
+  }, []);
+
+  const handleAnswer = (answer: string) => {
+    const currentQuestion = wrongQuestions[currentQuestionIndex];
+    const isCorrect = answer === currentQuestion.question.correta;
+    
+    // Record the new answer
+    recordQuestionAnswer(
+      currentQuestion.question,
+      answer,
+      isCorrect,
+      currentQuestion.subject
+    );
+    
+    // If correct, refresh the list (question will be removed)
+    if (isCorrect) {
+      const updated = getIncorrectQuestions();
+      setWrongQuestions(updated);
+      
+      // Adjust index if needed
+      if (currentQuestionIndex >= updated.length && updated.length > 0) {
+        setCurrentQuestionIndex(updated.length - 1);
+      } else if (updated.length === 0) {
+        setCurrentQuestionIndex(0);
+      }
+    }
+  };
+
+  const handleNext = () => {
+    if (currentQuestionIndex < wrongQuestions.length - 1) {
+      setCurrentQuestionIndex(prev => prev + 1);
+    }
+  };
+
+  const handlePrevious = () => {
+    if (currentQuestionIndex > 0) {
+      setCurrentQuestionIndex(prev => prev - 1);
+    }
+  };
 
   return (
     <div className="min-h-screen bg-background">
@@ -81,10 +127,37 @@ const Review = () => {
               </div>
             </Card>
 
-            {/* Question cards will be rendered here when there are wrong questions */}
-            <p className="text-center text-muted-foreground py-8">
-              As questões erradas aparecerão aqui após você começar a estudar.
-            </p>
+            <Card className="p-6 mb-4">
+              <p className="text-sm text-muted-foreground mb-4">
+                Questão {currentQuestionIndex + 1} de {wrongQuestions.length} • Resposta anterior: {wrongQuestions[currentQuestionIndex].userAnswer}
+              </p>
+            </Card>
+
+            <QuestionCard
+              question={wrongQuestions[currentQuestionIndex].question}
+              questionNumber={currentQuestionIndex + 1}
+              totalQuestions={wrongQuestions.length}
+              onAnswer={handleAnswer}
+              showFeedback={true}
+              selectedAnswerProp={null}
+            />
+
+            <div className="mt-6 flex justify-between gap-4">
+              <Button
+                onClick={handlePrevious}
+                disabled={currentQuestionIndex === 0}
+                variant="outline"
+              >
+                Anterior
+              </Button>
+              <Button
+                onClick={handleNext}
+                disabled={currentQuestionIndex >= wrongQuestions.length - 1}
+                className="bg-gradient-primary"
+              >
+                Próxima
+              </Button>
+            </div>
           </div>
         )}
       </main>

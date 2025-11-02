@@ -8,9 +8,11 @@ import { loadAllQuestions, getSimulationQuestions, calculateScore } from "@/lib/
 import { QuestionCard } from "@/components/QuestionCard";
 import { toast } from "sonner";
 import { Progress } from "@/components/ui/progress";
+import { getUserProgress, recordSimulationResult } from "@/lib/userProgress";
 
 const Simulation = () => {
   const navigate = useNavigate();
+  const progress = getUserProgress();
   const [started, setStarted] = useState(false);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -43,6 +45,12 @@ const Simulation = () => {
   };
 
   const startSimulation = async () => {
+    // Check if free user already did 1 simulation
+    if (!progress.isPremium && progress.simulationsCompleted.length >= 1) {
+      toast.error("⚠️ Você atingiu o limite gratuito. Faça upgrade para o plano Premium e continue estudando.");
+      return;
+    }
+
     setLoading(true);
     try {
       const allQuestions = await loadAllQuestions();
@@ -97,6 +105,16 @@ const Simulation = () => {
       timeSpent,
     });
     setFinished(true);
+    
+    // Record the simulation result
+    const timeSpentMinutes = Math.round(timeSpent / 60);
+    recordSimulationResult({
+      date: new Date().toISOString(),
+      score: scoreData.total,
+      passed: scoreData.passed,
+      timeSpent: timeSpentMinutes,
+      scoreBySubject: scoreData.scoreBySubject,
+    });
     
     toast.success(scoreData.passed ? "Parabéns! Você foi aprovado! 🎉" : "Continue estudando! Você consegue! 💪");
   };

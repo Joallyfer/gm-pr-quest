@@ -32,22 +32,27 @@ export type Subject =
   | "Legislação"
   | "Legislação Específica";
 
+export interface QuestionAnswer {
+  questionId: string;
+  question: Question;
+  userAnswer: string;
+  isCorrect: boolean;
+  subject: string;
+  timestamp: string;
+}
+
 export interface SimulationResult {
-  id: string;
-  userId: string;
-  date: Date;
-  questions: Question[];
-  answers: Record<number, string>;
+  date: string;
   score: number;
-  timeSpent: number;
   passed: boolean;
+  timeSpent: number;
   scoreBySubject: Record<string, { correct: number; total: number; score: number }>;
 }
 
 export interface UserProgress {
-  questionsAnswered: number;
-  simulationsCompleted: number;
-  lastScore: number;
-  averageScore: number;
-  wrongQuestions: Question[];
+  questionsAnswered: QuestionAnswer[];
+  simulationsCompleted: SimulationResult[];
+  totalQuestionsAnswered: number;
+  totalCorrectAnswers: number;
+  isPremium: boolean;
 }
