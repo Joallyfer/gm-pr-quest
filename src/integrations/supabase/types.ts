@@ -14,7 +14,147 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      essays: {
+        Row: {
+          content: string
+          correction: Json | null
+          created_at: string
+          id: string
+          theme: string
+          user_id: string
+        }
+        Insert: {
+          content: string
+          correction?: Json | null
+          created_at?: string
+          id?: string
+          theme: string
+          user_id: string
+        }
+        Update: {
+          content?: string
+          correction?: Json | null
+          created_at?: string
+          id?: string
+          theme?: string
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "essays_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "profiles"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      profiles: {
+        Row: {
+          created_at: string
+          email: string
+          full_name: string | null
+          id: string
+          is_premium: boolean
+          updated_at: string
+        }
+        Insert: {
+          created_at?: string
+          email: string
+          full_name?: string | null
+          id: string
+          is_premium?: boolean
+          updated_at?: string
+        }
+        Update: {
+          created_at?: string
+          email?: string
+          full_name?: string | null
+          id?: string
+          is_premium?: boolean
+          updated_at?: string
+        }
+        Relationships: []
+      }
+      question_answers: {
+        Row: {
+          created_at: string
+          id: string
+          is_correct: boolean
+          question_data: Json
+          question_id: string
+          subject: string
+          user_answer: string
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          id?: string
+          is_correct: boolean
+          question_data: Json
+          question_id: string
+          subject: string
+          user_answer: string
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          id?: string
+          is_correct?: boolean
+          question_data?: Json
+          question_id?: string
+          subject?: string
+          user_answer?: string
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "question_answers_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "profiles"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      simulations: {
+        Row: {
+          created_at: string
+          id: string
+          passed: boolean
+          score: number
+          score_by_subject: Json
+          time_spent: number
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          id?: string
+          passed: boolean
+          score: number
+          score_by_subject: Json
+          time_spent: number
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          id?: string
+          passed?: boolean
+          score?: number
+          score_by_subject?: Json
+          time_spent?: number
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "simulations_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "profiles"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
     }
     Views: {
       [_ in never]: never
