@@ -1,17 +1,70 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Shield, BookOpen, Target, TrendingUp, PenTool, RotateCcw, LogOut } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { useNavigate } from "react-router-dom";
-import { getUserProgress, getLatestSimulation, getAverageSimulationScore } from "@/lib/userProgress";
+import { supabase } from "@/integrations/supabase/client";
+import { getUserProgress, getLatestSimulation, getAverageSimulationScore } from "@/lib/supabaseUserProgress";
+import { toast } from "sonner";
 
 const Dashboard = () => {
   const navigate = useNavigate();
-  const [userName] = useState("Usuário"); // Will be replaced with real auth
+  const [userName, setUserName] = useState("Usuário");
+  const [loading, setLoading] = useState(true);
+  const [progress, setProgress] = useState<any>(null);
+  const [latestSim, setLatestSim] = useState<any>(null);
+  const [avgScore, setAvgScore] = useState(0);
 
-  const progress = getUserProgress();
-  const latestSim = getLatestSimulation();
-  const avgScore = getAverageSimulationScore();
+  useEffect(() => {
+    const checkUser = async () => {
+      const { data: { user } } = await supabase.auth.getUser();
+      
+      if (!user) {
+        navigate("/auth");
+        return;
+      }
+
+      setUserName(user.user_metadata?.full_name || user.email || "Usuário");
+
+      const [progressData, latestSimData, avgScoreData] = await Promise.all([
+        getUserProgress(),
+        getLatestSimulation(),
+        getAverageSimulationScore(),
+      ]);
+
+      setProgress(progressData);
+      setLatestSim(latestSimData);
+      setAvgScore(avgScoreData);
+      setLoading(false);
+    };
+
+    checkUser();
+
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((event) => {
+      if (event === 'SIGNED_OUT') {
+        navigate("/auth");
+      }
+    });
+
+    return () => subscription.unsubscribe();
+  }, [navigate]);
+
+  const handleLogout = async () => {
+    await supabase.auth.signOut();
+    toast.success("Você saiu da sua conta");
+    navigate("/auth");
+  };
+
+  if (loading || !progress) {
+    return (
+      <div className="min-h-screen bg-background flex items-center justify-center">
+        <div className="text-center">
+          <div className="w-16 h-16 border-4 border-primary border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+          <p className="text-muted-foreground">Carregando...</p>
+        </div>
+      </div>
+    );
+  }
 
   const stats = [
     {
@@ -100,9 +153,11 @@ const Dashboard = () => {
             <div className="flex items-center gap-4">
               <div className="hidden sm:block text-right">
                 <p className="text-sm font-medium text-foreground">{userName}</p>
-                <p className="text-xs text-muted-foreground">Plano Gratuito</p>
+                <p className="text-xs text-muted-foreground">
+                  {progress?.isPremium ? "Plano Premium" : "Plano Gratuito"}
+                </p>
               </div>
-              <Button variant="outline" size="sm" className="gap-2">
+              <Button variant="outline" size="sm" className="gap-2" onClick={handleLogout}>
                 <LogOut className="h-4 w-4" />
                 Sair
               </Button>

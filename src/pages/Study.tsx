@@ -7,7 +7,8 @@ import { Question } from "@/types/question";
 import { loadAllQuestions, getQuestionsBySubject, getRandomQuestions } from "@/lib/questionsLoader";
 import { QuestionCard } from "@/components/QuestionCard";
 import { toast } from "sonner";
-import { getUserProgress, recordQuestionAnswer, hasReachedFreeLimit } from "@/lib/userProgress";
+import { supabase } from "@/integrations/supabase/client";
+import { recordQuestionAnswer, hasReachedFreeLimit } from "@/lib/supabaseUserProgress";
 
 const subjects = [
   "Português",
@@ -24,9 +25,37 @@ const Study = () => {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [loading, setLoading] = useState(false);
-  const progress = getUserProgress();
+  const [questionsAnswered, setQuestionsAnswered] = useState(0);
+  const [isPremium, setIsPremium] = useState(false);
 
   const FREE_LIMIT = 30;
+
+  useEffect(() => {
+    const checkAuth = async () => {
+      const { data: { user } } = await supabase.auth.getUser();
+      if (!user) {
+        navigate("/auth");
+        return;
+      }
+
+      const { data: profile } = await supabase
+        .from("profiles")
+        .select("is_premium")
+        .eq("id", user.id)
+        .single();
+
+      setIsPremium(profile?.is_premium || false);
+
+      const { data: answers } = await supabase
+        .from("question_answers")
+        .select("id")
+        .eq("user_id", user.id);
+
+      setQuestionsAnswered(answers?.length || 0);
+    };
+
+    checkAuth();
+  }, [navigate]);
 
   useEffect(() => {
     if (selectedSubject) {
@@ -50,15 +79,17 @@ const Study = () => {
     }
   };
 
-  const handleAnswer = (answer: string) => {
+  const handleAnswer = async (answer: string) => {
     const currentQuestion = questions[currentQuestionIndex];
     const isCorrect = answer === currentQuestion.correta;
     
     // Record the answer
-    recordQuestionAnswer(currentQuestion, answer, isCorrect, selectedSubject || "");
+    await recordQuestionAnswer(currentQuestion, answer, isCorrect, selectedSubject || "");
+    setQuestionsAnswered(prev => prev + 1);
     
     // Check free limit
-    if (hasReachedFreeLimit()) {
+    const reachedLimit = await hasReachedFreeLimit();
+    if (reachedLimit) {
       toast.warning("Você atingiu o limite de questões gratuitas!", {
         description: "Faça upgrade para o plano Premium e continue estudando.",
       });
@@ -130,9 +161,9 @@ const Study = () => {
 
           <Card className="mt-6 p-4 bg-muted/50">
             <p className="text-sm text-muted-foreground text-center">
-              💡 <strong>{progress.isPremium ? "Plano Premium" : "Plano Gratuito"}:</strong> 
-              {progress.isPremium ? " Acesso ilimitado" : ` Você tem acesso a até ${FREE_LIMIT} questões`}. 
-              Questões respondidas: <strong>{progress.totalQuestionsAnswered}{progress.isPremium ? "" : `/${FREE_LIMIT}`}</strong>
+              💡 <strong>{isPremium ? "Plano Premium" : "Plano Gratuito"}:</strong> 
+              {isPremium ? " Acesso ilimitado" : ` Você tem acesso a até ${FREE_LIMIT} questões`}. 
+              Questões respondidas: <strong>{questionsAnswered}{isPremium ? "" : `/${FREE_LIMIT}`}</strong>
             </p>
           </Card>
         </main>
@@ -163,13 +194,13 @@ const Study = () => {
               <div>
                 <h1 className="text-lg font-bold text-foreground">{selectedSubject}</h1>
                 <p className="text-xs text-muted-foreground">
-                  Progresso: {progress.totalQuestionsAnswered} questões respondidas
+                  Progresso: {questionsAnswered} questões respondidas
                 </p>
               </div>
             </div>
             <div className="text-right">
               <p className="text-sm font-medium text-foreground">
-                Questões restantes: {progress.isPremium ? "∞" : Math.max(0, FREE_LIMIT - progress.totalQuestionsAnswered)}
+                Questões restantes: {isPremium ? "∞" : Math.max(0, FREE_LIMIT - questionsAnswered)}
               </p>
             </div>
           </div>

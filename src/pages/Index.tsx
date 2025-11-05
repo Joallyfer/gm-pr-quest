@@ -54,7 +54,7 @@ const Index = () => {
           </div>
           <Button 
             className="bg-gradient-primary hover:opacity-90"
-            onClick={() => navigate("/dashboard")}
+            onClick={() => navigate("/auth")}
           >
             Entrar
           </Button>
@@ -76,7 +76,7 @@ const Index = () => {
               <Button 
                 size="lg" 
                 className="bg-white text-primary hover:bg-white/90 shadow-lg"
-                onClick={() => navigate("/dashboard")}
+                onClick={() => navigate("/auth")}
               >
                 Começar Gratuitamente
               </Button>
@@ -183,7 +183,7 @@ const Index = () => {
             <Button 
               size="lg" 
               className="bg-white text-primary hover:bg-white/90"
-              onClick={() => navigate("/dashboard")}
+              onClick={() => navigate("/auth")}
             >
               Criar Conta Grátis
             </Button>
