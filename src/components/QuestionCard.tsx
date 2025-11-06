@@ -5,6 +5,15 @@ import { Button } from "@/components/ui/button";
 import { CheckCircle2, XCircle, AlertCircle } from "lucide-react";
 import { cn } from "@/lib/utils";
 
+const CASCAVEL_READING_TEXT = `PORTUGUÊS
+Pesquisadores podem ter identificado fóssil de menor dinossauro já visto
+Cientistas descreveram na revista Nature o fóssil do menor dinossauro já visto. A evidência foi encontrada dentro de um âmbar (resina de árvores fossilizadas) proveniente do norte de Myanmar. O dinossauro – que se assemelha aos menores pássaros existentes hoje – viveu há cerca de 99 milhões de anos, no período Cretáceo.
+O fóssil era um crânio de 1,5 centímetros de comprimento, tamanho aproximado de uma unha de polegar. Com base nisso, pesquisadores acreditam que o dinossauro, batizado de Oculudentavis khaungraae, tinha o tamanho de um colibri-abelha-cubano – espécie de beija-flor que pesa, no máximo, dois gramas.
+Pode ser que o Oculudentavis tenha relação com outras espécies de dinossauros com penas, como o Archaeopteryx e o Jeholornis (primos distantes dos pássaros modernos). Mas é difícil fazer qualquer afirmação sem evidências do resto de seu corpo. A única certeza é que o fóssil pertence a um dinossauro que morreu na idade adulta. Para concluir isso, cientistas fizeram um exame que indica a maturação do dinossauro, analisando o quanto seus ossos se fundiram.
+O formato do crânio sugere que o dinossauro era um grande caçador de insetos que exercia suas atividades durante o dia. Apesar da cabeça pequena, guardava 40 dentes na mandíbula superior. Além disso, seus olhos enormes eram sustentados por ossos côncavos, parecidos com os de alguns lagartos, e com uma abertura estreita que restringia a entrada abundante de luz, facilitando a busca por alimentos sob o sol.
+São essas características que podem ________ de outras aves e ________ para a família dos dinossauros. Os pesquisadores acreditam que elas surgiram devido à falta de recursos existentes nas ilhas em que viviam, o que causou uma miniaturização evolucionária, ou seja, os Oculudentavis foram ficando pequenininos.
+O âmbar com o fóssil havia sido adquirido em 2016 por um colecionador. Ele notou o fóssil presente e doou a relíquia para o Hupoge Amber Museum, em Tengchong (China). Nas florestas tropicais de Myanmar, paleontologistas já identificaram âmbares contendo insetos, cobras e até pedaços de dinossauros com penas. Nas árvores fossilizadas da região, é possível encontrar os menores habitantes que passaram por lá.`;
+
 interface QuestionCardProps {
   question: Question;
   questionNumber: number;
@@ -48,6 +57,11 @@ export function QuestionCard({
     (key) => question.alternativas[key as keyof typeof question.alternativas]
   );
 
+  // Check if question is Portuguese from Cascavel
+  const isPortugueseCascavel = 
+    question.origem?.cidade === "Cascavel" && 
+    (question.materia === "Língua Portuguesa" || question.materia === "Português");
+
   return (
     <Card className="p-6 border-border">
       {/* Header */}
@@ -65,9 +79,19 @@ export function QuestionCard({
         </div>
       </div>
 
+      {/* Reading Text for Cascavel Portuguese Questions */}
+      {isPortugueseCascavel && (
+        <Card className="mb-6 p-4 bg-muted/50 border-l-4 border-l-primary">
+          <h3 className="font-semibold text-foreground mb-2 text-sm">Texto para leitura:</h3>
+          <div className="text-sm text-foreground leading-relaxed whitespace-pre-line">
+            {CASCAVEL_READING_TEXT}
+          </div>
+        </Card>
+      )}
+
       {/* Question Text */}
       <div className="mb-6">
-        <p className="text-foreground leading-relaxed">{question.enunciado}</p>
+        <p className="text-foreground leading-relaxed font-semibold">{question.enunciado}</p>
       </div>
 
       {/* Alternatives */}
