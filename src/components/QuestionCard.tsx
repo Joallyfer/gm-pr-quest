@@ -14,6 +14,13 @@ O formato do crânio sugere que o dinossauro era um grande caçador de insetos q
 São essas características que podem ________ de outras aves e ________ para a família dos dinossauros. Os pesquisadores acreditam que elas surgiram devido à falta de recursos existentes nas ilhas em que viviam, o que causou uma miniaturização evolucionária, ou seja, os Oculudentavis foram ficando pequenininos.
 O âmbar com o fóssil havia sido adquirido em 2016 por um colecionador. Ele notou o fóssil presente e doou a relíquia para o Hupoge Amber Museum, em Tengchong (China). Nas florestas tropicais de Myanmar, paleontologistas já identificaram âmbares contendo insetos, cobras e até pedaços de dinossauros com penas. Nas árvores fossilizadas da região, é possível encontrar os menores habitantes que passaram por lá.`;
 
+const COLOMBO_READING_TEXT_1_3 = `O nome Krenak é constituído por dois termos: um é a primeira partícula, kre, que significa cabeça, a outra, nak, significa terra. Krenak é a herança que recebemos dos nossos antepassados, das nossas memórias de origem, que nos identifica como "cabeça da terra", como uma humanidade que não consegue se conceber sem essa conexão, sem essa profunda comunhão com a terra. Não a terra como um sítio, mas como esse lugar que todos compartilhamos, e do qual nós, os Krenak, nos sentimos cada vez mais desraigados – desse lugar que para nós sempre foi sagrado, mas que percebemos que nossos vizinhos têm quase vergonha de admitir que pode ser visto assim. Quando nós falamos que o nosso rio é sagrado, as pessoas dizem: "Isso é algum folclore deles"; quando dizemos que a montanha está mostrando que vai chover e que esse dia vai ser um dia próspero, um dia bom, eles dizem: "Não, uma montanha não fala nada". Quando despersonalizamos o rio, a montanha, quando tiramos deles os seus sentidos, considerando que isso é atributo exclusivo dos humanos, nós liberamos esses lugares para que se tornem resíduos da atividade industrial e extrativista. Do nosso divórcio das integrações e interações com a nossa mãe, a Terra, resulta que ela está nos deixando órfãos, não só aos que em diferente graduação são chamados de índios, indígenas ou povos indígenas, mas a todos.`;
+
+const COLOMBO_READING_TEXT_4_6 = `O que é lugar de fala?
+Numa sociedade como a brasileira, de herança escravocrata, pessoas negras vão experenciar racismo do lugar de quem é objeto dessa opressão, do lugar que restringe oportunidades por conta desse sistema de opressão. Pessoas brancas vão experenciar do lugar de quem se beneficia dessa mesma opressão. Logo, ambos os grupos podem e devem discutir essas questões, mas falarão de lugares distintos. Estamos dizendo, principalmente, que queremos e reivindicamos que a história sobre a escravidão no Brasil seja contada por nossas perspectivas também e não somente pela perspectiva de quem venceu, para parafrasear Walter Benjamin, em Teses sobre o conceito de história. Estamos apontando para a importância de quebra de um sistema vigente que invisibiliza essas narrativas.`;
+
+const COLOMBO_READING_TEXT_7_8 = `Pajem do sinhô-moço, escravo do sinhô-moço, tudo do sinhô-moço, nada do sinhô-moço. Um dia o coronelzinho, que já sabia ler, ficou curioso para ver se negro aprendia os sinais, as letras de branco e começou a ensinar o pai de Ponciá. O menino respondeu logo ao ensinamento do distraído mestre. Em pouco tempo reconhecia todas as letras. Quando sinhô-moço se certificou que o negro aprendia, parou a brincadeira. Negro aprendia sim! Mas o que o negro ia fazer com o saber de branco? O pai de Ponciá Vicêncio, em matéria de livros e letras, nunca foi além daquele saber.`;
+
 interface QuestionCardProps {
   question: Question;
   questionNumber: number;
@@ -57,10 +64,28 @@ export function QuestionCard({
     (key) => question.alternativas[key as keyof typeof question.alternativas]
   );
 
-  // Check if question is Portuguese from Cascavel
+  // Check if question is Portuguese from Cascavel or Colombo
   const isPortugueseCascavel = 
     question.origem?.cidade === "Cascavel" && 
     (question.materia === "Língua Portuguesa" || question.materia === "Português");
+
+  const isPortugueseCombo = 
+    question.origem?.cidade === "Colombo" && 
+    (question.materia === "Língua Portuguesa" || question.materia === "Português");
+
+  // Get reading text for Colombo based on question number
+  const getColomboReadingText = () => {
+    if (!isPortugueseCombo) return null;
+    const num = question.numero;
+    if (num >= 1 && num <= 3) return COLOMBO_READING_TEXT_1_3;
+    if (num >= 4 && num <= 6) return COLOMBO_READING_TEXT_4_6;
+    if (num >= 7 && num <= 8) return COLOMBO_READING_TEXT_7_8;
+    return null;
+  };
+
+  const readingText = isPortugueseCascavel 
+    ? CASCAVEL_READING_TEXT 
+    : getColomboReadingText();
 
   return (
     <Card className="p-6 border-border">
@@ -79,12 +104,12 @@ export function QuestionCard({
         </div>
       </div>
 
-      {/* Reading Text for Cascavel Portuguese Questions */}
-      {isPortugueseCascavel && (
+      {/* Reading Text for Portuguese Questions */}
+      {readingText && (
         <Card className="mb-6 p-4 bg-muted/50 border-l-4 border-l-primary">
           <h3 className="font-semibold text-foreground mb-2 text-sm">Texto para leitura:</h3>
           <div className="text-sm text-foreground leading-relaxed whitespace-pre-line">
-            {CASCAVEL_READING_TEXT}
+            {readingText}
           </div>
         </Card>
       )}
